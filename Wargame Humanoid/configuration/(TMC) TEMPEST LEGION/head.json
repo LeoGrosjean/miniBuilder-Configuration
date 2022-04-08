@@ -3,7 +3,6 @@
         "desc": {
             "display": "Tempest Legion",
             "path": "Wargame Humanoid/head/Tempest Legion/",
-            "bitz": true,
             "nodes": [
                 "head"
             ]
