@@ -1877,7 +1877,10 @@
     "TL - Mk3 Heavy": {
         "desc": {
             "display": "TL - Mk3 Heavy",
-            "path": "Wargame Humanoid/arm/TL - Mk3 Heavy/"
+            "path": "Wargame Humanoid/arm/TL - Mk3 Heavy/",
+            "nodes": [
+                "arm"
+            ]
         },
         "stl": {
             "Combat Fist 4": {
