@@ -1,0 +1,599 @@
+{
+    "Tempest Legion": {
+        "desc": {
+            "display": "Tempest Legion",
+            "path": "Wargame Humanoid/body/Tempest Legion/",
+            "nodes": [
+                "body"
+            ]
+        },
+        "stl": {
+            "Basic Troops - Torso 1": {
+                "file": "TL - Torso 1.OBJ",
+                "designer": "Garin",
+                "md5": "f92e7539892bd6204099325b4af600dc",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-basic-troops/"
+                ],
+                "arm": {
+                    "right": {
+                        "facet": 17
+                    },
+                    "left": {
+                        "facet": 16
+                    }
+                },
+                "head": {
+                    "vertex": 995
+                },
+                "backpack": {
+                    "vertex": 21795
+                },
+                "leg": {
+                    "facet": 18
+                },
+                "support": {
+                    "file": "TL - Torso 1 - Supported.OBJ",
+                    "md5": "a3fc6923cff66a0403c77d46be3e6c43"
+                }
+            },
+            "Heavy Cataclysm - 1": {
+                "file": "TLHI - Torso 1.OBJ",
+                "designer": "Garin",
+                "md5": "e45f0d1e4187939e44027a48b6f9df48",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-heavy-infantry/"
+                ],
+                "arm": {
+                    "right": {
+                        "facet": 22
+                    },
+                    "left": {
+                        "facet": 6
+                    }
+                },
+                "head": {
+                    "vertex": 13638
+                },
+                "leg": {
+                    "facet": 9
+                },
+                "support": {
+                    "file": "TLHI - Torso 1 - Supported.OBJ",
+                    "md5": "2b7cf3025e643c496a3c6ca12ea35d2c"
+                }
+            },
+            "Heavy Cataclysm - 2": {
+                "file": "TLHI - Torso 2.OBJ",
+                "designer": "Garin",
+                "md5": "620b14a2b30e1168d93c7439c61d871c",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-heavy-infantry/"
+                ],
+                "head": {
+                    "vertex": 2162
+                },
+                "arm": {
+                    "right": {
+                        "facet": 0
+                    },
+                    "left": {
+                        "facet": 12
+                    }
+                },
+                "leg": {
+                    "vertex": 12235
+                },
+                "support": {
+                    "file": "TLHI - Torso 2 - Supported.OBJ",
+                    "md5": "6617cf078415b84d540c81d7ca9e86f7"
+                }
+            },
+            "Heavy Cataclysm - 3": {
+                "file": "TLHI - Torso 3.OBJ",
+                "designer": "Garin",
+                "md5": "dd7f51ec82aeb27d6ad34855daeaff6d",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-heavy-infantry/"
+                ],
+                "head": {
+                    "vertex": 5336
+                },
+                "arm": {
+                    "right": {
+                        "facet": 4
+                    },
+                    "left": {
+                        "facet": 2
+                    }
+                },
+                "leg": {
+                    "facet": 1
+                },
+                "support": {
+                    "file": "TLHI - Torso 3 - Supported.OBJ",
+                    "md5": "9fbafb09c869e7c1773d8f65e0497bd5"
+                }
+            },
+            "Mk3 - 1": {
+                "file": "TL3 - Torso 1.obj",
+                "designer": "Garin",
+                "md5": "2ff471d4e795eb9ee29a70b0740ecf0e",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-mk3-troops/"
+                ],
+                "backpack": {
+                    "facet": 133
+                },
+                "arm": {
+                    "right": {
+                        "facet": 103
+                    },
+                    "left": {
+                        "facet": 73
+                    }
+                },
+                "leg": {
+                    "facet": 70
+                },
+                "head": {
+                    "vertex": 7675
+                },
+                "support": {
+                    "file": "TL3 - Torso 1 - Supported.obj",
+                    "md5": "ade4074ed2059582f8eaaa6d4bb99760"
+                }
+            },
+            "Champion": {
+                "file": "TL - Champion - Torso.OBJ",
+                "designer": "Garin",
+                "md5": "dbea7854eebe470716af1f0e61fb5b0e",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-champion/"
+                ],
+                "backpack": {
+                    "facet": 1462
+                },
+                "arm": {
+                    "right": {
+                        "facet": 9
+                    },
+                    "left": {
+                        "facet": 18
+                    }
+                },
+                "leg": {
+                    "facet": 14
+                },
+                "head": {
+                    "vertex": 24618
+                },
+                "support": {
+                    "file": "TL - Champion - Torso - Supported.OBJ",
+                    "md5": "08cf4c4b3301d613f21e75d9afe37b62"
+                }
+            },
+            "Psychic 1": {
+                "file": "TL - Torso - PSY.OBJ",
+                "designer": "Garin",
+                "urls": [
+                    "https://comicsgamesandthings.com/"
+                ],
+                "md5": "ca94ca3eb7863dd9d10f0502eba0570f",
+                "arm": {
+                    "left": {
+                        "facet": 7
+                    },
+                    "right": {
+                        "facet": 100
+                    }
+                },
+                "leg": {
+                    "facet": 439
+                },
+                "backpack": {
+                    "vertex": 21300
+                },
+                "head": {
+                    "vertex": 20983
+                }
+            },
+            "Medic 1": {
+                "file": "TL - Medic - Torso.OBJ",
+                "designer": "Garin",
+                "md5": "18596f072bcde59e234ffa31fe8fac9d",
+                "arm": {
+                    "left": {
+                        "facet": 2
+                    },
+                    "right": {
+                        "facet": 3
+                    }
+                },
+                "backpack": {
+                    "vertex": 23476
+                },
+                "leg": {
+                    "facet": 0
+                },
+                "head": {
+                    "vertex": 6828
+                }
+            },
+            "Captain with legs": {
+                "file": "TL - Cap 1 - Body.obj",
+                "designer": "Garin",
+                "md5": "21e8cb5374ad00c142a18aca7b95988e",
+                "arm": {
+                    "left": {
+                        "facet": 0
+                    },
+                    "right": {
+                        "facet": 75
+                    }
+                },
+                "backpack": {
+                    "vertex": 6740
+                },
+                "head": {
+                    "vertex": 38393
+                }
+            },
+            "Heavy Cronus - Main Body 1": {
+                "file": "TLHI - Cronus - Pose 1 - Main Body.obj",
+                "designer": "Garin",
+                "md5": "bd70e42a233506fb297d945353f6ff81",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-heavy-infantry/"
+                ],
+                "support": {
+                    "file": "TLHI - Cronus - Pose 1 - Main Body - Supported.OBJ",
+                    "md5": "534799094c0ac6d4beee7f21cab45a2f"
+                },
+                "leg": {
+                    "facet": 38
+                },
+                "arm": {
+                    "right": {
+                        "facet": 63
+                    },
+                    "left": {
+                        "facet": 34
+                    }
+                }
+            },
+            "Heavy Cronus - Main Body 2": {
+                "file": "TLHI - Cronus - Pose 2 - Main Body.obj",
+                "designer": "Garin",
+                "md5": "a32deca063f918d2e40ecef53aac3f99",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-heavy-infantry/"
+                ],
+                "support": {
+                    "file": "TLHI - Cronus - Pose 2 - Main Body - Supported.OBJ",
+                    "md5": "8bbe44434ab098e03541ca4677738570"
+                },
+                "leg": {
+                    "facet": 64
+                },
+                "arm": {
+                    "right": {
+                        "facet": 42
+                    },
+                    "left": {
+                        "facet": 62
+                    }
+                }
+            },
+            "Heavy Cronus - Main Body 3": {
+                "file": "TLHI - Cronus - Pose 3 - Main Body.obj",
+                "designer": "Garin",
+                "md5": "e19faaba8c62ccaec0537f37dc4c8be0",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-heavy-infantry/"
+                ],
+                "support": {
+                    "file": "TLHI - Cronus - Pose 3 - Main Body - Supported.OBJ",
+                    "md5": "d666ab5615606daacff4b79e7207e499"
+                },
+                "leg": {
+                    "facet": 57
+                },
+                "arm": {
+                    "right": {
+                        "facet": 145
+                    },
+                    "left": {
+                        "facet": 84
+                    }
+                }
+            },
+            "Heavy Cronus - Main Body 4": {
+                "file": "TLHI - Cronus - Pose 4 - Main Body.obj",
+                "designer": "Garin",
+                "md5": "687e17cfed0d2305f9673849b061a7b9",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-heavy-infantry/"
+                ],
+                "support": {
+                    "file": "TLHI - Cronus - Pose 4 - Main Body - Supported.OBJ",
+                    "md5": "bb30ff0e8c8d813c78e68ac9f1c5db7c"
+                },
+                "leg": {
+                    "facet": 13
+                },
+                "arm": {
+                    "right": {
+                        "facet": 30
+                    },
+                    "left": {
+                        "facet": 29
+                    }
+                }
+            },
+            "Heavy Cronus - Main Body 5": {
+                "file": "TLHI - Cronus - Pose 5 - Main Body.obj",
+                "designer": "Garin",
+                "md5": "4c872507da8ec347b79dc9dba95c6e8f",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-heavy-infantry/"
+                ],
+                "support": {
+                    "file": "TLHI - Cronus - Pose 5 - Main Body - Supported.OBJ",
+                    "md5": "fac51d61aca05ad639f5741612951a4c"
+                },
+                "leg": {
+                    "facet": 100
+                },
+                "arm": {
+                    "right": {
+                        "facet": 98
+                    },
+                    "left": {
+                        "facet": 59
+                    }
+                }
+            },
+            "Jetbike - Machinegun": {
+                "file": "TL2 - Jetbike - Machinegun - Hollow.obj",
+                "designer": "Garin",
+                "md5": "909a3159116842e14b705bd3a63851d5",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-jetbike/"
+                ],
+                "support": {
+                    "file": "TL2 - Jetbike - Machinegun - Hollow - Supported.OBJ",
+                    "md5": "4a28815ec3b2ef424418b9f568cf20e0"
+                },
+                "arm": {
+                    "left": {
+                        "facet": 3834
+                    },
+                    "right": {
+                        "facet": 148
+                    }
+                },
+                "backpack": {
+                    "vertex": 18922
+                },
+                "head": {
+                    "face": 41182
+                }
+            },
+            "Jetbike - Not Hollowed": {
+                "file": "TL2 - Jetbike - Machinegun.obj",
+                "designer": "Garin",
+                "md5": "460d9a4943a13b7a415552fb5ff56b68",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-jetbike/"
+                ],
+                "arm": {
+                    "right": {
+                        "facet": 143
+                    },
+                    "left": {
+                        "facet": 375
+                    }
+                },
+                "backpack": {
+                    "vertex": 91878
+                },
+                "head": {
+                    "vertex": 39132
+                }
+            },
+            "Jetbike - No Weapons": {
+                "file": "TL2 - Jetbike - No Weapons - Hollow.obj",
+                "designer": "Garin",
+                "md5": "75640c931ec07d42459921c5bb44a71a",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-jetbike/"
+                ],
+                "support": {
+                    "file": "TL2 - Jetbike - No Weapons - Hollow - Supported.OBJ",
+                    "md5": "283381c8df62506b70fdc6e2e9c20c18"
+                },
+                "arm": {
+                    "left": {
+                        "facet": 368
+                    },
+                    "right": {
+                        "facet": 217
+                    }
+                },
+                "head": {
+                    "vertex": 94584
+                },
+                "backpack": {
+                    "vertex": 35852
+                }
+            },
+            "Jetbike - No Weapons - Not Hollowed": {
+                "file": "TL2 - Jetbike - No Weapons.obj",
+                "designer": "Garin",
+                "md5": "ed8bf4141d5447097ddd8fbffda50225",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-jetbike/"
+                ],
+                "arm": {
+                    "right": {
+                        "facet": 335
+                    },
+                    "left": {
+                        "facet": 364
+                    }
+                },
+                "backpack": {
+                    "vertex": 2154
+                },
+                "head": {
+                    "vertex": 75300
+                },
+                "bitzs": {
+                    "missil pod": {
+                        "face": 128175
+                    }
+                }
+            },
+            "Void Legionaries - Torso 1": {
+                "file": "TL - Torso 4.obj",
+                "designer": "Garin",
+                "md5": "785b749dc1516c033edb8aac0b6385f5",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-void-legionaries/"
+                ],
+                "support": {
+                    "file": "TL - Torso 4 - Supported.OBJ",
+                    "md5": "8e49de7954d917076e2315c43d320e6a"
+                },
+                "head": {
+                    "vertex": 10688
+                },
+                "arm": {
+                    "left": {
+                        "facet": 12
+                    },
+                    "right": {
+                        "facet": 13
+                    }
+                },
+                "backpack": {
+                    "vertex": 21505
+                },
+                "leg": {
+                    "facet": 18
+                }
+            },
+            "Void Legionaries - Torso 2": {
+                "file": "TL - Torso 4b.obj",
+                "designer": "Garin",
+                "md5": "a82257cc1f11d63da5d6f95ef619d31e",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-void-legionaries/"
+                ],
+                "support": {
+                    "file": "TL - Torso 4b - Supported.OBJ",
+                    "md5": "87c1c0ac38939dfb892a82abcf8f0823"
+                },
+                "head": {
+                    "vertex": 19338
+                },
+                "arm": {
+                    "left": {
+                        "facet": 9
+                    },
+                    "right": {
+                        "facet": 10
+                    }
+                },
+                "leg": {
+                    "facet": 16
+                },
+                "backpack": {
+                    "vertex": 497
+                }
+            },
+            "Mk3 Heavy - Slim 1": {
+                "file": "TL3H - Torso 1 - Slim.obj",
+                "designer": "Garin",
+                "md5": "2b81513dbb9148a9de6284c2dd684509",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-mk3-heavy-infantry/"
+                ],
+                "support": {
+                    "file": "TL3H - Torso 1 - Slim - Supported.obj",
+                    "md5": "ee21223a5c897967797d5be100e30e18"
+                },
+                "head": {
+                    "vertex": 33207
+                },
+                "arm": {
+                    "left": {
+                        "facet": 105
+                    },
+                    "right": {
+                        "facet": 96
+                    }
+                },
+                "leg": {
+                    "facet": 93
+                }
+            },
+            "Mk3 Heavy - 1": {
+                "file": "TL3H - Torso 1.obj",
+                "designer": "Garin",
+                "md5": "a3e3d921f210e7bdcd632f7197e72081",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-mk3-heavy-infantry/"
+                ],
+                "support": {
+                    "file": "TL3H - Torso 1 - Supported.obj",
+                    "md5": "1dd18f204db09a2859c4ede8830cc4fb"
+                },
+                "head": {
+                    "vertex": 13061
+                },
+                "arm": {
+                    "left": {
+                        "facet": 103
+                    },
+                    "right": {
+                        "facet": 94
+                    }
+                },
+                "leg": {
+                    "facet": 91
+                }
+            },
+            "Command - 1": {
+                "file": "TL3 - Torso 2 - Command.obj",
+                "designer": "Garin",
+                "md5": "e309f044b3e8274bf36d9694dafafbf0",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-duelists/"
+                ],
+                "support": {
+                    "file": "TL3 - Torso 2 - Command - Supported.obj",
+                    "md5": "7a84f4292d851da40b721149564290ab"
+                },
+                "head": {
+                    "vertex": 1116
+                },
+                "arm": {
+                    "left": {
+                        "facet": 21
+                    },
+                    "right": {
+                        "facet": 22
+                    }
+                },
+                "leg": {
+                    "facet": 15
+                },
+                "backpack": {
+                    "facet": 50
+                }
+            }
+        }
+    }
+}

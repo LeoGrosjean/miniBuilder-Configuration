@@ -1,0 +1,2397 @@
+{
+    "TL - Basic Troops": {
+        "desc": {
+            "display": "Tempest Legion",
+            "path": "Wargame Humanoid/arm/TL - Basic Troops/",
+            "nodes": [
+                "arm"
+            ]
+        },
+        "stl": {
+            "Chain Axe 3": {
+                "file": "TL - Left Arm - Chain Axe 3.OBJ",
+                "designer": "Garin",
+                "md5": "b9ea60026eb54342563f6dde62eb95ee",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-basic-troops/"
+                ],
+                "dextral": "left",
+                "arm": {
+                    "vertex": 4209
+                },
+                "bitzs": {
+                    "Shoulder": {
+                        "vertex": 2960
+                    }
+                },
+                "support": {
+                    "file": "TL - Left Arm - Chain Axe 3 - Supported.OBJ",
+                    "md5": "9951fa0a0a22abf28bd10da94ce793f7"
+                }
+            },
+            "Power Axe 1": {
+                "file": "TL - Left Arm - Power Axe 1.OBJ",
+                "designer": "Garin",
+                "md5": "6ed3199a96abc95f63b20b0318950d49",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-basic-troops/"
+                ],
+                "dextral": "left",
+                "arm": {
+                    "facet": 20
+                },
+                "support": {
+                    "file": "TL - Left Arm - Power Axe 1 - Supported.OBJ",
+                    "md5": "485fe2ce8547d41282d76d75dd43b1fb"
+                }
+            },
+            "Gunaxe 1": {
+                "file": "TL - Left Arm - Gunaxe 1.OBJ",
+                "designer": "Garin",
+                "md5": "35dc86c72b2efab70c0e9e06848bd49d",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-basic-troops/"
+                ],
+                "dextral": "left",
+                "arm": {
+                    "facet": 52
+                },
+                "support": {
+                    "file": "TL - Left Arm - Gunaxe 1 - Supported.OBJ",
+                    "md5": "7d154d3fd4410f83a96c3c43237d0aa1"
+                }
+            },
+            "Pistol 1": {
+                "file": "TL - Left Arm - Pistol 1.OBJ",
+                "designer": "Garin",
+                "md5": "471b761f98329198113c6d18291f5721",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-basic-troops/"
+                ],
+                "dextral": "left",
+                "arm": {
+                    "facet": 18
+                },
+                "support": {
+                    "file": "TL - Left Arm - Pistol 1 - Supported.OBJ",
+                    "md5": "c51639cc8776ac62839250eccffdb02e"
+                }
+            },
+            "Pistol 3": {
+                "file": "TL - Left Arm - Pistol 3.OBJ",
+                "designer": "Garin",
+                "md5": "d717de37fe9e680727138f497c4d162a",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-basic-troops/"
+                ],
+                "dextral": "left",
+                "arm": {
+                    "facet": 16
+                },
+                "support": {
+                    "file": "TL - Left Arm - Pistol 3 - Supported.OBJ",
+                    "md5": "a03e3f4d01eeda4aa6b9df144bd7211a"
+                }
+            },
+            "Pistol 4": {
+                "file": "TL - Left Arm - Pistol 4.OBJ",
+                "designer": "Garin",
+                "md5": "cef4bc5e1da59e4ef20d31a677d25ba8",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-basic-troops/"
+                ],
+                "dextral": "left",
+                "arm": {
+                    "facet": 4
+                },
+                "support": {
+                    "file": "TL - Left Arm - Pistol 4 - Supported.OBJ",
+                    "md5": "ba9824393daf01a510a79fcc540992ca"
+                }
+            },
+            "Power Axe 2": {
+                "file": "TL - Left Arm - Power Axe 2.OBJ",
+                "designer": "Garin",
+                "md5": "030ee305c31a5dcce978077201f3c635",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-basic-troops/"
+                ],
+                "dextral": "left",
+                "arm": {
+                    "facet": 5
+                },
+                "support": {
+                    "file": "TL - Left Arm - Power Axe 2 - Supported.OBJ",
+                    "md5": "6e85e90cd7cbe6fb254fb2379bb39a9b"
+                }
+            },
+            "Power Fist 1": {
+                "file": "TL - Left Arm - Power Fist 1.OBJ",
+                "designer": "Garin",
+                "md5": "765a3b5f4a898d3cc6a805621bcb5a05",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-basic-troops/"
+                ],
+                "dextral": "left",
+                "arm": {
+                    "facet": 79
+                },
+                "support": {
+                    "file": "TL - Left Arm - Power Fist 1 - Supported.OBJ",
+                    "md5": "a881bc0e8e3858cb52c9ef4a7999bf17"
+                }
+            },
+            "At Ease": {
+                "file": "TL - Right Arm - At Ease.OBJ",
+                "designer": "Garin",
+                "md5": "bb3a2ac985548966ba04e9a4f4658056",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-basic-troops/"
+                ],
+                "dextral": "right",
+                "arm": {
+                    "vertex": 3331
+                },
+                "support": {
+                    "file": "TL - Right Arm - At Ease - Supported.OBJ",
+                    "md5": "f486811809985e41713aa6c4832a6d25"
+                }
+            },
+            "Banner": {
+                "file": "TL - Right Arm - Banner.OBJ",
+                "designer": "Garin",
+                "md5": "dcb3416e88d6bc6751ef0a0282ee6319",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-basic-troops/"
+                ],
+                "dextral": "right",
+                "arm": {
+                    "vertex": 9759
+                },
+                "support": {
+                    "file": "TL - Right Arm - Banner - Supported.OBJ",
+                    "md5": "14d98b10704142b104978f7a1f42ff26"
+                }
+            },
+            "Chain Axe 1": {
+                "file": "TL - Right Arm - Chain Axe 1.OBJ",
+                "designer": "Garin",
+                "md5": "04fbff4e904346110a50df041b27e9a9",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-basic-troops/"
+                ],
+                "dextral": "right",
+                "arm": {
+                    "vertex": 1031
+                },
+                "support": {
+                    "file": "TL - Right Arm - Chain Axe 1 - Supported.OBJ",
+                    "md5": "b6f84fc983fbc925652f51ccf0a86ac6"
+                }
+            },
+            "Chain Axe 2": {
+                "file": "TL - Right Arm - Chain Axe 2.OBJ",
+                "designer": "Garin",
+                "md5": "d630111b0929ffaa4262e0d1bfde08ec",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-basic-troops/"
+                ],
+                "dextral": "right",
+                "arm": {
+                    "facet": 90
+                },
+                "support": {
+                    "file": "TL - Right Arm - Chain Axe 2 - Supported.OBJ",
+                    "md5": "94526fbd85a195eab571d21ace5d79e2"
+                }
+            },
+            "Grenade 1": {
+                "file": "TL - Right Arm - Grenade 1.OBJ",
+                "designer": "Garin",
+                "md5": "0e9232c50118ab3267fdab4776dffbaf",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-basic-troops/"
+                ],
+                "dextral": "right",
+                "arm": {
+                    "facet": 0
+                },
+                "support": {
+                    "file": "TL - Right Arm - Grenade 1 - Supported.OBJ",
+                    "md5": "ddc3c68df30db378651ac88088a522b3"
+                }
+            },
+            "Hammer 1": {
+                "file": "TL - Right Arm - Hammer 1.obj",
+                "designer": "Garin",
+                "md5": "3ecea7c71337e9ae76101bcd754335a0",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-basic-troops/"
+                ],
+                "dextral": "right",
+                "arm": {
+                    "facet": 70
+                },
+                "support": {
+                    "file": "TL - Right Arm - Hammer 1 - Supported.OBJ",
+                    "md5": "bf320c8d6f4d359ff533f9ddb50954a5"
+                }
+            },
+            "Pistol 2": {
+                "file": "TL - Right Arm - Pistol 2.OBJ",
+                "designer": "Garin",
+                "md5": "4408a550b6e2f70121e5b19306267901",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-basic-troops/"
+                ],
+                "dextral": "right",
+                "arm": {
+                    "facet": 35
+                },
+                "support": {
+                    "file": "TL - Right Arm - Pistol 2 - Supported.OBJ",
+                    "md5": "b343a3bc487d8320e26350f1e0e3783c"
+                }
+            },
+            "Slug Gun 1": {
+                "file": "TL - Right Arm - Slug Gun 1.obj",
+                "designer": "Garin",
+                "md5": "54a26768d9237e78c07d69952d62bea5",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-basic-troops/"
+                ],
+                "dextral": "right",
+                "arm": {
+                    "vertex": 8281
+                },
+                "support": {
+                    "file": "TL - Right Arm - Slug Gun 1 - Supported.OBJ",
+                    "md5": "91d4fb515e912be9e32c9ad8a3e91aa1"
+                }
+            },
+            "Pistol 3b": {
+                "file": "TL - Right Arm - Pistol 3.OBJ",
+                "designer": "Garin",
+                "md5": "c66626ad5112fe49c54fe6a1f4f3e298",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-basic-troops/"
+                ],
+                "dextral": "right",
+                "arm": {
+                    "facet": 34
+                },
+                "support": {
+                    "file": "TL - Right Arm - Pistol 3 - Supported.OBJ",
+                    "md5": "e16ab8305b01a4e4b507ec5375abf850"
+                }
+            },
+            "Sniper - At Ease": {
+                "file": "TL - Arm R - At Ease.obj",
+                "designer": "Garin",
+                "md5": "5b713eb52774ad281f84e41d2d6155f9",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-heavy-snipers/"
+                ],
+                "support": {
+                    "file": "TL - Arm R - At Ease - Supported.obj",
+                    "md5": "d09608c3baee72bcf6c71e4490a28748"
+                },
+                "dextral": "right",
+                "arm": {
+                    "facet": 1085
+                }
+            },
+            "LR Sniper - Heavy Rifle": {
+                "file": "TL - Heavy Sniper Rifle - LR.obj",
+                "designer": "Garin",
+                "md5": "b4c41b0f47257806a5a6c85ef0d481d2",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-heavy-snipers/"
+                ],
+                "support": {
+                    "file": "TL - Heavy Sniper Rifle - LR - Supported.obj",
+                    "md5": "3dd1e93f20c2c3b2bf11b79267ac8f7a"
+                },
+                "dextral": "right",
+                "arm": {
+                    "facet": 6
+                }
+            },
+            "Sniper - Spotter Arm": {
+                "file": "TL - Spotter arm - L.obj",
+                "designer": "Garin",
+                "md5": "f0ccb742c0cfc86f3a9ac6fb46378c2e",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-heavy-snipers/"
+                ],
+                "support": {
+                    "file": "TL - Spotter arm - L - Supported.obj",
+                    "md5": "0a10b852b2a9eb3083cf192bb34e1f78"
+                },
+                "dextral": "left",
+                "arm": {
+                    "facet": 78
+                }
+            },
+            "Sniper - Spotter Gun": {
+                "file": "TL - Spotter arm - R.obj",
+                "designer": "Garin",
+                "md5": "75ee2da370dbaed815751124f6ffef7c",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-heavy-snipers/"
+                ],
+                "support": {
+                    "file": "TL - Spotter arm - R - Supported.obj",
+                    "md5": "4d8614a0e77abc15047915500cd86f97"
+                },
+                "dextral": "right",
+                "arm": {
+                    "facet": 13
+                }
+            },
+            "Jetbike - Lance": {
+                "file": "TL2 - Jetbike - Left Arm - Lance.obj",
+                "designer": "Garin",
+                "md5": "bbc479b51f67bc5aede0be1fcabd06f7",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-jetbike/"
+                ],
+                "support": {
+                    "file": "TL2 - Jetbike - Left Arm - Lance - Supported.OBJ",
+                    "md5": "2177129e126a79318fa293180fd7ad62"
+                },
+                "dextral": "left",
+                "arm": {
+                    "facet": 23
+                }
+            },
+            "Jetbike - Handlebar": {
+                "file": "TL2 - Jetbike - Right Arm.obj",
+                "designer": "Garin",
+                "md5": "9b70b76971a2a8622df43af572295a25",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-jetbike/"
+                ],
+                "support": {
+                    "file": "TL2 - Jetbike - Right Arm - Supported.OBJ",
+                    "md5": "84b6c051a795087cb23f51012f2d3149"
+                },
+                "dextral": "right",
+                "arm": {
+                    "facet": 0
+                }
+            },
+            "Swordsworn Shield 1": {
+                "file": "BK - Swordsworn - Left Arm 1 - Shield 3.OBJ",
+                "designer": "Garin",
+                "md5": "e517ecf98416386f7c5bca1f92a07bce",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-void-legionaries/"
+                ],
+                "support": {
+                    "file": "BK - Swordsworn - Left Arm 1 - Shield 3 - Supported.OBJ",
+                    "md5": "6f5fb3f85720702dadb81ab6918a1878"
+                },
+                "dextral": "left",
+                "arm": {
+                    "facet": 20
+                }
+            },
+            "Swordsworn Shield 2": {
+                "file": "BK - Swordsworn - Left Arm 2 - Shield 3.obj",
+                "designer": "Garin",
+                "md5": "0130e150de4eda2b9e542bd39ecaeba0",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-void-legionaries/"
+                ],
+                "support": {
+                    "file": "BK - Swordsworn - Left Arm 2 - Shield 3 - Supported.OBJ",
+                    "md5": "e5658d17612520bda63161bda17f48da"
+                },
+                "dextral": "left",
+                "arm": {
+                    "facet": 24
+                }
+            },
+            "Swordsworn Shield 3": {
+                "file": "BK - Swordsworn - Left Arm 3 - Shield 3.OBJ",
+                "designer": "Garin",
+                "md5": "a65a63b8103943599555add6c37c3c2e",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-void-legionaries/"
+                ],
+                "support": {
+                    "file": "BK - Swordsworn - Left Arm 3 - Shield 3 - Supported.OBJ",
+                    "md5": "a7fc8b10996adf07941bc9ef271c5d87"
+                },
+                "dextral": "left",
+                "arm": {
+                    "facet": 33
+                }
+            },
+            "Swordsworn Shield 4": {
+                "file": "BK - Swordsworn - Left Arm 4 - Shield 3.obj",
+                "designer": "Garin",
+                "md5": "bd572795b4c4b863639f7d0e73294e32",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-void-legionaries/"
+                ],
+                "support": {
+                    "file": "BK - Swordsworn - Left Arm 4 - Shield 3 - Supported.OBJ",
+                    "md5": "cc5be6a2709eb75562a312c53a747115"
+                },
+                "dextral": "left",
+                "arm": {
+                    "facet": 16
+                }
+            },
+            "Swordsworn Shield 5": {
+                "file": "BK - Swordsworn - Left Arm 5 - Shield 3.obj",
+                "designer": "Garin",
+                "md5": "66dabfd9b98febc2df00277d47f10d0f",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-void-legionaries/"
+                ],
+                "support": {
+                    "file": "BK - Swordsworn - Left Arm 5 - Shield 3 - Supported.OBJ",
+                    "md5": "b69b6603440529921525a796a44a99e3"
+                },
+                "dextral": "left",
+                "arm": {
+                    "face": 7693
+                }
+            },
+            "Void - Combi Plasma Gun 1": {
+                "file": "TL - Right Arm - Combi Plasma Gun 1.obj",
+                "designer": "Garin",
+                "md5": "1ee221961ca5bfa569146e13f45da7c5",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-void-legionaries/"
+                ],
+                "support": {
+                    "file": "TL - Right Arm - Combi Plasma Gun 1 - Supported.OBJ",
+                    "md5": "ace7b74dee812a8f7d775a12c0b76f1a"
+                },
+                "dextral": "right",
+                "arm": {
+                    "facet": 33
+                }
+            },
+            "Void - Disintegration Gun 1": {
+                "file": "TL - Right Arm - Disintegration Gun 1.OBJ",
+                "designer": "Garin",
+                "md5": "a69b7774394df12cc28c1b3d33dffba0",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-void-legionaries/"
+                ],
+                "support": {
+                    "file": "TL - Right Arm - Disintegration Gun 1 - Supported.OBJ",
+                    "md5": "57d5c4f8f92f5047c4e679345ae7a64c"
+                },
+                "dextral": "right",
+                "arm": {
+                    "facet": 33
+                }
+            },
+            "Void - Slug Rifle 1": {
+                "file": "TL - Right Arm - Slug Rifle 1.OBJ",
+                "designer": "Garin",
+                "md5": "ce40563f0d5bf4e11f2a074805775e4c",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-void-legionaries/"
+                ],
+                "support": {
+                    "file": "TL - Right Arm - Slug Rifle 1 - Supported.OBJ",
+                    "md5": "597f3f407c11b8bd7c713bfef399423e"
+                },
+                "dextral": "right",
+                "arm": {
+                    "facet": 39
+                }
+            },
+            "Void - Slug Rifle 2": {
+                "file": "TL - Right Arm - Slug Rifle 2.obj",
+                "designer": "Garin",
+                "md5": "3e3d699679211f9495ec7c6b6229ac96",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-void-legionaries/"
+                ],
+                "support": {
+                    "file": "TL - Right Arm - Slug Rifle 2 - Supported.OBJ",
+                    "md5": "27e562409ea98399f58725e2dea253d9"
+                },
+                "dextral": "right",
+                "arm": {
+                    "facet": 54
+                }
+            },
+            "Void - Slug Rifle 3": {
+                "file": "TL - Right Arm - Slug Rifle 3.obj",
+                "designer": "Garin",
+                "md5": "8b584adfb2cfe0a0d07dae2c9b9e55c5",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-void-legionaries/"
+                ],
+                "support": {
+                    "file": "TL - Right Arm - Slug Rifle 3 - Supported.OBJ",
+                    "md5": "0d52aa1e1d05b07971af78a2f56e3aaf"
+                },
+                "dextral": "right",
+                "arm": {
+                    "facet": 61
+                }
+            },
+            "Void - Slug Rifle 4": {
+                "file": "TL - Right Arm - Slug Rifle 4.OBJ",
+                "designer": "Garin",
+                "md5": "3d9c9898a088f0ed2898d933bdfe3a0b",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-void-legionaries/"
+                ],
+                "support": {
+                    "file": "TL - Right Arm - Slug Rifle 4 - Supported.OBJ",
+                    "md5": "e8c72cf86dda0ce07252149ff62f34eb"
+                },
+                "dextral": "right",
+                "arm": {
+                    "facet": 128
+                }
+            },
+            "Void - Slug Rifle 5": {
+                "file": "TL - Right Arm - Slug Rifle 5.OBJ",
+                "designer": "Garin",
+                "md5": "d69af2e723c5668a410e82da2d99ce8b",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-void-legionaries/"
+                ],
+                "support": {
+                    "file": "TL - Right Arm - Slug Rifle 5 - Supported.OBJ",
+                    "md5": "a650a7add77803d9b007d490a855f3e1"
+                },
+                "dextral": "right",
+                "arm": {
+                    "facet": 68
+                }
+            },
+            "Void - Charge Shield": {
+                "file": "TL - Void Legionary -  Left Arm - Charge Shield.obj",
+                "designer": "Garin",
+                "md5": "355280c0c227e8c29a29086caee06c1a",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-void-legionaries/"
+                ],
+                "support": {
+                    "file": "TL - Void Legionary - Left Arm - Charge Shield - Supported.OBJ",
+                    "md5": "792000656fc70d6a67a51f8a042d57db"
+                },
+                "dextral": "left",
+                "arm": {
+                    "facet": 8
+                }
+            }
+        }
+    },
+    "TL - Heavy Infantry": {
+        "desc": {
+            "display": "Tempest Legion",
+            "path": "Wargame Humanoid/arm/TL - Heavy Infantry/",
+            "nodes": [
+                "arm"
+            ]
+        },
+        "stl": {
+            "Blade 1": {
+                "file": "TLHI - Pose 1 - Left Arm - Blade.OBJ",
+                "designer": "Garin",
+                "md5": "292f2548af0422bcad631eaaa619d7bb",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-heavy-infantry/"
+                ],
+                "dextral": "left",
+                "arm": {
+                    "facet": 8
+                },
+                "support": {
+                    "file": "TLHI - Pose 1 - Left Arm - Blade - Supported.OBJ",
+                    "md5": "13deabb49a06b6391575c9dde4f45b43"
+                }
+            },
+            "Blade 2": {
+                "file": "TLHI - Pose 2 - Right Arm - Blade.OBJ",
+                "designer": "Garin",
+                "md5": "cb289d0a42847a401f90fd57d6832d97",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-heavy-infantry/"
+                ],
+                "dextral": "right",
+                "arm": {
+                    "vertex": 7270
+                },
+                "support": {
+                    "file": "TLHI - Pose 2 - Right Arm - Blade - Supported.OBJ",
+                    "md5": "8391c9cb569e4acdbaf72392d81007ab"
+                }
+            },
+            "Twin Slug Gun 1": {
+                "file": "TLHI - Pose 1 - Right Arm - Twin Slug Gun.OBJ",
+                "designer": "Garin",
+                "md5": "2936671b2702264f50ea80be33eeb7f3",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-heavy-infantry/"
+                ],
+                "dextral": "right",
+                "arm": {
+                    "facet": 62
+                },
+                "support": {
+                    "file": "TLHI - Pose 1 - Right Arm - Twin Slug Gun - Supported.OBJ",
+                    "md5": "b6d72445491d4e962634c3e29f6037eb"
+                }
+            },
+            "Power Fist 4": {
+                "file": "TLHI - Pose 4 - Left Arm - Power Fist.OBJ",
+                "designer": "Garin",
+                "md5": "ea938c8ef1c16b8e24ef87926e065af0",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-heavy-infantry/"
+                ],
+                "dextral": "left",
+                "arm": {
+                    "facet": 616
+                },
+                "support": {
+                    "file": "TLHI - Pose 4 - Left Arm - Power Fist - Supported.OBJ",
+                    "md5": "482d035d1ee68003de7406bd22a16c4a"
+                }
+            },
+            "Rotator Cannon": {
+                "file": "TLHI - Pose 3 - Right Arm - Rotator Cannon.OBJ",
+                "designer": "Garin",
+                "md5": "86da03d6e5d68ec1d1f992374e1a3aad",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-heavy-infantry/"
+                ],
+                "dextral": "right",
+                "arm": {
+                    "facet": 28
+                },
+                "support": {
+                    "file": "TLHI - Pose 3 - Right Arm - Rotator Cannon - Supported.OBJ",
+                    "md5": "f1f6ad87a3dd16bc2a3d2c77bcc1b7e4"
+                },
+                "bitzs": {
+                    "shoulder": {
+                        "face": 8392
+                    }
+                }
+            },
+            "Power Fist 3": {
+                "file": "TLHI - Pose 3 - Left Arm - Power Fist.OBJ",
+                "designer": "Garin",
+                "md5": "298ccb35d3b27ab858d6085d5443b90a",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-heavy-infantry/"
+                ],
+                "dextral": "left",
+                "arm": {
+                    "facet": 35
+                },
+                "support": {
+                    "file": "TLHI - Pose 3 - Left Arm - Power Fist - Supported.OBJ",
+                    "md5": "3e3ddd0c44e0a9ad9147144772055242"
+                }
+            },
+            "Twin Slug Gun 4": {
+                "file": "TLHI - Pose 4 - Right Arm - Twin Slug Gun.OBJ",
+                "designer": "Garin",
+                "md5": "1076b7cb527fce46742f43deb5a498fc",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-heavy-infantry/"
+                ],
+                "dextral": "right",
+                "arm": {
+                    "facet": 37
+                },
+                "support": {
+                    "file": "TLHI - Pose 4 - Right Arm - Twin Slug Gun - Supported.OBJ",
+                    "md5": "153171de3be691429b070cd7d4fcfe63"
+                }
+            },
+            "Axe 5": {
+                "file": "TLHI - Pose 5 - Left Arm - Axe.OBJ",
+                "designer": "Garin",
+                "md5": "95297ac4449b3f37e1212004a9f0eaff",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-heavy-infantry/"
+                ],
+                "dextral": "left",
+                "arm": {
+                    "facet": 0
+                },
+                "support": {
+                    "file": "TLHI - Pose 5 - Left Arm - Axe - Supported.OBJ",
+                    "md5": "de7af46451386d1ccf16b639b362f302"
+                }
+            },
+            "Blade 5": {
+                "file": "TLHI - Pose 5 - Left Arm - Blade.OBJ",
+                "designer": "Garin",
+                "md5": "bda58296698725da5d1562bbe83230ad",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-heavy-infantry/"
+                ],
+                "dextral": "left",
+                "arm": {
+                    "facet": 999
+                },
+                "support": {
+                    "file": "TLHI - Pose 5 - Left Arm - Blade - Supported.OBJ",
+                    "md5": "3414e89cb358d34b7696b25e1ce5104a"
+                }
+            },
+            "Hammer 5": {
+                "file": "TLHI - Pose 5 - Left Arm - Hammer.OBJ",
+                "designer": "Garin",
+                "md5": "136660870d21b6f6feea5f04232df5d8",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-heavy-infantry/"
+                ],
+                "dextral": "left",
+                "arm": {
+                    "facet": 27
+                },
+                "support": {
+                    "file": "TLHI - Pose 5 - Left Arm - Hammer - Supported.OBJ",
+                    "md5": "657c36e443f1cfe3d44f14c18be7d4b9"
+                }
+            },
+            "Power Fist 5": {
+                "file": "TLHI - Pose 5 - Left Arm - Power Fist.obj",
+                "designer": "Garin",
+                "md5": "114f472df1cb9e4eadc45ad0d290e07f",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-heavy-infantry/"
+                ],
+                "dextral": "left",
+                "arm": {
+                    "facet": 145
+                },
+                "support": {
+                    "file": "TLHI - Pose 5 - Left Arm - Power Fist - Supported.OBJ",
+                    "md5": "1994e9888d905de84d18291a1e86fe7c"
+                },
+                "bitzs": {
+                    "shoulder": {
+                        "face": 10792
+                    }
+                }
+            },
+            "Power Fist 6": {
+                "file": "TLHI - Pose 5 - Left Arm - Power Fist 2.obj",
+                "designer": "Garin",
+                "md5": "9b6667aacbaa3cf32ef088d40c96a28b",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-heavy-infantry/"
+                ],
+                "support": {
+                    "file": "TLHI - Pose 5 - Left Arm - Power Fist 2 - Supported.OBJ",
+                    "md5": "b59056eb5c389623c8c0e260c3441ae0"
+                },
+                "dextral": "left",
+                "arm": {
+                    "facet": 48
+                }
+            },
+            "Empty Arm": {
+                "file": "TLHI - Pose 2 - Left Arm - Empty.OBJ",
+                "designer": "Garin",
+                "md5": "9286bd970710c488566c6fd7608009af",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-heavy-infantry/"
+                ],
+                "support": {
+                    "file": "TLHI - Pose 2 - Left Arm - Empty - Supported.OBJ",
+                    "md5": "1d1a71732adb4903c0a88527a258bef2"
+                },
+                "dextral": "left",
+                "arm": {
+                    "facet": 673
+                },
+                "bitzs": {
+                    "Hold ground": {
+                        "face": 418
+                    }
+                }
+            },
+            "Twin Slug Gun 5": {
+                "file": "TLHI - Pose 5 - Right Arm - Twin Slug Gun.OBJ",
+                "designer": "Garin",
+                "md5": "148f3e1d3d6e2fec5d9ab04ed20d4485",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-heavy-infantry/"
+                ],
+                "dextral": "right",
+                "arm": {
+                    "facet": 242
+                },
+                "support": {
+                    "file": "TLHI - Pose 5 - Right Arm - Twin Slug Gun - Supported.OBJ",
+                    "md5": "7fd4dbed4d2f353d2713ff354793bdea"
+                }
+            },
+            "Cronus - Power Fist 1": {
+                "file": "TLHI - Cronus - Pose 1 - Left Arm - Power Fist.obj",
+                "designer": "Garin",
+                "md5": "6611ab1dc5ff0a248e6b23a89a526e38",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-heavy-infantry/"
+                ],
+                "support": {
+                    "file": "TLHI - Cronus - Pose 1 - Left Arm - Power Fist - Supported.OBJ",
+                    "md5": "78dee901bec3f72997fd9114f78875b9"
+                },
+                "dextral": "left",
+                "arm": {
+                    "facet": 49
+                }
+            },
+            "Cronus - Dual Gun 1": {
+                "file": "TLHI - Cronus - Pose 1 - Right Arm - Dual Gun.obj",
+                "designer": "Garin",
+                "md5": "a920761091d5f827b8f15234e2f6e935",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-heavy-infantry/"
+                ],
+                "support": {
+                    "file": "TLHI - Cronus - Pose 1 - Right Arm - Dual Gun - Supported.OBJ",
+                    "md5": "721b3b805269b8008d6091a61f3e14d7"
+                },
+                "dextral": "right",
+                "arm": {
+                    "facet": 38
+                }
+            },
+            "Cronus - Power Fist 2": {
+                "file": "TLHI - Cronus - Pose 2 - Left Arm - Power Fist.obj",
+                "designer": "Garin",
+                "md5": "8bdfea029056c3a8c44461f305c16301",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-heavy-infantry/"
+                ],
+                "support": {
+                    "file": "TLHI - Cronus - Pose 2 - Left Arm - Power Fist - Supported.OBJ",
+                    "md5": "c2c77a0937dc6bc51382e74c44f339cf"
+                },
+                "dextral": "left",
+                "arm": {
+                    "facet": 206
+                }
+            },
+            "Cronus - Dual Gun 2": {
+                "file": "TLHI - Cronus - Pose 2 - Right Arm - Dual Gun.obj",
+                "designer": "Garin",
+                "md5": "c481b215d0bd7beeb187025b83dde065",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-heavy-infantry/"
+                ],
+                "support": {
+                    "file": "TLHI - Cronus - Pose 2 - Right Arm - Dual Gun - Supported.OBJ",
+                    "md5": "80f786f5fb2194814e7008af0aad9d33"
+                },
+                "dextral": "right",
+                "arm": {
+                    "facet": 50
+                }
+            },
+            "Cronus - Power Fist 3": {
+                "file": "TLHI - Cronus - Pose 3 - Left Arm - Power Fist.obj",
+                "designer": "Garin",
+                "md5": "8bf22229b180147a0db3d56f0fbad9f3",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-heavy-infantry/"
+                ],
+                "support": {
+                    "file": "TLHI - Cronus - Pose 3 - Left Arm - Power Fist - Supported.OBJ",
+                    "md5": "aae73f4541788c8098f43b4efc4bbde3"
+                },
+                "dextral": "left",
+                "arm": {
+                    "face": 3316
+                }
+            },
+            "Cronus - Rotator Cannon 3": {
+                "file": "TLHI - Cronus - Pose 3 - Right Arm - Rotator Cannon.obj",
+                "designer": "Garin",
+                "md5": "84609e868f494667027b688f4f772d3d",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-heavy-infantry/"
+                ],
+                "support": {
+                    "file": "TLHI - Cronus - Pose 3 - Right Arm - Rotator Cannon - Supported.OBJ",
+                    "md5": "2c3915c92db5cf6b58741de7c7ac62bd"
+                },
+                "dextral": "right",
+                "arm": {
+                    "facet": 60
+                }
+            },
+            "Cronus - Power Fist 4": {
+                "file": "TLHI - Cronus - Pose 4 - Left Arm - Power Fist.obj",
+                "designer": "Garin",
+                "md5": "98f5c28e0f1c90add28e905ee79f4f54",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-heavy-infantry/"
+                ],
+                "support": {
+                    "file": "TLHI - Cronus - Pose 4 - Left Arm - Power Fist - Supported.OBJ",
+                    "md5": "0b1672b91cd19d670fed197cf51b107d"
+                },
+                "dextral": "left",
+                "arm": {
+                    "facet": 41
+                }
+            },
+            "Cronus - Dual Gun 4": {
+                "file": "TLHI - Cronus - Pose 4 - Right Arm - Dual Gun.obj",
+                "designer": "Garin",
+                "md5": "dd0c81389a478b445d0838d8c26967b3",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-heavy-infantry/"
+                ],
+                "support": {
+                    "file": "TLHI - Cronus - Pose 4 - Right Arm - Dual Gun - Supported.OBJ",
+                    "md5": "13bd5dc2a117c21dc3a0bd8175f94f0a"
+                },
+                "dextral": "right",
+                "arm": {
+                    "facet": 50
+                }
+            },
+            "Cronus - Power Fist 5": {
+                "file": "TLHI - Cronus - Pose 5 - Left Arm - Power Fist.obj",
+                "designer": "Garin",
+                "md5": "826a290fb6a7f047f01edeed6dff9b1f",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-heavy-infantry/"
+                ],
+                "support": {
+                    "file": "TLHI - Cronus - Pose 5 - Left Arm - Power Fist - Supported.OBJ",
+                    "md5": "36b7c3167c64871a263fa32aae046509"
+                },
+                "dextral": "left",
+                "arm": {
+                    "facet": 74
+                }
+            },
+            "Cronus - Dual Gun": {
+                "file": "TLHI - Cronus - Pose 5 - Right Arm - Dual Gun.obj",
+                "designer": "Garin",
+                "md5": "55a491fdabf72fa5cf555cd46bd7c13d",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-heavy-infantry/"
+                ],
+                "support": {
+                    "file": "TLHI - Cronus - Pose 5 - Right Arm - Dual Gun - Supported.OBJ",
+                    "md5": "afedfc3eb28c5a4791fe5193f40dc33b"
+                },
+                "dextral": "right",
+                "arm": {
+                    "facet": 58
+                }
+            }
+        }
+    },
+    "TL - Mk3 Troops": {
+        "desc": {
+            "display": "Tempest Legion",
+            "path": "Wargame Humanoid/arm/TL - Mk3 Troops/",
+            "nodes": [
+                "arm"
+            ]
+        },
+        "stl": {
+            "LR Combi Disintegration Gun 1": {
+                "file": "TL3 - LR - Combi Disintegration Gun 1.obj",
+                "designer": "Garin",
+                "md5": "23790300a485a7c9cf876b2536550672",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-mk3-ranged-pack-1/"
+                ],
+                "dextral": "right",
+                "arm": {
+                    "facet": 568
+                },
+                "support": {
+                    "file": "TL3 - LR - Combi Disintegration Gun 1 - Supported.obj",
+                    "md5": "ed2bbd58c5c13212dbc86bd3eb1ed808"
+                }
+            },
+            "LR Balefire Flamer 1": {
+                "file": "TL3 - LR - Balefire Flamer 1.obj",
+                "designer": "Garin",
+                "md5": "d245ec681d1b5b9bf2b0e1a61ff57a78",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-mk3-ranged-pack-1/"
+                ],
+                "dextral": "right",
+                "arm": {
+                    "facet": 175
+                },
+                "support": {
+                    "file": "TL3 - LR - Balefire Flamer 1 - Supported.obj",
+                    "md5": "cc8424d7099062ea85627e46ca4511ca"
+                }
+            },
+            "LR Combi Flamer 1": {
+                "file": "TL3 - LR - Combi Flamer 1.obj",
+                "designer": "Garin",
+                "md5": "4143fda48651909775e969fbe81bec37",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-mk3-ranged-pack-1/"
+                ],
+                "hand": {
+                    "facet": 210
+                },
+                "dextral": "left",
+                "support": {
+                    "file": "TL3 - LR - Combi Flamer 1 - Supported.obj",
+                    "md5": "c80c8f8d5e0eedb8d04cb003107946d1"
+                }
+            },
+            "LR Combi Fusion Gun 1": {
+                "file": "TL3 - LR - Combi Fusion Gun 1.obj",
+                "designer": "Garin",
+                "md5": "363e103fd6158f2cd007499cea4efec9",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-mk3-ranged-pack-1/"
+                ],
+                "dextral": "right",
+                "arm": {
+                    "facet": 447
+                },
+                "support": {
+                    "file": "TL3 - LR - Combi Fusion Gun 1 - Supported.obj",
+                    "md5": "4f8252f6bd7c80d29286a476096f8c34"
+                }
+            },
+            "LR Combi Plasma Gun 1": {
+                "file": "TL3 - LR - Combi Plasma Gun 1.obj",
+                "designer": "Garin",
+                "md5": "9e11f9f82cfeee845dbabd9522634c9d",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-mk3-ranged-pack-1/"
+                ],
+                "dextral": "right",
+                "arm": {
+                    "facet": 650
+                },
+                "support": {
+                    "file": "TL3 - LR - Combi Plasma Gun 1  - Supported.obj",
+                    "md5": "f12be2eeb69c19d1fa1e429d1c98c357"
+                }
+            },
+            "LR Disintegration Cannon": {
+                "file": "TL3 - LR - Disintegration Cannon.obj",
+                "designer": "Garin",
+                "md5": "6be50fa16830810c7de20f6cc173bfcd",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-mk3-ranged-pack-1/"
+                ],
+                "dextral": "right",
+                "arm": {
+                    "facet": 450
+                },
+                "support": {
+                    "file": "TL3 - LR - Disintegration Cannon - Supported.obj",
+                    "md5": "c173e2c9dfb6d225268d9977e7b3ca73"
+                }
+            },
+            "LR Disintegration Gun 1": {
+                "file": "TL3 - LR - Disintegration Gun 1.obj",
+                "designer": "Garin",
+                "md5": "4e75b33bc3b8a32b089cb0e3d71db613",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-mk3-ranged-pack-1/"
+                ],
+                "dextral": "right",
+                "arm": {
+                    "facet": 221
+                },
+                "support": {
+                    "file": "TL3 - LR - Disintegration Gun 1 - Supported.obj",
+                    "md5": "71a25d744bb6aaaf952b59d086c380e1"
+                }
+            },
+            "LR Empty Arms": {
+                "file": "TL3 - LR - Empty Arms.obj",
+                "designer": "Garin",
+                "md5": "16231884f52fbad9335afa7898cbd695",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-mk3-ranged-pack-1/"
+                ],
+                "dextral": "right",
+                "arm": {
+                    "facet": 1415
+                },
+                "hand": {
+                    "right": {
+                        "vertex": 25394
+                    }
+                }
+            },
+            "LR Fusion Cannon 1": {
+                "file": "TL3 - LR - Fusion Cannon 1.obj",
+                "designer": "Garin",
+                "md5": "5c32a14122a3daa70a6cf3e8d0d63c3a",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-mk3-ranged-pack-1/"
+                ],
+                "dextral": "right",
+                "arm": {
+                    "facet": 1367
+                },
+                "support": {
+                    "file": "TL3 - LR - Fusion Cannon 1 - Supported.obj",
+                    "md5": "64f3f4423113a2f82042d0a4172884d7"
+                }
+            },
+            "LR Fusion Gun 1": {
+                "file": "TL3 - LR - Fusion Gun 1.obj",
+                "designer": "Garin",
+                "md5": "4320fe9761b887c669b7b957d33d48ed",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-mk3-ranged-pack-1/"
+                ],
+                "dextral": "right",
+                "arm": {
+                    "facet": 129
+                },
+                "support": {
+                    "file": "TL3 - LR - Fusion Gun 1 - Supported.obj",
+                    "md5": "25da0aa50988536eee707159e8f2e168"
+                }
+            },
+            "LR Heavy Balefire Flamer 1": {
+                "file": "TL3 - LR - Heavy Balefire Flamer 1.obj",
+                "designer": "Garin",
+                "md5": "245af97130bed21fbde61eeaa4408270",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-mk3-ranged-pack-1/"
+                ],
+                "dextral": "right",
+                "arm": {
+                    "facet": 165
+                },
+                "support": {
+                    "file": "TL3 - LR - Heavy Balefire Flamer 1 - Supported.obj",
+                    "md5": "6c3878788f9c92f2ea8fb940af2f14e0"
+                }
+            },
+            "LR Heavy Laser Gun 1": {
+                "file": "TL3 - LR - Heavy Laser Gun 1.obj",
+                "designer": "Garin",
+                "md5": "3ec1e2b41e3886b790e955ad10ffd1d8",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-mk3-ranged-pack-1/"
+                ],
+                "dextral": "right",
+                "arm": {
+                    "facet": 300
+                },
+                "support": {
+                    "file": "TL3 - LR - Heavy Laser Gun 1 - Supported.obj",
+                    "md5": "f90cf0fb745e05cfff89f7732536a7fc"
+                }
+            },
+            "MLR Heavy Plasma Gun 1": {
+                "file": "TL3 - LR - Heavy Plasma Gun 1.obj",
+                "designer": "Garin",
+                "md5": "97fdf05f39b62738d34dbe00d66b2c8f",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-mk3-ranged-pack-1/"
+                ],
+                "dextral": "right",
+                "arm": {
+                    "facet": 273
+                },
+                "support": {
+                    "file": "TL3 - LR - Heavy Plasma Gun Pack - Supported.obj",
+                    "md5": "90c30af8c31f197fb1185a3c1c00f979"
+                }
+            },
+            "LR Heavy Slug Gun 1": {
+                "file": "TL3 - LR - Heavy Slug Gun 1.obj",
+                "designer": "Garin",
+                "md5": "279aa709cf9f2a52847b839d254f99b3",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-mk3-ranged-pack-1/"
+                ],
+                "dextral": "right",
+                "arm": {
+                    "facet": 172
+                },
+                "support": {
+                    "file": "TL3 - LR - Heavy Slug Gun 1 - Supported.obj",
+                    "md5": "e9eed4c0f6e9394907468d5c4cf7f749"
+                }
+            },
+            "LR Missile Launcher 1": {
+                "file": "TL3 - LR - Missile Launcher 1.obj",
+                "designer": "Garin",
+                "md5": "716e0afcb10f14cf64df28a39c9d42b1",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-mk3-ranged-pack-1/"
+                ],
+                "dextral": "right",
+                "arm": {
+                    "facet": 479
+                },
+                "support": {
+                    "file": "TL3 - LR - Missile Launcher 1 - Supported.obj",
+                    "md5": "665854260ed73f2f97436da6fcccfccf"
+                }
+            },
+            "LR Plasma Gun 1": {
+                "file": "TL3 - LR - Plasma Gun 1.obj",
+                "designer": "Garin",
+                "md5": "7c776fdb425c947b10bdaf0a489a9b13",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-mk3-ranged-pack-1/"
+                ],
+                "dextral": "right",
+                "arm": {
+                    "facet": 179
+                },
+                "support": {
+                    "file": "TL3 - LR - Plasma Gun 1 - Supported.obj",
+                    "md5": "8bdcfbb7bc443736f0c1799c0ba00262"
+                }
+            },
+            "LR Slug Gun 1": {
+                "file": "TL3 - LR - Slug Gun 1.obj",
+                "designer": "Garin",
+                "md5": "88837e5e41b74a6c2696fe30f512f518",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-mk3-ranged-pack-1/"
+                ],
+                "dextral": "right",
+                "arm": {
+                    "facet": 252
+                },
+                "support": {
+                    "file": "TL3 - LR - Slug Gun 1 - Supported.obj",
+                    "md5": "8316ccdd8c7bf22cc29d1d8223be591b"
+                }
+            },
+            "Balefire Pistol 1": {
+                "file": "TL3 - Right Arm - Balefire Pistol 1.obj",
+                "designer": "Garin",
+                "md5": "96a7a4f2940158249c902157c8864671",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-mk3-ranged-pack-1/"
+                ],
+                "dextral": "right",
+                "arm": {
+                    "facet": 43
+                },
+                "support": {
+                    "file": "TL3 - Right Arm - Balefire Pistol 1 - Supported.obj",
+                    "md5": "da36bad8a5929b9575fa1b8d28f55a16"
+                }
+            },
+            "Disintegration Pistol 1": {
+                "file": "TL3 - Right Arm - Disintegration Pistol 1.obj",
+                "designer": "Garin",
+                "md5": "4b5e63f36242be835fef82d4b8653a91",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-mk3-ranged-pack-1/"
+                ],
+                "dextral": "right",
+                "arm": {
+                    "facet": 17
+                },
+                "support": {
+                    "file": "TL3 - Right Arm - Disintegration Pistol 1 - Supported.obj",
+                    "md5": "b9cb64aac366a5bc4770bcc76ec3598e"
+                }
+            },
+            "Fusion Pistol 1": {
+                "file": "TL3 - Right Arm - Fusion Pistol 1.obj",
+                "designer": "Garin",
+                "md5": "c9bebfb5ba79e06f72d1a67d5907a2b8",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-mk3-ranged-pack-1/"
+                ],
+                "dextral": "right",
+                "arm": {
+                    "facet": 164
+                },
+                "support": {
+                    "file": "TL3 - Right Arm - Fusion Pistol 1 - Supported.obj",
+                    "md5": "f92dfad635c5847691ef15743d047b23"
+                }
+            },
+            "Plasma Pistol 1": {
+                "file": "TL3 - Right Arm - Plasma Pistol 1.obj",
+                "designer": "Garin",
+                "md5": "8254831bbc9c51bc15050c27ec00b72f",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-mk3-ranged-pack-1/"
+                ],
+                "dextral": "right",
+                "arm": {
+                    "face": 733
+                },
+                "support": {
+                    "file": "TL3 - Right Arm - Plasma Pistol 1 - Supported.obj",
+                    "md5": "02fd0728a3aa494e313c7f7cb4c3fff9"
+                }
+            },
+            "Slug Pistol 1": {
+                "file": "TL3 - Right Arm - Slug Pistol 1.obj",
+                "designer": "Garin",
+                "md5": "095ab3653b86bbf7e66e6c5ede85a57a",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-mk3-ranged-pack-1/"
+                ],
+                "dextral": "right",
+                "arm": {
+                    "facet": 366
+                },
+                "support": {
+                    "file": "TL3 - Right Arm - Slug Pistol 1 - Supported.obj",
+                    "md5": "4b902b1ee769e3263d63a5e10775c109"
+                }
+            },
+            "Axe 2": {
+                "file": "TL3 - Left Arm - Axe 2.obj",
+                "designer": "Garin",
+                "md5": "55e7ece5ee821e52e33adf380d1c47d7",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-mk3-troops/"
+                ],
+                "dextral": "left",
+                "arm": {
+                    "facet": 25
+                },
+                "support": {
+                    "file": "TL3 - Left Arm - Axe 2 - Supported.obj",
+                    "md5": "23b4892263d8dbdb3e0e6082747749f7"
+                }
+            },
+            "Axe 4": {
+                "file": "TL3 - Left Arm - Axe 4.obj",
+                "designer": "Garin",
+                "md5": "53877d227b596a8e8e2dc683edc361e1",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-mk3-troops/"
+                ],
+                "dextral": "left",
+                "arm": {
+                    "facet": 24
+                },
+                "support": {
+                    "file": "TL3 - Left Arm - Axe 4 - Supported.obj",
+                    "md5": "bf1ad498d3220ff4de74b8ea09296b7b"
+                }
+            },
+            "Phase Gun 1": {
+                "file": "TL3 - Left Arm - Phase Gun 1.obj",
+                "designer": "Garin",
+                "md5": "89f441c8e3b4270a78d5fcdbc13b2cc4",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-mk3-troops/"
+                ],
+                "dextral": "left",
+                "arm": {
+                    "facet": 46
+                },
+                "support": {
+                    "file": "TL3 - Left Arm - Phase Gun 1 - Supported.obj",
+                    "md5": "cdc49258881e49c68eb7587ce55cdea3"
+                }
+            },
+            "Phase Gun 2": {
+                "file": "TL3 - Left Arm - Phase Gun 2.obj",
+                "designer": "Garin",
+                "md5": "2de603cc187181385d29f7313e676423",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-mk3-troops/"
+                ],
+                "dextral": "left",
+                "arm": {
+                    "facet": 39
+                },
+                "support": {
+                    "file": "TL3 - Left Arm - Phase Gun 2 - Supported.obj",
+                    "md5": "d1ed75e1f743fe32f0db2fbe4a759a93"
+                }
+            },
+            "Phase Pistol 1": {
+                "file": "TL3 - Left Arm - Phase Pistol 1.obj",
+                "designer": "Garin",
+                "md5": "4785942d5f6ba61b6288665a5b3a6cc4",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-mk3-troops/"
+                ],
+                "dextral": "left",
+                "arm": {
+                    "facet": 27
+                },
+                "support": {
+                    "file": "TL3 - Left Arm - Phase Pistol 1 - Supported.obj",
+                    "md5": "f0ba8b36d12c9df5bb4da195f162f7b1"
+                }
+            },
+            "Phase Pistol 4": {
+                "file": "TL3 - Left Arm - Phase Pistol 4.obj",
+                "designer": "Garin",
+                "md5": "ef29707e1c8b979f2252b00b3277a102",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-mk3-troops/"
+                ],
+                "dextral": "left",
+                "arm": {
+                    "facet": 1010
+                },
+                "support": {
+                    "file": "TL3 - Left Arm - Phase Pistol 4 - Supported.obj",
+                    "md5": "65b18ff681431e8aa8a6e5686eee2e28"
+                }
+            },
+            "LR Phase Gun 1": {
+                "file": "TL3 - LR - Phase Gun 1.obj",
+                "designer": "Garin",
+                "md5": "f2800f45a65479215cf6b1573861c8d9",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-mk3-troops/"
+                ],
+                "dextral": "right",
+                "arm": {
+                    "facet": 1441
+                },
+                "support": {
+                    "file": "TL3 - LR - Phase Gun 1 - Supported.obj",
+                    "md5": "8b85554a490337ffeef4afabcc577d62"
+                }
+            },
+            "Axe 1": {
+                "file": "TL3 - Right Arm - Axe 1.obj",
+                "designer": "Garin",
+                "md5": "71e373e928ebf1b606edd310682ed89a",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-mk3-troops/"
+                ],
+                "dextral": "right",
+                "arm": {
+                    "facet": 28
+                },
+                "support": {
+                    "file": "TL3 - Right Arm - Axe 1 - Supported.obj",
+                    "md5": "495f05735086c1d63a84975036fea79c"
+                }
+            },
+            "Axe 3": {
+                "file": "TL3 - Right Arm - Axe 3.obj",
+                "designer": "Garin",
+                "md5": "64e1204c68851742a8747b709264b25b",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-mk3-troops/"
+                ],
+                "dextral": "right",
+                "arm": {
+                    "facet": 19
+                },
+                "support": {
+                    "file": "TL3 - Right Arm - Axe 3 - Supported.obj",
+                    "md5": "e74e0971c60a863acb6808b56e07d84a"
+                }
+            },
+            "Axe 5": {
+                "file": "TL3 - Right Arm - Axe 5.obj",
+                "designer": "Garin",
+                "md5": "4bf47c3d77be4e8c20e1911a20cee06f",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-mk3-troops/"
+                ],
+                "dextral": "right",
+                "arm": {
+                    "facet": 17
+                },
+                "bitzs": {
+                    "shoulder": {
+                        "vertex": 831
+                    }
+                },
+                "support": {
+                    "file": "TL3 - Right Arm - Axe 5 - Supported.obj",
+                    "md5": "88371f4acd2cc90c75e7464a98c8a14e"
+                }
+            },
+            "Axe 6": {
+                "file": "TL3 - Right Arm - Axe 6.obj",
+                "designer": "Garin",
+                "md5": "57c6fc0fd8d3a56ab06913e2c71ed5bd",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-mk3-troops/"
+                ],
+                "dextral": "right",
+                "arm": {
+                    "vertex": 2975
+                },
+                "support": {
+                    "file": "TL3 - Right Arm - Axe 6 - Supported.obj",
+                    "md5": "4287121016fc1f19524782efefa55703"
+                }
+            },
+            "Grenade": {
+                "file": "TL3 - Right Arm - Grenade.obj",
+                "designer": "Garin",
+                "md5": "6ae170dd8512ca35c88485dc893681bf",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-mk3-troops/"
+                ],
+                "dextral": "right",
+                "arm": {
+                    "facet": 2
+                },
+                "support": {
+                    "file": "TL3 - Right Arm - Grenade - Supported.obj",
+                    "md5": "13b1b4b8bb821700e2406eb56dfebea4"
+                }
+            },
+            "Phase Pistol 2": {
+                "file": "TL3 - Right Arm - Phase Pistol 2.obj",
+                "designer": "Garin",
+                "md5": "637c882867ffe1119be3eddfb96fd350",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-mk3-troops/"
+                ],
+                "dextral": "right",
+                "arm": {
+                    "facet": 19
+                },
+                "support": {
+                    "file": "TL3 - Right Arm - Phase Pistol 2 - Supported.obj",
+                    "md5": "82bbb7e082597162c260cc93ec05225f"
+                }
+            },
+            "Phase Pistol 3": {
+                "file": "TL3 - Right Arm - Phase Pistol 3.obj",
+                "designer": "Garin",
+                "md5": "a4bbcf70240f3740025b7b216565b3c3",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-mk3-troops/"
+                ],
+                "dextral": "right",
+                "arm": {
+                    "facet": 30
+                },
+                "support": {
+                    "file": "TL3 - Right Arm - Phase Pistol 3 - Supported.obj",
+                    "md5": "a0c498bfc028412513b8a7664c845270"
+                }
+            },
+            "Pointing": {
+                "file": "TL3 - Right Arm - Pointing.obj",
+                "designer": "Garin",
+                "md5": "bf57a353f7903400cd2e78e30cb22a87",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-mk3-troops/"
+                ],
+                "dextral": "right",
+                "arm": {
+                    "facet": 8
+                },
+                "support": {
+                    "file": "TL3 - Right Arm - Pointing - Supported.obj",
+                    "md5": "21cfe94c26e1b92832a829e2cdc3877f"
+                }
+            },
+            "Mk3 Aetos - Gauss Gun": {
+                "file": "TL3 - Left Arm -  Gauss Gun - Feed Needed.obj",
+                "designer": "Garin",
+                "md5": "426644c01b5c78744868eaacfda3f923",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-aetos-squad/"
+                ],
+                "support": {
+                    "file": "TL3 - Left Arm -  Gauss Gun - Feed Needed - Supported.obj",
+                    "md5": "665ef0198606cd02ab6ba1158c633d89"
+                },
+                "dextral": "left",
+                "arm": {
+                    "facet": 120
+                }
+            },
+            "Mk3 LR Aetos -  Gauss Gun": {
+                "file": "TL3 - LR -  Gauss Gun - Feed Needed.obj",
+                "designer": "Garin",
+                "md5": "54e34f1ed88703923ef5b27c635172ad",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-aetos-squad/"
+                ],
+                "support": {
+                    "file": "TL3 - LR -  Gauss Gun 1 - Feed Needed - Supported.obj",
+                    "md5": "f5b452aaad71a59557c74cefbabdf8fd"
+                },
+                "dextral": "right",
+                "arm": {
+                    "facet": 182
+                },
+                "bitzs": {
+                    "Feed": {
+                        "facet": 545
+                    }
+                }
+            },
+            "Mk3 LR Aetos -  Gauss Gun 1": {
+                "file": "TL3 - LR -  Gauss Gun 1.obj",
+                "designer": "Garin",
+                "md5": "04bbe056c780c6c2be886c0078a3a641",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-aetos-squad/"
+                ],
+                "support": {
+                    "file": "TL3 - LR -  Gauss Gun 1 - Supported.obj",
+                    "md5": "4d88e28169fa3f2e8cf4b754e2b35370"
+                },
+                "dextral": "right",
+                "arm": {
+                    "facet": 142
+                }
+            },
+            "Mk3 Aetos - Gauss Gun 2 - Feed Needed": {
+                "file": "TL3 - LR -  Gauss Gun 2 - Feed Needed.obj",
+                "designer": "Garin",
+                "md5": "d604412f310b3093e88c2376dbfbca84",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-aetos-squad/"
+                ],
+                "support": {
+                    "file": "TL3 - LR -  Gauss Gun 2 - Feed Needed - Supported.obj",
+                    "md5": "8455ed5cc0c5dab2577c8dbd0997657c"
+                },
+                "dextral": "right",
+                "arm": {
+                    "facet": 115
+                }
+            },
+            "Mk3 LR Aetos - Gauss Gun 2": {
+                "file": "TL3 - LR -  Gauss Gun 2.obj",
+                "designer": "Garin",
+                "md5": "c0bfa3593751490a7b0629a3cf5f6c66",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-aetos-squad/"
+                ],
+                "support": {
+                    "file": "TL3 - LR -  Gauss Gun 2 - Supported.obj",
+                    "md5": "123946e12d0b3b80c213bdd07c75872d"
+                },
+                "dextral": "right",
+                "arm": {
+                    "facet": 164
+                }
+            }
+        }
+    },
+    "TL - Patreon Exclusif": {
+        "desc": {
+            "display": "Tempest Legion",
+            "path": "Wargame Humanoid/arm/TL - Patreon Exclusif/",
+            "nodes": [
+                "arm"
+            ]
+        },
+        "stl": {
+            "Psychic - Empty Hand Arm": {
+                "file": "TL - Right Arm - PSY 1.OBJ",
+                "designer": "Garin",
+                "md5": "add928b384b3e4809d2fb89d4963ea8d",
+                "dextral": "right",
+                "arm": {
+                    "facet": 38
+                },
+                "bitzs": {
+                    "purity seal": {
+                        "vertex": 186
+                    }
+                }
+            },
+            "Medic - Medihand": {
+                "file": "TL - Medic - Left Arm.OBJ",
+                "designer": "Garin",
+                "md5": "5654b21f5e0138155ab1258085d12751",
+                "dextral": "left",
+                "arm": {
+                    "facet": 4
+                }
+            },
+            "Pistol 3": {
+                "file": "TL - Right Arm - Pistol 3.OBJ",
+                "designer": "Garin",
+                "md5": "8e31997dd9de0dea2b541da3792607dd",
+                "dextral": "right",
+                "arm": {
+                    "facet": 26
+                }
+            },
+            "Captain - Helm in hand": {
+                "file": "TL - Cap 1 - Left Arm.OBJ",
+                "designer": "Garin",
+                "md5": "ab8023fa2bea15cf40029382caf1ea24",
+                "dextral": "left",
+                "arm": {
+                    "facet": 6
+                }
+            },
+            "Captain - Sword": {
+                "file": "TL - Cap 1 - Right Arm.OBJ",
+                "designer": "Garin",
+                "md5": "698687b695de6ea736b4cbae786f684a",
+                "dextral": "right",
+                "arm": {
+                    "facet": 6
+                }
+            }
+        }
+    },
+    "TL - Sniper": {
+        "desc": {
+            "display": "Tempest Legion",
+            "path": "Wargame Humanoid/arm/TL - Sniper/",
+            "nodes": [
+                "arm"
+            ]
+        },
+        "stl": {
+            "Sniper - Heavy Rifle 1": {
+                "file": "TL - Heavy Sniper Rifle - L1.obj",
+                "designer": "Garin",
+                "md5": "2d1500c86f52f7da11a034bd3dd9dfc6",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-heavy-snipers/"
+                ],
+                "support": {
+                    "file": "TL - Heavy Sniper Rifle - L1 - Supported.obj",
+                    "md5": "8f720324f2bba0fb810aa9283e61b171"
+                },
+                "dextral": "left",
+                "arm": {
+                    "facet": 28
+                }
+            }
+        }
+    },
+    "TL - Heroes": {
+        "desc": {
+            "display": "Tempest Legion",
+            "path": "Wargame Humanoid/arm/TL - Heroes/",
+            "nodes": [
+                "arm"
+            ]
+        },
+        "stl": {
+            "Champion - Wand": {
+                "file": "TL - Champion - Right Arm.obj",
+                "designer": "Garin",
+                "md5": "4abcdaa643f8a792b5ec5a8e9ead85b7",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-champion/"
+                ],
+                "dextral": "right",
+                "arm": {
+                    "vertex": 32433
+                },
+                "support": {
+                    "file": "TL - Champion - Right Arm - Supported.OBJ",
+                    "md5": "c91f11c87268f89cb1e5a0e7835e9cc7"
+                }
+            },
+            "Champion - Empty Arm": {
+                "file": "TL - Champion - Left Arm.obj",
+                "designer": "Garin",
+                "md5": "0feff31c371e569897ae1605217052c8",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-champion/"
+                ],
+                "dextral": "left",
+                "arm": {
+                    "vertex": 48106
+                },
+                "support": {
+                    "file": "TL - Champion - Left Arm - Supported.OBJ",
+                    "md5": "0714a66083a7874d89ec077906ce4bbf"
+                }
+            },
+            "LR - Duelist": {
+                "file": "TL3 - Arms - Duelist.obj",
+                "designer": "Garin",
+                "md5": "f25d26829a5c6300494d318ae0c1d81b",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-duelists/"
+                ],
+                "support": {
+                    "file": "TL3 - Arms - Duelist - Supported.obj",
+                    "md5": "e8d46177d56789a12560a6fb59b54770"
+                },
+                "dextral": "right",
+                "arm": {
+                    "facet": 33
+                }
+            },
+            "Duelist - Scabbard": {
+                "file": "TL3 - Left Arm - Scabbard.obj",
+                "designer": "Garin",
+                "md5": "48875fba7321cd009b809281b1526796",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-duelists/"
+                ],
+                "support": {
+                    "file": "TL3 - Left Arm - Scabbard - Supported.obj",
+                    "md5": "425cf8d73e3c855c5c06e69e2fd7fae5"
+                },
+                "dextral": "left",
+                "arm": {
+                    "facet": 23
+                }
+            },
+            "Duelist - Sword": {
+                "file": "TL3 - Right Arm - Sword.obj",
+                "designer": "Garin",
+                "md5": "1ca529aba60b3634240fa9768b206eec",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-duelists/"
+                ],
+                "support": {
+                    "file": "TL3 - Right Arm - Sword - Supported.obj",
+                    "md5": "a943b78aff8c65bc85e70bbe8cd02ec5"
+                },
+                "dextral": "right",
+                "arm": {
+                    "facet": 22
+                }
+            }
+        }
+    },
+    "TL - Mk3 Heavy": {
+        "desc": {
+            "display": "TL - Mk3 Heavy",
+            "path": "Wargame Humanoid/arm/TL - Mk3 Heavy/"
+        },
+        "stl": {
+            "Combat Fist 4": {
+                "file": "TL3H - Left Arm - Combat Fist 4.obj",
+                "designer": "Garin",
+                "md5": "24076550b9464d88b6a43f70fded4d1b",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-mk3-heavy-infantry/"
+                ],
+                "support": {
+                    "file": "TL3H - Left Arm - Combat Fist 4 - Supported.obj",
+                    "md5": "924615d4091a57ba813fb2450da806d9"
+                },
+                "dextral": "left",
+                "arm": {
+                    "facet": 194
+                }
+            },
+            "Combat Fist 5": {
+                "file": "TL3H - Left Arm - Combat Fist 5.obj",
+                "designer": "Garin",
+                "md5": "1cada21c638517ac3c8badd69b03038f",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-mk3-heavy-infantry/"
+                ],
+                "support": {
+                    "file": "TL3H - Left Arm - Combat Fist 5 - Supported.obj",
+                    "md5": "79fd926b09f9463912c5b6cbb364687b"
+                },
+                "dextral": "left",
+                "arm": {
+                    "facet": 11
+                }
+            },
+            "Flame Fist 4": {
+                "file": "TL3H - Left Arm - Flame Fist 4.obj",
+                "designer": "Garin",
+                "md5": "e2974a2f90e323c69501ae557151ac13",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-mk3-heavy-infantry/"
+                ],
+                "support": {
+                    "file": "TL3H - Left Arm - Flame Fist 4 - Supported.obj",
+                    "md5": "a30f4aea15fa9545b806ddcaaca12e36"
+                },
+                "dextral": "left",
+                "arm": {
+                    "facet": 59
+                }
+            },
+            "Flame Fist 5": {
+                "file": "TL3H - Left Arm - Flame Fist 5.obj",
+                "designer": "Garin",
+                "md5": "93ca935f64e1a78335f3a540a41ae0ca",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-mk3-heavy-infantry/"
+                ],
+                "support": {
+                    "file": "TL3H - Left Arm - Flame Fist 5 - Supported.obj",
+                    "md5": "b45a54a16748ac65fec02a7c2b3b8070"
+                },
+                "dextral": "left",
+                "arm": {
+                    "facet": 66
+                }
+            },
+            "Phase Fist 4": {
+                "file": "TL3H - Left Arm - Phase Fist 4.obj",
+                "designer": "Garin",
+                "md5": "65ebb5cdf1894715d653c37318d554fe",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-mk3-heavy-infantry/"
+                ],
+                "support": {
+                    "file": "TL3H - Left Arm - Phase Fist 4 - Supported.obj",
+                    "md5": "cb77d1dd7ee6c24943911494a107b516"
+                },
+                "dextral": "left",
+                "arm": {
+                    "facet": 30
+                }
+            },
+            "Phase Fist 5": {
+                "file": "TL3H - Left Arm - Phase Fist 5.obj",
+                "designer": "Garin",
+                "md5": "7286284eb38f53e68a9774f97c61c89f",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-mk3-heavy-infantry/"
+                ],
+                "support": {
+                    "file": "TL3H - Left Arm - Phase Fist 5 - Supported.obj",
+                    "md5": "d9223e12131f57c40801af8bf7a20456"
+                },
+                "dextral": "left",
+                "arm": {
+                    "facet": 53
+                }
+            },
+            "Phase Gun 1": {
+                "file": "TL3H - Left Arm - Phase Gun 1.obj",
+                "designer": "Garin",
+                "md5": "d1faca7d977815f4b770179526cb9745",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-mk3-heavy-infantry/"
+                ],
+                "support": {
+                    "file": "TL3H - Left Arm - Phase Gun 1 - Supported.obj",
+                    "md5": "84e1f3da46cb7ffb5c2827f0e23a0a52"
+                },
+                "dextral": "left",
+                "arm": {
+                    "facet": 0
+                }
+            },
+            "Pointing": {
+                "file": "TL3H - Left Arm - Pointing.obj",
+                "designer": "Garin",
+                "md5": "0f089e409ee0be1658e758e9d2f86379",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-mk3-heavy-infantry/"
+                ],
+                "support": {
+                    "file": "TL3H - Left Arm - Pointing - Supported.obj",
+                    "md5": "992917c3dac259bbc896e1cf1a3ce205"
+                },
+                "dextral": "left",
+                "arm": {
+                    "facet": 532
+                }
+            },
+            "Twin Phase Gun 1": {
+                "file": "TL3H - Left Arm - Twin Phase Gun 1.obj",
+                "designer": "Garin",
+                "md5": "2e0339a97b3275900a9d3d36e8d934e4",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-mk3-heavy-infantry/"
+                ],
+                "support": {
+                    "file": "TL3H - Left Arm - Twin Phase Gun 1 - Supported.obj",
+                    "md5": "02f2e6c39c7b27890986be1a0a6cdcc8"
+                },
+                "dextral": "left",
+                "arm": {
+                    "facet": 56
+                }
+            },
+            "Twin Phase Gun 3": {
+                "file": "TL3H - Left Arm - Twin Phase Gun 3.obj",
+                "designer": "Garin",
+                "md5": "145333e022340e35f488141c34788a7c",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-mk3-heavy-infantry/"
+                ],
+                "support": {
+                    "file": "TL3H - Left Arm - Twin Phase Gun 3 - Supported.obj",
+                    "md5": "07232b4c1a13052714a766b9278af53a"
+                },
+                "dextral": "left",
+                "arm": {
+                    "facet": 14
+                }
+            },
+            "LR - Heavy Phase Gun 1": {
+                "file": "TL3H - LR - Heavy Phase Gun 1.obj",
+                "designer": "Garin",
+                "md5": "9e1df43ea90ff0b58f0c4094a77911a8",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-mk3-heavy-infantry/"
+                ],
+                "support": {
+                    "file": "TL3H - LR - Heavy Phase Gun 1 - Supported.obj",
+                    "md5": "0ae493194ad9c8a577413b8451dab7fc"
+                },
+                "dextral": "right",
+                "arm": {
+                    "facet": 56
+                }
+            },
+            "LR - Phase Gun 1": {
+                "file": "TL3H - LR - Phase Gun 1.obj",
+                "designer": "Garin",
+                "md5": "481b1e326c01c6c18d5a761f0d9205a9",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-mk3-heavy-infantry/"
+                ],
+                "support": {
+                    "file": "TL3H - LR - Phase Gun 1 - Supported.obj",
+                    "md5": "b6a9182992eaad48086fecb17ab6c888"
+                },
+                "dextral": "right",
+                "arm": {
+                    "facet": 47
+                }
+            },
+            "Combat Fist 1": {
+                "file": "TL3H - Right Arm - Combat Fist 1.obj",
+                "designer": "Garin",
+                "md5": "41ea89a18c42ed6037e569062fb6eb87",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-mk3-heavy-infantry/"
+                ],
+                "support": {
+                    "file": "TL3H - Right Arm - Combat Fist 1 - Supported.obj",
+                    "md5": "b21208337cca8db15d162cd15b53710b"
+                },
+                "dextral": "right",
+                "arm": {
+                    "facet": 14
+                }
+            },
+            "Combat Fist 2": {
+                "file": "TL3H - Right Arm - Combat Fist 2.obj",
+                "designer": "Garin",
+                "md5": "6f9a95c6c9f36aa49347607e227baabd",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-mk3-heavy-infantry/"
+                ],
+                "support": {
+                    "file": "TL3H - Right Arm - Combat Fist 2 - Supported.obj",
+                    "md5": "b7509a70430fe40063799d43f947bf59"
+                },
+                "dextral": "right",
+                "arm": {
+                    "facet": 10
+                }
+            },
+            "Combat Fist 3": {
+                "file": "TL3H - Right Arm - Combat Fist 3.obj",
+                "designer": "Garin",
+                "md5": "1c910d8d43ea7d9069dad33c6060334d",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-mk3-heavy-infantry/"
+                ],
+                "support": {
+                    "file": "TL3H - Right Arm - Combat Fist 3 - Supported.obj",
+                    "md5": "5be9022c6168c0844b005beebc6c5225"
+                },
+                "dextral": "right",
+                "arm": {
+                    "facet": 6
+                }
+            },
+            "Flame Fist 1": {
+                "file": "TL3H - Right Arm - Flame Fist 1.obj",
+                "designer": "Garin",
+                "md5": "96f1a64aef44b691569c110e77edf3ac",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-mk3-heavy-infantry/"
+                ],
+                "support": {
+                    "file": "TL3H - Right Arm - Flame Fist 1 - Supported.obj",
+                    "md5": "c6c643ae0eb3d2445b96d418593d422a"
+                },
+                "dextral": "right",
+                "arm": {
+                    "facet": 138
+                }
+            },
+            "Flame Fist 2": {
+                "file": "TL3H - Right Arm - Flame Fist 2.obj",
+                "designer": "Garin",
+                "md5": "0f1e0c1ec83f435e7ca610f4ec79747d",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-mk3-heavy-infantry/"
+                ],
+                "support": {
+                    "file": "TL3H - Right Arm - Flame Fist 2 - Supported.obj",
+                    "md5": "b790f9e9af9a48134bdd2e1563e9594b"
+                },
+                "dextral": "right",
+                "arm": {
+                    "facet": 21
+                }
+            },
+            "Flame Fist 3": {
+                "file": "TL3H - Right Arm - Flame Fist 3.obj",
+                "designer": "Garin",
+                "md5": "f5621049b95142039ce99fce7fb08218",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-mk3-heavy-infantry/"
+                ],
+                "support": {
+                    "file": "TL3H - Right Arm - Flame Fist 3 - Supported.obj",
+                    "md5": "83625962fea74ea78f85e37a62d70bd8"
+                },
+                "dextral": "right",
+                "arm": {
+                    "facet": 25
+                }
+            },
+            "Phase Axe 1": {
+                "file": "TL3H - Right Arm - Phase Axe 1.obj",
+                "designer": "Garin",
+                "md5": "8a09f8b9d904cf87ee266167e78a7f7d",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-mk3-heavy-infantry/"
+                ],
+                "support": {
+                    "file": "TL3H - Right Arm - Phase Axe 1 - Supported.obj",
+                    "md5": "131d6f4024203d3f86842cac8f3fd864"
+                },
+                "dextral": "right",
+                "arm": {
+                    "facet": 5
+                }
+            },
+            "Phase Axe 2": {
+                "file": "TL3H - Right Arm - Phase Axe 2.obj",
+                "designer": "Garin",
+                "md5": "9b38be28728a526db1938019d211a376",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-mk3-heavy-infantry/"
+                ],
+                "support": {
+                    "file": "TL3H - Right Arm - Phase Axe 2 - Supported.obj",
+                    "md5": "3aa6cadce462458ce72d7252dfb7273e"
+                },
+                "dextral": "right",
+                "arm": {
+                    "facet": 11
+                }
+            },
+            "Phase Axe 3": {
+                "file": "TL3H - Right Arm - Phase Axe 3.obj",
+                "designer": "Garin",
+                "md5": "1afa10d4ab23c5face272d326a932c52",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-mk3-heavy-infantry/"
+                ],
+                "support": {
+                    "file": "TL3H - Right Arm - Phase Axe 3 - Supported.obj",
+                    "md5": "ac296ce1442a80ac5bb2d30c177c34b5"
+                },
+                "dextral": "right",
+                "arm": {
+                    "facet": 16
+                }
+            },
+            "Phase Axe 4": {
+                "file": "TL3H - Right Arm - Phase Axe 4.obj",
+                "designer": "Garin",
+                "md5": "a5e737ab131ef24e2d59b559128abf97",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-mk3-heavy-infantry/"
+                ],
+                "support": {
+                    "file": "TL3H - Right Arm - Phase Axe 4 - Supported.obj",
+                    "md5": "66bd64b41b48c6e660d37c18f2f78d79"
+                },
+                "dextral": "right",
+                "arm": {
+                    "facet": 4
+                }
+            },
+            "Phase Blade 1": {
+                "file": "TL3H - Right Arm - Phase Blade 1.obj",
+                "designer": "Garin",
+                "md5": "bbad847b9e88e0a254af3100e6cd462c",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-mk3-heavy-infantry/"
+                ],
+                "support": {
+                    "file": "TL3H - Right Arm - Phase Blade 1 - Supported.obj",
+                    "md5": "d1a0a1d5a99beaa7a43accbfdad3fc40"
+                },
+                "dextral": "right",
+                "arm": {
+                    "facet": 19
+                }
+            },
+            "Phase Blade 2": {
+                "file": "TL3H - Right Arm - Phase Blade 2.obj",
+                "designer": "Garin",
+                "md5": "7274d8b73b762ec94f1df4fbe8bf1db5",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-mk3-heavy-infantry/"
+                ],
+                "support": {
+                    "file": "TL3H - Right Arm - Phase Blade 2 - Supported.obj",
+                    "md5": "d27a25f8e8aa55a1061bcfe8cbebd672"
+                },
+                "dextral": "right",
+                "arm": {
+                    "facet": 53
+                }
+            },
+            "Phase Blade 3": {
+                "file": "TL3H - Right Arm - Phase Blade 3.obj",
+                "designer": "Garin",
+                "md5": "6b0d334ed50ef8ceb76e70c0cf739623",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-mk3-heavy-infantry/"
+                ],
+                "support": {
+                    "file": "TL3H - Right Arm - Phase Blade 3 - Supported.obj",
+                    "md5": "a6ddfd57b1ec603ceae06c80b088bc6c"
+                },
+                "dextral": "right",
+                "arm": {
+                    "facet": 17
+                }
+            },
+            "Phase Blade 4": {
+                "file": "TL3H - Right Arm - Phase Blade 4.obj",
+                "designer": "Garin",
+                "md5": "1648e784bca38707f83a76ef1c507831",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-mk3-heavy-infantry/"
+                ],
+                "support": {
+                    "file": "TL3H - Right Arm - Phase Blade 4 - Supported.obj",
+                    "md5": "70db128ab09c1ef979003f841ad82e97"
+                },
+                "dextral": "right",
+                "arm": {
+                    "facet": 36
+                }
+            },
+            "Phase Fist 1": {
+                "file": "TL3H - Right Arm - Phase Fist 1.obj",
+                "designer": "Garin",
+                "md5": "590d3dcd49c258047f5113cfdb4c7f21",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-mk3-heavy-infantry/"
+                ],
+                "support": {
+                    "file": "TL3H - Right Arm - Phase Fist 1 - Supported.obj",
+                    "md5": "a379d20158e1cd4f19dffd822feab977"
+                },
+                "dextral": "right",
+                "arm": {
+                    "facet": 51
+                }
+            },
+            "Phase Fist 2": {
+                "file": "TL3H - Right Arm - Phase Fist 2.obj",
+                "designer": "Garin",
+                "md5": "e9e63c77c4182232b21dbd478421cfc5",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-mk3-heavy-infantry/"
+                ],
+                "support": {
+                    "file": "TL3H - Right Arm - Phase Fist 2 - Supported.obj",
+                    "md5": "12339b8f6189541ac714b15c01639de4"
+                },
+                "dextral": "right",
+                "arm": {
+                    "facet": 37
+                }
+            },
+            "Phase Fist 3": {
+                "file": "TL3H - Right Arm - Phase Fist 3.obj",
+                "designer": "Garin",
+                "md5": "5cbfc3dcbd44141b6e0892ba0ca062b7",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-mk3-heavy-infantry/"
+                ],
+                "support": {
+                    "file": "TL3H - Right Arm - Phase Fist 3 - Supported.obj",
+                    "md5": "ed06e87b54f8bbd44482b98fcc6e3394"
+                },
+                "dextral": "right",
+                "arm": {
+                    "facet": 20
+                }
+            },
+            "Rotator Gun 1": {
+                "file": "TL3H - Right Arm - Rotator Gun 1.obj",
+                "designer": "Garin",
+                "md5": "ab861decb8f2e32f0d99e3195eba2763",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-mk3-heavy-infantry/"
+                ],
+                "support": {
+                    "file": "TL3H - Right Arm - Rotator Gun 1 - Supported.obj",
+                    "md5": "a75a87c344ccca9a40981e699337f9b2"
+                },
+                "dextral": "right",
+                "arm": {
+                    "facet": 28
+                }
+            },
+            "Rotator Gun 2": {
+                "file": "TL3H - Right Arm - Rotator Gun 2.obj",
+                "designer": "Garin",
+                "md5": "8e3f9486f152f047c958fcde73794a95",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-mk3-heavy-infantry/"
+                ],
+                "support": {
+                    "file": "TL3H - Right Arm - Rotator Gun 2 - Supported.obj",
+                    "md5": "91c398525cfe5d3628163870e7a2f5ad"
+                },
+                "dextral": "right",
+                "arm": {
+                    "facet": 48
+                }
+            },
+            "Twin Phase Gun 2": {
+                "file": "TL3H - Right Arm - Twin Phase Gun 2.obj",
+                "designer": "Garin",
+                "md5": "120c5ebe6b16e7e874148319ab39b7fb",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-mk3-heavy-infantry/"
+                ],
+                "support": {
+                    "file": "TL3H - Right Arm - Twin Phase Gun 2 - Supported.obj",
+                    "md5": "c9510a1b3762fd746e7926dd91799b64"
+                },
+                "dextral": "right",
+                "arm": {
+                    "facet": 36
+                }
+            }
+        }
+    }
+}

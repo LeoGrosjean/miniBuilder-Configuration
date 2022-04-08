@@ -1,0 +1,86 @@
+{
+    "Purity Seals": {
+        "desc": {
+            "display": "Purity Seals",
+            "path": "Wargame Humanoid/bitz/Purity Seals/",
+            "bitz": true,
+            "nodes": []
+        },
+        "stl": {
+            "L5": {
+                "file": "L5.stl",
+                "designer": "BREXIT",
+                "md5": "1c28173fc01ac3061c9e6e206b9f3c2d",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/art/purity-seals-brexit"
+                ],
+                "bitz": {
+                    "face": 5892
+                }
+            },
+            "Paper Extra Large 1": {
+                "file": "EL1.stl",
+                "designer": "BREXIT",
+                "md5": "8557a54aeaa0cb4881aae133f6b1325c",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/art/purity-seals-brexit"
+                ],
+                "bitz": {
+                    "vertex": 1921
+                }
+            },
+            "Xs1": {
+                "file": "XS1.stl",
+                "designer": "BREXIT",
+                "md5": "be2d025149dbeddda11386c25eed79b5",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/art/purity-seals-brexit"
+                ],
+                "bitz": {
+                    "vertex": 9549
+                }
+            }
+        }
+    },
+    "Shoulders": {
+        "desc": {
+            "display": "Shoulders",
+            "path": "Wargame Humanoid/bitz/Shoulders/"
+        },
+        "stl": {
+            "Mk4 Shoulder 01": {
+                "file": "tac_shoulder_01.stl",
+                "designer": "LoggyK",
+                "md5": "dbf55acb09f3a64a3a002f7a67594e72",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/art/modular-marines-pt1-mark-4-tactical"
+                ],
+                "bitz": {
+                    "vertex": 31770
+                }
+            },
+            "Mk4 Shoulder 02": {
+                "file": "tac_shoulder_02.stl",
+                "designer": "LoggyK",
+                "md5": "d82a5fba90ee81763132a7a4909c6a63",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/art/modular-marines-pt1-mark-4-tactical"
+                ],
+                "bitz": {
+                    "vertex": 42038
+                }
+            },
+            "Mk4 Shoulder 03": {
+                "file": "tac_shoulder_03.stl",
+                "designer": "LoggyK",
+                "md5": "99098100e8394e83e415db2fd8fb2864",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/art/modular-marines-pt1-mark-4-tactical"
+                ],
+                "bitz": {
+                    "vertex": 62039
+                }
+            }
+        }
+    }
+}

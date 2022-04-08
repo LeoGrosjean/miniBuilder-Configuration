@@ -1,0 +1,373 @@
+{
+    "Tempest Legion": {
+        "desc": {
+            "display": "Tempest Legion",
+            "path": "Wargame Humanoid/bitz/Tempest Legion/"
+        },
+        "stl": {
+            "Basic Troops - Chain Axe": {
+                "file": "TL - Chain Axe.OBJ",
+                "designer": "Garin",
+                "md5": "6135e8ea585d30d23f3757d5db60004c",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-basic-troops/"
+                ],
+                "support": {
+                    "file": "TL - Chain Axe - Supported.OBJ",
+                    "md5": "95d8eeebd95b399f910df8e5dd4a3ff9"
+                },
+                "bitz": {
+                    "face": 1183
+                }
+            },
+            "Basic Troops - Shoulder Pad 1": {
+                "file": "TL - Shoulder Pad 1.OBJ",
+                "designer": "Garin",
+                "md5": "7c0407dcafbf86b1fe9b899bb2081dc4",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-basic-troops/"
+                ],
+                "support": {
+                    "file": "TL - Shoulder Pad 1 - Supported.OBJ",
+                    "md5": "cf640f054545513abb7a14fa8106de75"
+                },
+                "bitz": {
+                    "vertex": 5447
+                }
+            },
+            "Basic Troops - Shoulder Pad 2": {
+                "file": "TL - Shoulder Pad 2.OBJ",
+                "designer": "Garin",
+                "md5": "3a9774aa469b49316557af36e0a43d26",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-basic-troops/"
+                ],
+                "support": {
+                    "file": "TL - Shoulder Pad 2 - Supported.OBJ",
+                    "md5": "12c9db01e75dc5f1b7529603ca0ccaa8"
+                },
+                "bitz": {
+                    "vertex": 7651
+                }
+            },
+            "Heavy Cataclysm - Shoulderpad": {
+                "file": "TLHI - Left Shoulderpad 1.OBJ",
+                "designer": "Garin",
+                "md5": "72ce11053529db7e9667716687bc062c",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-heavy-infantry/"
+                ],
+                "support": {
+                    "file": "TLHI - Left Shoulderpad 1 - Supported.OBJ",
+                    "md5": "a2835f0c4c30024b38084e588e9babf5"
+                },
+                "bitz": {
+                    "face": 224
+                }
+            },
+            "Heavy Cataclysm - Top Knot 1": {
+                "file": "TLHI - Top Knot 1.OBJ",
+                "designer": "Garin",
+                "md5": "aff90b0e60342a057435c23cb6e70fc1",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-heavy-infantry/"
+                ],
+                "support": {
+                    "file": "TLHI - Top Knot 1 - Supported.OBJ",
+                    "md5": "19901f43be01abe6aaefd5210aa62f92"
+                },
+                "bitz": {
+                    "face": 6098
+                }
+            },
+            "Heavy Cataclysm - Top Knot 2": {
+                "file": "TLHI - Top Knot 2.OBJ",
+                "designer": "Garin",
+                "md5": "e445205661f90caa081cc08a12099a14",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-heavy-infantry/"
+                ],
+                "support": {
+                    "file": "TLHI - Top Knot 2 - Supported.OBJ",
+                    "md5": "d52a9904185d648b4fe1fb50a6c63ca4"
+                },
+                "bitz": {
+                    "face": 3063
+                }
+            },
+            "Champion Shoulder": {
+                "file": "TL - Champion - Shoulder.obj",
+                "designer": "Garin",
+                "md5": "d372539a29ea7725b205dc069c0795f6",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-champion/"
+                ],
+                "support": {
+                    "file": "TL - Champion - Shoulder - Supported.OBJ",
+                    "md5": "73ae9f22d2d4d4528e4c9ad75321f467"
+                },
+                "bitz": {
+                    "face": 19615
+                }
+            },
+            "Mk3 - Shoulder": {
+                "file": "TL3 - Shoulder L1.obj",
+                "designer": "Garin",
+                "md5": "2229f2097d5c95e58be89e88a3427fa9",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-mk3-troops/"
+                ],
+                "support": {
+                    "file": "TL3 - Shoulder L1 - Supported.obj",
+                    "md5": "88f09e9fab6793c836bb306b52320574"
+                },
+                "bitz": {
+                    "face": 4844
+                }
+            },
+            "32mm Round Base": {
+                "file": "32mm Round Base.obj",
+                "designer": "Garin",
+                "md5": "6dc639da1fe853d2720a3e86bbd2c87d",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-mk3-troops/"
+                ],
+                "support": {
+                    "file": "32mm Round Base.obj",
+                    "md5": "6dc639da1fe853d2720a3e86bbd2c87d"
+                },
+                "bitz": {
+                    "face": 1231
+                }
+            },
+            "Base Topper 1": {
+                "file": "Base Topper 1.obj",
+                "designer": "Garin",
+                "md5": "c932cfee9603004178f709e398e1479d",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-aetos-squad/"
+                ],
+                "support": {
+                    "file": "Base Topper 1 - Supported.obj",
+                    "md5": "b4034c2238979e682e5e80d0e3937f01"
+                },
+                "bitz": {
+                    "vertex": 19442
+                }
+            },
+            "Base Topper 2": {
+                "file": "Base Topper 2.obj",
+                "designer": "Garin",
+                "md5": "7197e1669fef5577adbed16bceb598e2",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-aetos-squad/"
+                ],
+                "support": {
+                    "file": "Base Topper 2 - Supported.obj",
+                    "md5": "e00807cdb6aa959703927ec6f3e80161"
+                },
+                "bitz": {
+                    "vertex": 17555
+                }
+            },
+            "Base Topper 3": {
+                "file": "Base Topper 3.obj",
+                "designer": "Garin",
+                "md5": "7a17571b065847d4bf76be85648539b7",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-aetos-squad/"
+                ],
+                "support": {
+                    "file": "Base Topper 3 - Supported.obj",
+                    "md5": "81358f38c6a3f6435250dbd3795cf9b4"
+                },
+                "bitz": {
+                    "face": 2203
+                }
+            },
+            "Mk3 - Ammo Feed": {
+                "file": "TL3 - Ammo Feed.obj",
+                "designer": "Garin",
+                "md5": "9bd46af7943ca6962e6b6d066002e865",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-aetos-squad/"
+                ],
+                "support": {
+                    "file": "TL3 - Ammo Feed 1 - Supported.obj",
+                    "md5": "3485b43ff908273ea3731948447c87ad"
+                },
+                "bitz": {
+                    "face": 18617
+                }
+            },
+            "Mk3 Aetos - Flight Stem 1": {
+                "file": "TL3 - Flight Stem 1.obj",
+                "designer": "Garin",
+                "md5": "f4483cb20667ef9dfa5319cf3b717164",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-aetos-squad/"
+                ],
+                "support": {
+                    "file": "TL3 - Flight Stem 1 - Supported.obj",
+                    "md5": "c70b4520929749dcd7c56bb2457b0e1b"
+                },
+                "bitz": {
+                    "facet": 110
+                }
+            },
+            "Mk3 Aetos - Flight Ammo Feed": {
+                "file": "TL3 - Flight Stem 2 - Ammo Feed.obj",
+                "designer": "Garin",
+                "md5": "885a32be8e9d25afc3db60dc1059b84e",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-aetos-squad/"
+                ],
+                "support": {
+                    "file": "TL3 - Flight Stem 2 - Ammo Feed - Supported.obj",
+                    "md5": "696cdbf69a253b6a3d55664ed36d7c71"
+                },
+                "bitz": {
+                    "facet": 152
+                }
+            },
+            "Backpack - Light Jetpack - Fin": {
+                "file": "TL3 - Light Jetpack - Fin.obj",
+                "designer": "Garin",
+                "md5": "f22c6b540c98a1142fee058c879f21a9",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-aetos-squad/"
+                ],
+                "support": {
+                    "file": "TL3 - Light Jetpack - Fin - Supported.obj",
+                    "md5": "d941759775430dc3262dfb43aeb268ea"
+                },
+                "bitz": {
+                    "face": 7577
+                }
+            },
+            "40mm Round Base": {
+                "file": "40mm Round Base.obj",
+                "designer": "Garin",
+                "md5": "3664e6488e0e52c19e9e9734c17c7689",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-aetos-squad/"
+                ],
+                "bitz": {
+                    "face": 1609
+                }
+            },
+            "Jetbike - Handlebar": {
+                "file": "TL2 - Jetbike - Right Handlebar.OBJ",
+                "designer": "Garin",
+                "md5": "2b9f387b8e1591fc4427ff0bc04cab35",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-jetbike/"
+                ],
+                "support": {
+                    "file": "TL2 - Jetbike - Right Handlebar - Supported.OBJ",
+                    "md5": "daf668d522588a7c3364417034bce1ca"
+                },
+                "bitz": {
+                    "facet": 6
+                }
+            },
+            "Jetbike - Missile Pod": {
+                "file": "TL2 - Jetbike - Right Missile Pod.OBJ",
+                "designer": "Garin",
+                "md5": "a06f1e5d529396e535e266f149a58ea7",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-jetbike/"
+                ],
+                "support": {
+                    "file": "TL2 - Jetbike - Right Missile Pod - Supported.OBJ",
+                    "md5": "a4f8788b791269db3207de4e600a2c84"
+                },
+                "bitz": {
+                    "face": 536
+                }
+            },
+            "Jetbike - Stand": {
+                "file": "Bike Stand 1.OBJ",
+                "designer": "Garin",
+                "md5": "0d5f578c667480f870214fc297146df1",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-jetbike/"
+                ],
+                "bitz": {
+                    "face": 1170
+                }
+            },
+            "60mm Round Base": {
+                "file": "60mm Round Base.obj",
+                "designer": "Garin",
+                "md5": "3294727794210f3a4f0f9da577d2f0d3",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-jetbike/"
+                ],
+                "bitz": {
+                    "face": 52
+                }
+            },
+            "Mk3 Heavy - Shoulder": {
+                "file": "TL3H - Shoulder L1.obj",
+                "designer": "Garin",
+                "md5": "bc36c69f2e395f6857dc489d3292b28a",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-mk3-heavy-infantry/"
+                ],
+                "support": {
+                    "file": "TL3H - Shoulder L1 - Supported.obj",
+                    "md5": "eca0a6de443f3c757a93bed8ad28dd42"
+                },
+                "bitz": {
+                    "face": 6943
+                }
+            },
+            "Champion - Duelist - Cloak": {
+                "file": "TL3 - Cloak - Duelist.obj",
+                "designer": "Garin",
+                "md5": "46b1112d285194e33aed7ebbe6564344",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-duelists/"
+                ],
+                "support": {
+                    "file": "TL3 - Cloak - Duelist - Supported.obj",
+                    "md5": "5f19c9148a80cbce6d19f047d82af32e"
+                },
+                "bitz": {
+                    "vertex": 20286
+                }
+            },
+            "Duelist Base Topper": {
+                "file": "TL3 - Duelist Base Topper.obj",
+                "designer": "Garin",
+                "md5": "90f2daef8c486d1bb89e991a962f2f8b",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-duelists/"
+                ],
+                "support": {
+                    "file": "TL3 - Duelist Base Topper - Supported.obj",
+                    "md5": "f0ed2823607408d9b297f1373ec4966a"
+                },
+                "bitz": {
+                    "face": 3314
+                }
+            },
+            "Command - Shoulder": {
+                "file": "TL3 - Shoulder L2 - Command.obj",
+                "designer": "Garin",
+                "md5": "677b02a1b4febe52770900e3016117f6",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-duelists/"
+                ],
+                "support": {
+                    "file": "TL3 - Shoulder L2 - Command - Supported.obj",
+                    "md5": "e9623a0f112ce7fe23658e7852fc2aea"
+                },
+                "bitz": {
+                    "vertex": 23285
+                }
+            }
+        }
+    }
+}

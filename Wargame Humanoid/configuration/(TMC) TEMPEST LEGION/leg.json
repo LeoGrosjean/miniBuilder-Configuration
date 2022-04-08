@@ -1,0 +1,754 @@
+{
+    "Tempest Legion": {
+        "desc": {
+            "display": "Tempest Legion",
+            "path": "Wargame Humanoid/leg/Tempest Legion/",
+            "nodes": [
+                "leg"
+            ]
+        },
+        "stl": {
+            "Basic Troops - Legs 1": {
+                "file": "TL - Legs 1m.OBJ",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-basic-troops/"
+                ],
+                "designer": "Garin",
+                "md5": "37153be70e820977d4170f32291ec13f",
+                "leg": {
+                    "vertex": 12740
+                },
+                "bitzs": {
+                    "bases": {
+                        "face": 296
+                    }
+                },
+                "support": {
+                    "file": "TL - Legs 1 - Supported.OBJ",
+                    "md5": "cc2d250ce556230d613d7baadd8d4722"
+                }
+            },
+            "Basic Troops - At Ease": {
+                "file": "TL - Legs - At Ease.OBJ",
+                "designer": "Garin",
+                "md5": "7af4b1b76ed7d1726b550c986fa15e3b",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-basic-troops/"
+                ],
+                "leg": {
+                    "vertex": 22298
+                },
+                "support": {
+                    "file": "TL - Legs - At Ease - Supported.OBJ",
+                    "md5": "e4304470dd3aabced9b5788bde8c22c4"
+                }
+            },
+            "Basic Troops - Legs 2": {
+                "file": "TL - Legs 2.OBJ",
+                "designer": "Garin",
+                "md5": "2442fe19fb64ac2f35a6d35c10d125a8",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-basic-troops/"
+                ],
+                "leg": {
+                    "vertex": 19992
+                },
+                "bitzs": {
+                    "bases": {
+                        "face": 364
+                    }
+                },
+                "support": {
+                    "file": "TL - Legs 2 - Supported.OBJ",
+                    "md5": "330ba73ff135e703846c02542b916199"
+                }
+            },
+            "Basic Troops- Legs 3": {
+                "file": "TL - Legs 3.OBJ",
+                "designer": "Garin",
+                "md5": "44b5638ebf21257ac6f4c50051329890",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-basic-troops/"
+                ],
+                "leg": {
+                    "vertex": 1355
+                },
+                "support": {
+                    "file": "TL - Legs 3 - Supported.OBJ",
+                    "md5": "e28ffc97c936edbc50ad73444dc1dc61"
+                }
+            },
+            "Basic Troops - Legs 4": {
+                "file": "TL - Legs 4.OBJ",
+                "designer": "Garin",
+                "md5": "9c23aad99b9255696db5c4609e802525",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-basic-troops/"
+                ],
+                "leg": {
+                    "vertex": 21914
+                },
+                "support": {
+                    "file": "TL - Legs 4 - Supported.OBJ",
+                    "md5": "7903d5ecec4a76ad6e90f04edb27940b"
+                }
+            },
+            "Basic Troops - Legs 5": {
+                "file": "TL - Legs 5.OBJ",
+                "designer": "Garin",
+                "md5": "0d1eadef1d66413f64f27677c959e6fb",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-basic-troops/"
+                ],
+                "leg": {
+                    "vertex": 20429
+                },
+                "support": {
+                    "file": "TL - Legs 5 - Supported.OBJ",
+                    "md5": "6c9c331d69bd120d3544f46fe59c7193"
+                }
+            },
+            "Basic Troops - Legs 6": {
+                "file": "TL - Legs 6.OBJ",
+                "designer": "Garin",
+                "md5": "4fb5a5dcc0101b7126501b8a39c14d40",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-basic-troops/"
+                ],
+                "leg": {
+                    "vertex": 10101
+                },
+                "support": {
+                    "file": "TL - Legs 6 - Supported.OBJ",
+                    "md5": "4fa3a0cad223490dca8611e5b21cdb7d"
+                }
+            },
+            "Heavy Cataclysm - 1": {
+                "file": "TLHI - Pose 1 - Legs.obj",
+                "designer": "Garin",
+                "md5": "7762c18f0bc2fe70e2bf46c5f9321b2d",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-heavy-infantry/"
+                ],
+                "leg": {
+                    "facet": 12,
+                    "x": -1.38,
+                    "y": 0.04
+                },
+                "support": {
+                    "file": "TLHI - Pose 1 - Legs - Supported.OBJ",
+                    "md5": "4f705bffb03420307527a5e4bf9b3dbe"
+                }
+            },
+            "Heavy Cataclysm - 2": {
+                "file": "TLHI - Pose 2 - Legs.obj",
+                "designer": "Garin",
+                "md5": "e9c9617df0f61ac9ac2959da06fa24ed",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-heavy-infantry/"
+                ],
+                "leg": {
+                    "facet": 150
+                },
+                "support": {
+                    "file": "TLHI - Pose 2 - Legs - Supported.OBJ",
+                    "md5": "ec2b576c004fa6643e1c49b7e83cbc2b"
+                }
+            },
+            "Heavy Cataclysm - 3": {
+                "file": "TLHI - Pose 3 - Legs.OBJ",
+                "designer": "Garin",
+                "md5": "39980edfd03819e9fee5a4a84878253b",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-heavy-infantry/"
+                ],
+                "leg": {
+                    "facet": 0
+                },
+                "support": {
+                    "file": "TLHI - Pose 3 - Legs - Supported.OBJ",
+                    "md5": "73283c9f36f397506d848651698fa529"
+                }
+            },
+            "Heavy Cataclysm - 4": {
+                "file": "TLHI - Pose 4 - Legs.obj",
+                "designer": "Garin",
+                "md5": "01d43302a1cc70c30c43817c33297ff9",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-heavy-infantry/"
+                ],
+                "leg": {
+                    "facet": 18
+                },
+                "support": {
+                    "file": "TLHI - Pose 4 - Legs - Supported.OBJ",
+                    "md5": "e5e85f405a3289629819c91da7ffac88"
+                }
+            },
+            "Heavy Cataclysm - 5": {
+                "file": "TLHI - Pose 5 - legs.obj",
+                "designer": "Garin",
+                "md5": "a68a3dd4ce7895193585d1de1e60c915",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-heavy-infantry/"
+                ],
+                "leg": {
+                    "facet": 32
+                },
+                "support": {
+                    "file": "TLHI - Pose 5 - legs - Supported.OBJ",
+                    "md5": "3553fce627265cd5cb0cf17225a5d9b7"
+                }
+            },
+            "Mk3 - 1": {
+                "file": "TL3 - Legs 1.obj",
+                "designer": "Garin",
+                "md5": "71a8519ef389967c0c4e79cc7273e3ca",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-mk3-troops/"
+                ],
+                "leg": {
+                    "vertex": 25880
+                },
+                "support": {
+                    "file": "TL3 - Legs 1 - Supported.obj",
+                    "md5": "36e77aa4dffd4f22563ea5d18417d77f"
+                }
+            },
+            "Mk3 - 10": {
+                "file": "TL3 - Legs 10.obj",
+                "designer": "Garin",
+                "md5": "eb2017dc96c1e0e1887b8fdc743d1993",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-mk3-troops/"
+                ],
+                "leg": {
+                    "vertex": 8584
+                },
+                "support": {
+                    "file": "TL3 - Legs 10 - Supported.obj",
+                    "md5": "28e35d14b886a882c8b6703d32640327"
+                },
+                "bitzs": {
+                    "bases": {
+                        "facet": 51
+                    }
+                }
+            },
+            "Mk3 - 2": {
+                "file": "TL3 - Legs 2.obj",
+                "designer": "Garin",
+                "md5": "0e9023864e8bb7a3127f3474878a3a3c",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-mk3-troops/"
+                ],
+                "leg": {
+                    "vertex": 15487
+                },
+                "support": {
+                    "file": "TL3 - Legs 2 - Supported.obj",
+                    "md5": "fb2009317208ca078d1581021f112c19"
+                }
+            },
+            "Mk3 - 3": {
+                "file": "TL3 - Legs 3.obj",
+                "designer": "Garin",
+                "md5": "63e6a238a72a4d6c4927971f918fe149",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-mk3-troops/"
+                ],
+                "leg": {
+                    "vertex": 7872
+                },
+                "support": {
+                    "file": "TL3 - Legs 3 - Supported.obj",
+                    "md5": "445a9dfff17a743195845cd16d45383b"
+                }
+            },
+            "Mk3 - 4": {
+                "file": "TL3 - Legs 4.obj",
+                "designer": "Garin",
+                "md5": "a9570fe2e47744e402f7eb642267f52d",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-mk3-troops/"
+                ],
+                "leg": {
+                    "vertex": 27095
+                },
+                "support": {
+                    "file": "TL3 - Legs 4 - Supported.obj",
+                    "md5": "3a7b34b0a643bca0748207ac136a18c4"
+                }
+            },
+            "Mk3 - 5": {
+                "file": "TL3 - Legs 5.obj",
+                "designer": "Garin",
+                "md5": "096b161e29887f8aa7fb56c469c241fb",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-mk3-troops/"
+                ],
+                "leg": {
+                    "vertex": 6911
+                },
+                "support": {
+                    "file": "TL3 - Legs 5 - Supported.obj",
+                    "md5": "75a3ce4174266ceaa43a854f3a1a6abd"
+                }
+            },
+            "Mk3 - 6": {
+                "file": "TL3 - Legs 6.obj",
+                "designer": "Garin",
+                "md5": "9a0cc9d6c7d2c6fa43e708b00e60bd03",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-mk3-troops/"
+                ],
+                "leg": {
+                    "vertex": 24000
+                },
+                "support": {
+                    "file": "TL3 - Legs 6 - Supported.obj",
+                    "md5": "6cf2991335201bc3f1351fd9d6eb2296"
+                }
+            },
+            "Mk3 - 7": {
+                "file": "TL3 - Legs 7.obj",
+                "designer": "Garin",
+                "md5": "4a091c0bbe29c909350be374f885b9f3",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-mk3-troops/"
+                ],
+                "leg": {
+                    "vertex": 10033
+                },
+                "support": {
+                    "file": "TL3 - Legs 7 - Supported.obj",
+                    "md5": "bce96de840b035a328baa3183a58b55e"
+                }
+            },
+            "Mk3 - 8": {
+                "file": "TL3 - Legs 8.obj",
+                "designer": "Garin",
+                "md5": "df08c21f452a1706c24cce7550ccadb5",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-mk3-troops/"
+                ],
+                "leg": {
+                    "vertex": 6328
+                },
+                "support": {
+                    "file": "TL3 - Legs 8 - Supported.obj",
+                    "md5": "cd5ab65cd1876156773e34dffc64f677"
+                }
+            },
+            "Mk3 - 9": {
+                "file": "TL3 - Legs 9.obj",
+                "designer": "Garin",
+                "md5": "16af95b158283bcb90378223adc431fa",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-mk3-troops/"
+                ],
+                "leg": {
+                    "vertex": 27648
+                },
+                "support": {
+                    "file": "TL3 - Legs 9 - Supported.obj",
+                    "md5": "635d101b185f17d51e69b5cac4957e62"
+                }
+            },
+            "Champion ": {
+                "file": "TL - Champion - Legs.OBJ",
+                "designer": "Garin",
+                "md5": "6090f0532d5fea974130238046914cc5",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-champion/"
+                ],
+                "leg": {
+                    "vertex": 22013
+                },
+                "support": {
+                    "file": "TL - Champion - Legs - Supported.OBJ",
+                    "md5": "dd4b95333aeb9027cebf2614e8fcf13b"
+                }
+            },
+            "Medic 1": {
+                "file": "TL - Medic - Legs.OBJ",
+                "designer": "Garin",
+                "md5": "c68c539f33f915849c06e9f60fbab062",
+                "leg": {
+                    "vertex": 13821
+                }
+            },
+            "Default 1": {
+                "file": "TL - Legs 1m.OBJ",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-basic-troops/"
+                ],
+                "designer": "Garin",
+                "md5": "37153be70e820977d4170f32291ec13f",
+                "leg": {
+                    "vertex": 11591
+                },
+                "bitzs": {
+                    "base": {
+                        "face": 480
+                    }
+                }
+            },
+            "Sniper - Crouch 1": {
+                "file": "TL - Legs - Crouch 1.obj",
+                "designer": "Garin",
+                "md5": "b9cbf3b0be6c140601301e48f3d87ef1",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-heavy-snipers/"
+                ],
+                "support": {
+                    "file": "TL - Legs - Crouch 1 - Supported.obj",
+                    "md5": "c5db8803e4ba784d69a14c94c3a72be8"
+                },
+                "leg": {
+                    "vertex": 18985
+                }
+            },
+            "Sniper - Running": {
+                "file": "TL - Running Legs 3.obj",
+                "designer": "Garin",
+                "md5": "2e60b64182847e2e97ae167447ff5a84",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-heavy-snipers/"
+                ],
+                "support": {
+                    "file": "TL - Running Legs 3 - Supported.obj",
+                    "md5": "753d7b539a42a8c56c76c7ef084cbe32"
+                },
+                "leg": {
+                    "vertex_list": []
+                }
+            },
+            "Mk3 Aetos - Base Topper 1": {
+                "file": "TL3 - Legs - Base Topper 1.obj",
+                "designer": "Garin",
+                "md5": "92441cd5f83089dc07a4b0495ff66cb8",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-aetos-squad/"
+                ],
+                "support": {
+                    "file": "TL3 - Legs - Base Topper 1 - Supported.obj",
+                    "md5": "b7c47730255ab1498cf528638fa0980d"
+                },
+                "leg": {
+                    "vertex": 7195
+                },
+                "bitzs": {
+                    "Base Topper": {
+                        "facet": 0
+                    }
+                }
+            },
+            "Mk3 Aetos - Base Topper 2": {
+                "file": "TL3 - Legs - Base Topper 2.obj",
+                "designer": "Garin",
+                "md5": "80629a28684f4292b137c82afa4a5098",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-aetos-squad/"
+                ],
+                "support": {
+                    "file": "TL3 - Legs - Base Topper 2 - Supported.obj",
+                    "md5": "ef974501f232e9be16a071fb4f3f040b"
+                },
+                "leg": {
+                    "vertex": 5770
+                },
+                "bitzs": {
+                    "Base Topper": {
+                        "facet": 2
+                    }
+                }
+            },
+            "Mk3 Aetos - Flying 1": {
+                "file": "TL3 - Legs - Flying 1.obj",
+                "designer": "Garin",
+                "md5": "4d0ad4b842b7c55545988012912761d8",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-aetos-squad/"
+                ],
+                "support": {
+                    "file": "TL3 - Legs - Flying 1 - Supported.obj",
+                    "md5": "5e225c207d20eb5f7848c4f98cb3e3ce"
+                },
+                "leg": {
+                    "vertex": 27157
+                }
+            },
+            "Mk3 Aetos - Flying 2": {
+                "file": "TL3 - Legs - Flying 2.obj",
+                "designer": "Garin",
+                "md5": "b28846142832ee9c3651c591676403ff",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-aetos-squad/"
+                ],
+                "support": {
+                    "file": "TL3 - Legs - Flying 2 - Supported.obj",
+                    "md5": "88a024689fdf34552c74cc635af2df77"
+                },
+                "leg": {
+                    "vertex": 8181
+                }
+            },
+            "Mk3 Aetos - Flying 3": {
+                "file": "TL3 - Legs - Flying 3.obj",
+                "designer": "Garin",
+                "md5": "5d4a289f094302af53b10ceb563b452a",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-aetos-squad/"
+                ],
+                "support": {
+                    "file": "TL3 - Legs - Flying 3 - Supported.obj",
+                    "md5": "52d17d15700793d700bf30f3cde2d2c1"
+                },
+                "leg": {
+                    "vertex": 12622
+                }
+            },
+            "Void Legionary -1": {
+                "file": "TL - Void Legionary - Legs 1.OBJ",
+                "designer": "Garin",
+                "md5": "d7d629bbd2a850a5bdf92db4a84903f9",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-void-legionaries/"
+                ],
+                "support": {
+                    "file": "TL - Void Legionary - Legs 1 - Supported.OBJ",
+                    "md5": "33a9bb26112907ac7615c5ea88eccb38"
+                },
+                "leg": {
+                    "facet": 19
+                }
+            },
+            "Void Legionary - 2": {
+                "file": "TL - Void Legionary - Legs 2.OBJ",
+                "designer": "Garin",
+                "md5": "be58a1df3febbeeed8812383eed83065",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-void-legionaries/"
+                ],
+                "support": {
+                    "file": "TL - Void Legionary - Legs 2 - Supported.OBJ",
+                    "md5": "f13f12613033a93c7f0f9f04483095b9"
+                },
+                "leg": {
+                    "facet": 13
+                }
+            },
+            "Void Legionary - 3": {
+                "file": "TL - Void Legionary - Legs 3.OBJ",
+                "designer": "Garin",
+                "md5": "ae61b9e273a1ed90fcc24adb80a68eb0",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-void-legionaries/"
+                ],
+                "support": {
+                    "file": "TL - Void Legionary - Legs 3 - Supported.OBJ",
+                    "md5": "f4439fd765dd443daa95143cc755470d"
+                },
+                "leg": {
+                    "facet": 18
+                }
+            },
+            "Void Legionary - 4": {
+                "file": "TL - Void Legionary - Legs 4.OBJ",
+                "designer": "Garin",
+                "md5": "9f13d867c0bf505d0a27792321b1ca6e",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-void-legionaries/"
+                ],
+                "support": {
+                    "file": "TL - Void Legionary - Legs 4 - Supported.OBJ",
+                    "md5": "e0adf88ac09a518cf4e5b16621e3d65d"
+                },
+                "leg": {
+                    "facet": 26
+                }
+            },
+            "Void Legionary - 5": {
+                "file": "TL - Void Legionary - Legs 5.OBJ",
+                "designer": "Garin",
+                "md5": "5644b9eb54542f2bf2862bdb7fbe5321",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-void-legionaries/"
+                ],
+                "support": {
+                    "file": "TL - Void Legionary - Legs 5 - Supported.OBJ",
+                    "md5": "0de6f4f2802c79cf19a5cbf598497319"
+                },
+                "leg": {
+                    "facet": 18
+                }
+            },
+            "Mk3 Heavy - 1": {
+                "file": "TL3H - Legs 1.obj",
+                "designer": "Garin",
+                "md5": "b79e424456ab4c8fa0ebf07f4825e8a4",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-mk3-heavy-infantry/"
+                ],
+                "support": {
+                    "file": "TL3H - Legs 1 - Supported.obj",
+                    "md5": "eceae61439635fa2c3203f7e92912797"
+                },
+                "leg": {
+                    "facet": 10
+                }
+            },
+            "Mk3 Heavy - 2": {
+                "file": "TL3H - Legs 2.obj",
+                "designer": "Garin",
+                "md5": "537fff56de4874790452881242eb91f7",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-mk3-heavy-infantry/"
+                ],
+                "support": {
+                    "file": "TL3H - Legs 2 - Supported.obj",
+                    "md5": "4a8a0ec772f8c64783d02bef78842232"
+                },
+                "leg": {
+                    "facet": 14
+                }
+            },
+            "Mk3 Heavy - 3": {
+                "file": "TL3H - Legs 3.obj",
+                "designer": "Garin",
+                "md5": "84a1e1b7b9676368c5890360d2d841bb",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-mk3-heavy-infantry/"
+                ],
+                "support": {
+                    "file": "TL3H - Legs 3 - Supported.obj",
+                    "md5": "3730d86959f4056904136dd6ac0c2b39"
+                },
+                "leg": {
+                    "facet": 17
+                }
+            },
+            "Mk3 Heavy - 4": {
+                "file": "TL3H - Legs 4.obj",
+                "designer": "Garin",
+                "md5": "ce1e4558bacd639b0c5ef43d227504fa",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-mk3-heavy-infantry/"
+                ],
+                "support": {
+                    "file": "TL3H - Legs 4 - Supported.obj",
+                    "md5": "2213fe1b83e1cbb3dd4063a0ebc2b2fa"
+                },
+                "leg": {
+                    "facet": 16
+                }
+            },
+            "Mk3 Heavy - 5": {
+                "file": "TL3H - Legs 5.obj",
+                "designer": "Garin",
+                "md5": "7be983064396dac9d59461c03cc3ea7f",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-mk3-heavy-infantry/"
+                ],
+                "support": {
+                    "file": "TL3H - Legs 5 - Supported.obj",
+                    "md5": "03fb188687b5a2de807914f157dfa95b"
+                },
+                "leg": {
+                    "facet": 15
+                }
+            },
+            "Mk3 Heavy - 6": {
+                "file": "TL3H - Legs 6.obj",
+                "designer": "Garin",
+                "md5": "041f0c0b49c873dd0d24664ce7998a22",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-mk3-heavy-infantry/"
+                ],
+                "support": {
+                    "file": "TL3H - Legs 6 - Supported.obj",
+                    "md5": "2bad4868c2ce0b992f9eb32ade58f941"
+                },
+                "leg": {
+                    "facet": 20
+                }
+            },
+            "Mk3 Heavy - 7": {
+                "file": "TL3H - Legs 7.obj",
+                "designer": "Garin",
+                "md5": "3e3f0eb48afcc42e413c4f236a923eae",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-mk3-heavy-infantry/"
+                ],
+                "support": {
+                    "file": "TL3H - Legs 7 - Supported.obj",
+                    "md5": "4dd487bc1505fee0f145407d94ccefd0"
+                },
+                "leg": {
+                    "facet": 13
+                }
+            },
+            "Mk3 Heavy - 8": {
+                "file": "TL3H - Legs 8.obj",
+                "designer": "Garin",
+                "md5": "f66e5b4e45b9d6203961c5174afe93ba",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-mk3-heavy-infantry/"
+                ],
+                "support": {
+                    "file": "TL3H - Legs 8 - Supported.obj",
+                    "md5": "f95091c5bb3712b75cfc14e3f565de40"
+                },
+                "leg": {
+                    "facet": 1
+                }
+            },
+            "Tl3h - Legs 9": {
+                "file": "TL3H - Legs 9.obj",
+                "designer": "Garin",
+                "md5": "545c2a5a449872842990d4459e026f2d",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-mk3-heavy-infantry/"
+                ],
+                "support": {
+                    "file": "TL3H - Legs 9 - Supported.obj",
+                    "md5": "468a0a2f8567d1ecde474791a2530453"
+                },
+                "leg": {
+                    "facet": 3
+                }
+            },
+            "Tl3h - Legs 10": {
+                "file": "TL3H - Legs 10.obj",
+                "designer": "Garin",
+                "md5": "299af4984fada04641e1a67d62ece37f",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-mk3-heavy-infantry/"
+                ],
+                "support": {
+                    "file": "TL3H - Legs 10 - Supported.obj",
+                    "md5": "659dfe6d78adfbb0daa98ffd70be3f46"
+                },
+                "leg": {
+                    "facet": 3
+                }
+            },
+            "Hero - Duelist": {
+                "file": "TL3 - Legs - Duelist.obj",
+                "designer": "Garin",
+                "md5": "3f4c7202b54394d5228f513574b70b75",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-duelists/"
+                ],
+                "support": {
+                    "file": "TL3 - Legs - Duelist - Supported.obj",
+                    "md5": "e4dc9bb90957f640a42f48dd57341330"
+                },
+                "leg": {
+                    "vertex": 6976
+                }
+            }
+        }
+    }
+}

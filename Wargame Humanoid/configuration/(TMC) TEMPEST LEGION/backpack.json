@@ -1,0 +1,152 @@
+{
+    "Tempest Legion": {
+        "desc": {
+            "display": "Tempest Legion",
+            "path": "Wargame Humanoid/backpack/Tempest Legion/",
+            "nodes": [
+                "backpack"
+            ]
+        },
+        "stl": {
+            "Basic Troop - Backpack": {
+                "file": "TL - Backpack 1.OBJ",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-basic-troops/"
+                ],
+                "designer": "Garin",
+                "md5": "d6ee37bc62d21df5b08f3b07ee6025ae",
+                "backpack": {
+                    "facet": 100
+                },
+                "support": {
+                    "file": "TL - Backpack 1 - Supported.OBJ",
+                    "md5": "e21be82f3c7220b27171b5d4b8b3f601"
+                }
+            },
+            "Heavy Plasma Gun Pack": {
+                "file": "TL3 - LR - Heavy Plasma Gun Pack.obj",
+                "designer": "Garin",
+                "md5": "6822b81331743ff2e47e254aa4d6e929",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-mk3-ranged-pack-1/"
+                ],
+                "backpack": {
+                    "facet": 106
+                }
+            },
+            "Mk3 - Backpack 1": {
+                "file": "TL3 - Backpack 1.obj",
+                "designer": "Garin",
+                "md5": "2c8c34945ab6c19b2235a73eedc227c9",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-mk3-troops/"
+                ],
+                "backpack": {
+                    "facet": 270
+                },
+                "support": {
+                    "file": "TL3 - Backpack 1 - Supported.obj",
+                    "md5": "6ef47ad078f5ce2e53ab5ab4f1e42487"
+                }
+            },
+            "Champion": {
+                "file": "TL - Champion - Back.obj",
+                "designer": "Garin",
+                "md5": "0df521be501f5f4fe8f3de5d813f1873",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-champion/"
+                ],
+                "backpack": {
+                    "vertex": 529
+                },
+                "support": {
+                    "file": "TL - Champion - Back - Supported.OBJ",
+                    "md5": "ffba7b1291fe0d7c38dba9079b5f7969"
+                }
+            },
+            "Sniper - Radio": {
+                "file": "TL - Backpack 2 - Radio.obj",
+                "designer": "Garin",
+                "md5": "b73019e21adaa5c807c6df12093f9fad",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-heavy-snipers/"
+                ],
+                "support": {
+                    "file": "TL - Backpack 2 - Radio - Supported.obj",
+                    "md5": "3faf0cad34057903910f67803d74436b"
+                },
+                "backpack": {
+                    "vertex": 1617
+                }
+            },
+            "Sniper - Backpack": {
+                "file": "TL - Backpack 2.obj",
+                "designer": "Garin",
+                "md5": "16a22e9510c736df7e78338be369f732",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-heavy-snipers/"
+                ],
+                "support": {
+                    "file": "TL - Backpack 2 - Supported.obj",
+                    "md5": "980f9dc2af81efeca4e6c7fc1dc37f5b"
+                },
+                "backpack": {
+                    "vertex": 6523
+                }
+            },
+            "Mk3 Aetos - Light Jetpack - Ammo Rack": {
+                "file": "TL3 - Light Jetpack - Ammo Rack.obj",
+                "designer": "Garin",
+                "md5": "672321fec6b6542cef0ead1e480bcea7",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-aetos-squad/"
+                ],
+                "support": {
+                    "file": "TL3 - Light Jetpack - Ammo Rack - Supported.obj",
+                    "md5": "e2d9813f5de2a044739f0e6dd5f18e26"
+                },
+                "backpack": {
+                    "facet": 113
+                },
+                "bitzs": {
+                    "fin 1": {
+                        "face": 5963
+                    },
+                    "ammo": {
+                        "facet": 2791
+                    }
+                }
+            },
+            "Mk3 Aetos - Light Jetpack": {
+                "file": "TL3 - Light Jetpack.obj",
+                "designer": "Garin",
+                "md5": "dd72522cb5ca9b98a87e064bf866b4a0",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-aetos-squad/"
+                ],
+                "support": {
+                    "file": "TL3 - Light Jetpack - Supported.obj",
+                    "md5": "4d2b6ea68ec20b78f0680a4d4fe4e715"
+                },
+                "backpack": {
+                    "facet": 104
+                }
+            },
+            "Void Legionary - Power Pack": {
+                "file": "TL - Void Legionary Power Pack.obj",
+                "designer": "Garin",
+                "md5": "198c9541ea766e637edcb60d65ff1370",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-void-legionaries/"
+                ],
+                "support": {
+                    "file": "TL - Void Legionary Power Pack - Supported.OBJ",
+                    "md5": "67a2feeab29611e03c136d60bcaf5232"
+                },
+                "backpack": {
+                    "vertex": 243
+                }
+            }
+        }
+    }
+}
