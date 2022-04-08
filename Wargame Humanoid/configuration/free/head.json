@@ -3,7 +3,6 @@
         "desc": {
             "display": "Space Warrior Heads",
             "path": "Wargame Humanoid/head/Space Warrior/",
-            "bitz": true,
             "nodes": [
                 "head"
             ]

@@ -2,7 +2,8 @@
     "Base Magic Temple": {
         "desc": {
             "display": "base",
-            "path": "Wargame Humanoid/bitz/Base Magic Temple/"
+            "path": "Wargame Humanoid/bitz/Base Magic Temple/",
+            "bitz": true
         },
         "stl": {
             "B Magic Tem 25 01": {

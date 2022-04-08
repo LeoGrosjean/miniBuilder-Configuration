@@ -3,7 +3,6 @@
         "desc": {
             "display": "Gue'ron'vesa Head",
             "path": "Wargame Humanoid/head/Gueronvesa/",
-            "bitz": true,
             "nodes": ["head"]
         },
         "stl": {

@@ -3,7 +3,6 @@
         "desc": {
             "display": "Onos Industries Heads",
             "path": "Wargame Humanoid/head/Onos Industries/",
-            "bitz": true,
             "nodes": ["head"]
         },
         "stl": {
