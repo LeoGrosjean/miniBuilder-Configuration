@@ -33,7 +33,7 @@
             "head.json",
             "leg.json",
             "weapon.json"
-        ]
+        ],
         "txarlifactory": [
             "bases.json"
         ]
