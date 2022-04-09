@@ -748,6 +748,21 @@
                 "leg": {
                     "vertex": 6976
                 }
+            },
+            "Warbike": {
+                "file": "Warbike - Tempest Lords.obj",
+                "designer": "Garin",
+                "md5": "60b03d536897653290455e4c0c4fc793",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tlbk-warbike/"
+                ],
+                "support": {
+                    "file": "Warbike - Tempest Lords - Supported.OBJ",
+                    "md5": "6988e53416fabffecaddae8e24cec4e8"
+                },
+                "leg": {
+                    "facet": 7236
+                }
             }
         }
     }

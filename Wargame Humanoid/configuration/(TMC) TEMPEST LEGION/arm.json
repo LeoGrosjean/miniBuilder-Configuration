@@ -2396,5 +2396,32 @@
                 }
             }
         }
+    },
+    "TL - Warbike": {
+        "desc": {
+            "display": "TL - Warbike",
+            "path": "Wargame Humanoid/arm/TL - Warbike/",
+            "nodes": [
+                "arm"
+            ]
+        },
+        "stl": {
+            "Warbike - Handlebar": {
+                "file": "Warbike - Right Arm - Handlebar.obj",
+                "designer": "Garin",
+                "md5": "f4b5604e14194558f169d21ae22f00cd",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tlbk-warbike/"
+                ],
+                "support": {
+                    "file": "Warbike - Right Arm - Handlebar - Supported.OBJ",
+                    "md5": "e93f820d7a4e89292f342bf69fc45b37"
+                },
+                "dextral": "right",
+                "arm": {
+                    "facet": 16
+                }
+            }
+        }
     }
 }

@@ -146,6 +146,21 @@
                 "backpack": {
                     "vertex": 243
                 }
+            },
+            "Warbike - Power Pack": {
+                "file": "Warbike - Power Pack.OBJ",
+                "designer": "Garin",
+                "md5": "94f6e3b2bf83ac4ae4dd93d2f7b01b9b",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tlbk-warbike/"
+                ],
+                "support": {
+                    "file": "Warbike - Power Pack - Supported.OBJ",
+                    "md5": "9567eed7236a5aeac1737e221e2fe608"
+                },
+                "backpack": {
+                    "facet": 23
+                }
             }
         }
     }

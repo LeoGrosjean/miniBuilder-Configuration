@@ -3,7 +3,9 @@
         "desc": {
             "display": "TL - Clypeus Transport",
             "path": "Wargame Vehicle/backcore/TL - Clypeus Transport/",
-            "nodes": ["backcore"]
+            "nodes": [
+                "backcore"
+            ]
         },
         "stl": {
             "Center Back": {

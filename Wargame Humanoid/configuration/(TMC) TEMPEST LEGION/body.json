@@ -593,6 +593,63 @@
                 "backpack": {
                     "facet": 50
                 }
+            },
+            "Basic Troops - Blank": {
+                "file": "TL - Torso 3.obj",
+                "designer": "Garin",
+                "md5": "3d750ef944143dbc5dadfc7fbdad9f8a",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tlbk-warbike/"
+                ],
+                "support": {
+                    "file": "TL - Torso 3 - Supported.OBJ",
+                    "md5": "a0c5aba6013bb638638f4d17194cd66a"
+                },
+                "leg": {
+                    "facet": 294
+                },
+                "arm": {
+                    "left": {
+                        "facet": 532
+                    },
+                    "right": {
+                        "face": 40264
+                    }
+                },
+                "backpack": {
+                    "face": 24035
+                },
+                "head": {
+                    "vertex": 8967
+                }
+            },
+            "Warbike - Side Car": {
+                "file": "Warbike - Tempest Lords - Side Car.obj",
+                "designer": "Garin",
+                "md5": "19793f4981c2896a5042ed443cff5450",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tlbk-warbike/"
+                ],
+                "support": {
+                    "file": "Warbike - Tempest Lords - Side Car - Supported.OBJ",
+                    "md5": "ceb2c06c52c2ac1716e0608cb3084af3"
+                },
+                "arm": {
+                    "left": {
+                        "facet": 528
+                    },
+                    "right": {
+                        "facet": 1212
+                    }
+                },
+                "head": {
+                    "vertex": 113062
+                },
+                "bitzs": {
+                    "turret": {
+                        "facet": 2451
+                    }
+                }
             }
         }
     }

@@ -3,7 +3,9 @@
         "desc": {
             "display": "TL - Clypeus Transport",
             "path": "Wargame Vehicle/centerfrontcore/TL - Clypeus Transport/",
-            "nodes": ["centerfrontcore"]
+            "nodes": [
+                "centerfrontcore"
+            ]
         },
         "stl": {
             "Center Front": {
@@ -21,6 +23,45 @@
                     "facet": 138
                 },
                 "rotate": 27
+            }
+        }
+    },
+    "TL - Taurus Irae": {
+        "desc": {
+            "display": "TL - Taurus Irae",
+            "path": "Wargame Vehicle/centerfrontcore/TL - Taurus Irae/",
+            "nodes": [
+                "centerfrontcore"
+            ]
+        },
+        "stl": {
+            "Front": {
+                "file": "Taurus Irae - Front.obj",
+                "designer": "Garin",
+                "md5": "eaf75c49144969f76e8ee2c8fd6bb777",
+                "urls": [
+                    "https://www.cgtrader.com/3d-print-models/miniatures/sci-fi/tempest-legion-taurus-irae-multirole-combat-vehicle"
+                ],
+                "support": {
+                    "file": "Taurus Irae - Front - Hollow - Supported.obj",
+                    "md5": "9a4e4e747e18f9f43acc91c82b3b7dd3"
+                },
+                "centerfrontcore": {
+                    "facet": 332
+                },
+                "movex": 1.56,
+                "movey": 1,
+                "bitzs": {
+                    "empty back": {
+                        "facet": 4
+                    },
+                    "r front grav": {
+                        "facet": 264
+                    },
+                    "l front grav": {
+                        "facet": 253
+                    }
+                }
             }
         }
     }

@@ -3,7 +3,9 @@
         "desc": {
             "display": "TL - Clypeus Transport",
             "path": "Wargame Vehicle/topcore/TL - Clypeus Transport/",
-            "nodes": ["topcore"]
+            "nodes": [
+                "topcore"
+            ]
         },
         "stl": {
             "Center Roof": {
@@ -26,6 +28,67 @@
                 "bitzs": {
                     "turret": {
                         "vertex": 6027
+                    }
+                }
+            }
+        }
+    },
+    "TL - Taurus Irae": {
+        "desc": {
+            "display": "TL - Taurus Irae",
+            "path": "Wargame Vehicle/topcore/TL - Taurus Irae/",
+            "nodes": [
+                "topcore"
+            ]
+        },
+        "stl": {
+            "Transport Box": {
+                "file": "Taurus Irae - Transport Box.obj",
+                "designer": "Garin",
+                "md5": "24abb395d4fc4cbbc983ac2aef59ee37",
+                "urls": [
+                    "https://www.cgtrader.com/3d-print-models/miniatures/sci-fi/tempest-legion-taurus-irae-multirole-combat-vehicle"
+                ],
+                "support": {
+                    "file": "Taurus Irae - Transport Box - Hullow - Supported.obj",
+                    "md5": "9b053a83c4bb416fdadfc2e535c9d21e"
+                },
+                "topcore": {
+                    "facet": 132
+                },
+                "rotate": 180,
+                "movey": -5.66,
+                "bitzs": {
+                    "mini": {
+                        "facet": 2897
+                    }
+                }
+            },
+            "Turret": {
+                "file": "Taurus Irae - Turret.obj",
+                "designer": "Garin",
+                "md5": "5d982664ff08cae6ef5c6a59979889cd",
+                "urls": [
+                    "https://www.cgtrader.com/3d-print-models/miniatures/sci-fi/tempest-legion-taurus-irae-multirole-combat-vehicle"
+                ],
+                "support": {
+                    "file": "Taurus Irae - Turret - Hollow - Supported.obj",
+                    "md5": "55fdeee44d12522e560af1be86773096"
+                },
+                "topcore": {
+                    "facet": 67
+                },
+                "movey": -3.5,
+                "movex": -2,
+                "bitzs": {
+                    "turret": {
+                        "facet": 137
+                    },
+                    "mini left": {
+                        "facet": 195
+                    },
+                    "mini right": {
+                        "facet": 156
                     }
                 }
             }

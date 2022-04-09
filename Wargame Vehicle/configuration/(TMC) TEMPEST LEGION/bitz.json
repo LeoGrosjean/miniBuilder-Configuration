@@ -97,5 +97,191 @@
                 }
             }
         }
+    },
+    "TL - Taurus Irae": {
+        "desc": {
+            "display": "TL - Taurus Irae",
+            "path": "Wargame Vehicle/bitz/TL - Taurus Irae/",
+            "bitz": true
+        },
+        "stl": {
+            "Back Grav Disk": {
+                "file": "Taurus Irae - Back Grav Disk.obj",
+                "designer": "Garin",
+                "md5": "d0240423460eb57ee197909c8e684ac2",
+                "urls": [
+                    "https://www.cgtrader.com/3d-print-models/miniatures/sci-fi/tempest-legion-taurus-irae-multirole-combat-vehicle"
+                ],
+                "support": {
+                    "file": "Taurus Irae - Back Grav Disk - Supported.obj",
+                    "md5": "8631269dd632600f80c0bcf57c21d828"
+                },
+                "bitz": {
+                    "facet": 443
+                }
+            },
+            "Front Grav Disk": {
+                "file": "Taurus Irae - Front Grav Disk.obj",
+                "designer": "Garin",
+                "md5": "f19f49b85d52656c8719877a468190a6",
+                "urls": [
+                    "https://www.cgtrader.com/3d-print-models/miniatures/sci-fi/tempest-legion-taurus-irae-multirole-combat-vehicle"
+                ],
+                "support": {
+                    "file": "Taurus Irae - Front Grav Disk - Supported.obj",
+                    "md5": "7b25db7af8c4b88e9fa3f20d01ed7d31"
+                },
+                "bitz": {
+                    "facet": 443
+                }
+            },
+            "Back Hatch": {
+                "file": "Taurus Irae - Back Hatch.obj",
+                "designer": "Garin",
+                "md5": "250b0e3e305df3043fff32bfd491db5f",
+                "urls": [
+                    "https://www.cgtrader.com/3d-print-models/miniatures/sci-fi/tempest-legion-taurus-irae-multirole-combat-vehicle"
+                ],
+                "support": {
+                    "file": "Taurus Irae - Back Hatch - Supported.obj",
+                    "md5": "a7007ff5ace75b0cec75dae8bf6efe10"
+                },
+                "bitz": {
+                    "facet": 92
+                }
+            },
+            "Back Plate - Empty Truck Bed": {
+                "file": "Taurus Irae - Back Plate - Empty Truck Bed.obj",
+                "designer": "Garin",
+                "md5": "00b4733eaef97dd79266980b53f32056",
+                "urls": [
+                    "https://www.cgtrader.com/3d-print-models/miniatures/sci-fi/tempest-legion-taurus-irae-multirole-combat-vehicle"
+                ],
+                "support": {
+                    "file": "Taurus Irae - Back Plate - Empty Truck Bed - Supported.obj",
+                    "md5": "c302cd1f932dd88ebaca401542d2e554"
+                },
+                "bitz": {
+                    "facet": 5
+                },
+                "movex": -2.45
+            },
+            "Turret - Cannon": {
+                "file": "Taurus Irae - Cannon.obj",
+                "designer": "Garin",
+                "md5": "d639780233ead8eccd8eea9b1d92abab",
+                "urls": [
+                    "https://www.cgtrader.com/3d-print-models/miniatures/sci-fi/tempest-legion-taurus-irae-multirole-combat-vehicle"
+                ],
+                "support": {
+                    "file": "Taurus Irae - Cannon - Hollow - Supported.obj",
+                    "md5": "b1c3c16a3301226e645a2d53fd889987"
+                },
+                "bitz": {
+                    "facet": 36
+                }
+            },
+            "Turret - Twin Cannon": {
+                "file": "Taurus Irae - Twin Cannon.obj",
+                "designer": "Garin",
+                "md5": "d8d8fdf7180f19e28aeeb064de77df3a",
+                "urls": [
+                    "https://www.cgtrader.com/3d-print-models/miniatures/sci-fi/tempest-legion-taurus-irae-multirole-combat-vehicle"
+                ],
+                "support": {
+                    "file": "Taurus Irae - Twin Cannon - Hollow - Supported.obj",
+                    "md5": "0ffa8843947ef66ba2ef0d564c3ce704"
+                },
+                "bitz": {
+                    "facet": 164
+                }
+            },
+            "Hull Phase Guns": {
+                "file": "Taurus Irae - Hull Phase Guns.obj",
+                "designer": "Garin",
+                "md5": "0b6c036ddeb46c06bb830e94af2d108a",
+                "urls": [
+                    "https://www.cgtrader.com/3d-print-models/miniatures/sci-fi/tempest-legion-taurus-irae-multirole-combat-vehicle"
+                ],
+                "support": {
+                    "file": "Taurus Irae - Hull Phase Guns - Supported.obj",
+                    "md5": "72ef802d42341bc15fbf1d6280f1a05e"
+                },
+                "bitz": {
+                    "vertex": 4668
+                }
+            },
+            "Mini - Sponson Heat Guns": {
+                "file": "Taurus Irae - Sponson Heat Guns.obj",
+                "designer": "Garin",
+                "md5": "fe0d99826e6fc73562a3fdf9fac938b6",
+                "urls": [
+                    "https://www.cgtrader.com/3d-print-models/miniatures/sci-fi/tempest-legion-taurus-irae-multirole-combat-vehicle"
+                ],
+                "support": {
+                    "file": "Taurus Irae - Sponson Heat Guns - Supported.obj",
+                    "md5": "123aa0ad8dbb01e03694622f868ea068"
+                },
+                "bitz": {
+                    "facet": 66
+                }
+            },
+            "Mini - Sponson Phase Guns": {
+                "file": "Taurus Irae - Sponson Phase Guns.obj",
+                "designer": "Garin",
+                "md5": "2553692888ba37fd2d601f670a8f2636",
+                "urls": [
+                    "https://www.cgtrader.com/3d-print-models/miniatures/sci-fi/tempest-legion-taurus-irae-multirole-combat-vehicle"
+                ],
+                "support": {
+                    "file": "Taurus Irae - Sponson Phase Guns - Supported.obj",
+                    "md5": "48fcecba67d8841e2b2ff5fee5de9e4b"
+                },
+                "bitz": {
+                    "facet": 126
+                }
+            },
+            "Mini - Twin Gauss Gun": {
+                "file": "Taurus Irae - Twin Gauss Gun.obj",
+                "designer": "Garin",
+                "md5": "ad9e142c4d48e66e8bd40b245f7c4115",
+                "urls": [
+                    "https://www.cgtrader.com/3d-print-models/miniatures/sci-fi/tempest-legion-taurus-irae-multirole-combat-vehicle"
+                ],
+                "support": {
+                    "file": "Taurus Irae - Twin Gauss Gun - Supported.obj",
+                    "md5": "c92809a8eda3ff8e9fa1d0efd3458c0f"
+                },
+                "bitz": {
+                    "facet": 355
+                }
+            },
+            "Stand": {
+                "file": "Taurus Irae Stand.obj",
+                "designer": "Garin",
+                "md5": "1a89dfdf8b87d99af71ec045478815f5",
+                "urls": [
+                    "https://www.cgtrader.com/3d-print-models/miniatures/sci-fi/tempest-legion-taurus-irae-multirole-combat-vehicle"
+                ],
+                "bitz": {
+                    "facet": 0
+                }
+            },
+            "Turret - Twin Rotating Cannons": {
+                "file": "Taurus Irae - Twin Rotating Cannons.obj",
+                "designer": "Garin",
+                "md5": "4f915eaf87493749ceb0fbed49894b40",
+                "urls": [
+                    "https://www.cgtrader.com/3d-print-models/miniatures/sci-fi/tempest-legion-taurus-irae-multirole-combat-vehicle"
+                ],
+                "support": {
+                    "file": "Taurus Irae - Twin Rotating Cannons - Hollow - Supported.obj",
+                    "md5": "3c2ef044deca0e7112119fd5321630a0"
+                },
+                "bitz": {
+                    "facet": 3
+                }
+            }
+        }
     }
 }

@@ -368,6 +368,51 @@
                 "bitz": {
                     "vertex": 23285
                 }
+            },
+            "Warbike - Right Handlebar": {
+                "file": "Warbike - Right Handlebar.OBJ",
+                "designer": "Garin",
+                "md5": "9917e7cebdf3fae8b2911cf527c1620f",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tlbk-warbike/"
+                ],
+                "support": {
+                    "file": "Warbike - Right Handlebar - Supported.OBJ",
+                    "md5": "12013c29706a11ad4ee2ebed7ab49b93"
+                },
+                "bitz": {
+                    "facet": 1
+                }
+            },
+            "Warbike Turret - Fusion Cannon": {
+                "file": "Warbike - Fusion Cannon.obj",
+                "designer": "Garin",
+                "md5": "f7a22d48c224c6ad78c239ab273f3875",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tlbk-warbike/"
+                ],
+                "support": {
+                    "file": "Warbike - Fusion Cannon - Supported.OBJ",
+                    "md5": "85cb408d7150a3e2fe30bdec7788dcd9"
+                },
+                "bitz": {
+                    "facet": 88
+                }
+            },
+            "Warbike Turret - Assault Cannon": {
+                "file": "Warbike - Assault Cannon.obj",
+                "designer": "Garin",
+                "md5": "61fad092b83ba271ccf632843b91fa7e",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tlbk-warbike/"
+                ],
+                "support": {
+                    "file": "Warbike - Assault Cannon - Supported.OBJ",
+                    "md5": "df3a8e33382477fef580dc4c2c1b8e9f"
+                },
+                "bitz": {
+                    "facet": 23
+                }
             }
         }
     }

@@ -3,7 +3,9 @@
         "desc": {
             "display": "TL - Clypeus Transport",
             "path": "Wargame Vehicle/frontcoretop/TL - Clypeus Transport/",
-            "nodes": ["frontcoretop"]
+            "nodes": [
+                "frontcoretop"
+            ]
         },
         "stl": {
             "Cat - Front Roof": {
