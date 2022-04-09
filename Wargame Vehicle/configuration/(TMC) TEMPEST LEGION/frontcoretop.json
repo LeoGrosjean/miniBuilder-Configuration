@@ -1,0 +1,28 @@
+{
+    "TL - Clypeus Transport": {
+        "desc": {
+            "display": "TL - Clypeus Transport",
+            "path": "Wargame Vehicle/frontcoretop/TL - Clypeus Transport/"
+        },
+        "stl": {
+            "Cat - Front Roof": {
+                "file": "CAT - Front Roof.obj",
+                "designer": "Garin",
+                "md5": "bd8f1f82d3bdd56ceb257b871c4e9883",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-clypeus-assault-transport/"
+                ],
+                "support": {
+                    "file": "CAT - Front Roof - Hollow - Supported.obj",
+                    "md5": "8832706dd390e034c11ac4a73721576d"
+                },
+                "frontcoretop": {
+                    "vertex": 6795
+                },
+                "rotate": 180,
+                "movey": 3.33,
+                "movex": -0.75
+            }
+        }
+    }
+}

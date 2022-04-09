@@ -1,0 +1,254 @@
+{
+    "directed": true,
+    "multigraph": true,
+    "graph": {
+        "name": "Wargame Vehicle",
+        "designer_files": [
+            "designer.json"
+        ],
+        "bitz_files": [
+            "empty.json"
+        ]
+    },
+    "nodes": [
+        {
+            "id": "core",
+            "label": "Core",
+            "folder": "core",
+            "permissions": [
+                "select",
+                "list",
+                "scale",
+                "bitz"
+            ],
+            "files": [
+            ]
+        },
+        {
+            "id": "lfrontcore",
+            "label": "Left Front Core",
+            "folder": "sidefrontcore",
+            "dextral": "left",
+            "dex_type": "sidefrontcore",
+            "permissions": [
+                "select",
+                "list",
+                "rotate",
+                "scale",
+                "merge",
+                "anklex",
+                "ankley",
+                "movex",
+                "movey",
+                "bitz"
+            ],
+            "files": [
+                "empty.json"
+            ]
+        },
+        {
+            "id": "rfrontcore",
+            "label": "Right Front Core",
+            "folder": "sidefrontcore",
+            "dextral": "right",
+            "dex_type": "sidefrontcore",
+            "permissions": [
+                "select",
+                "list",
+                "rotate",
+                "scale",
+                "merge",
+                "anklex",
+                "ankley",
+                "movex",
+                "movey",
+                "bitz"
+            ],
+            "files": [
+                "empty.json"
+            ]
+        },
+        {
+            "id": "bottomcore",
+            "label": "Bottom Core",
+            "folder": "bottomcore",
+            "permissions": [
+                "select",
+                "list",
+                "rotate",
+                "scale",
+                "merge",
+                "anklex",
+                "ankley",
+                "movex",
+                "movey",
+                "bitz"
+            ],
+            "files": [
+                "empty.json"
+            ]
+        },
+        {
+            "id": "centerfrontcore",
+            "label": "Center Front Core",
+            "folder": "centerfrontcore",
+            "permissions": [
+                "select",
+                "list",
+                "rotate",
+                "scale",
+                "merge",
+                "anklex",
+                "ankley",
+                "movex",
+                "movey",
+                "bitz"
+            ],
+            "files": [
+                "empty.json"
+            ]
+        },
+        {
+            "id": "centerbackcore",
+            "label": "Back Core",
+            "folder": "backcore",
+            "permissions": [
+                "select",
+                "list",
+                "rotate",
+                "scale",
+                "merge",
+                "anklex",
+                "ankley",
+                "movex",
+                "movey",
+                "bitz"
+            ],
+            "files": [
+                "empty.json"
+            ]
+        },
+        {
+            "id": "rbackcore",
+            "label": "Right Back Core",
+            "folder": "sidebackcore",
+            "dextral": "right",
+            "dex_type": "sidebackcore",
+            "permissions": [
+                "select",
+                "list",
+                "rotate",
+                "scale",
+                "merge",
+                "anklex",
+                "ankley",
+                "movex",
+                "movey",
+                "bitz"
+            ],
+            "files": [
+                "empty.json"
+            ]
+        },
+        {
+            "id": "lbackcore",
+            "label": "Left Back Core",
+            "folder": "sidebackcore",
+            "dextral": "left",
+            "dex_type": "sidebackcore",
+            "permissions": [
+                "select",
+                "list",
+                "rotate",
+                "scale",
+                "merge",
+                "anklex",
+                "ankley",
+                "movex",
+                "movey",
+                "bitz"
+            ],
+            "files": [
+                "empty.json"
+            ]
+        },
+        {
+            "id": "frontcoretop",
+            "label": "Front Core Top",
+            "folder": "frontcoretop",
+            "permissions": [
+                "select",
+                "list",
+                "rotate",
+                "scale",
+                "merge",
+                "anklex",
+                "ankley",
+                "movex",
+                "movey",
+                "bitz"
+            ],
+            "files": [
+                "empty.json"
+            ]
+        },
+        {
+            "id": "topcore",
+            "label": "Top Core",
+            "folder": "topcore",
+            "permissions": [
+                "select",
+                "list",
+                "rotate",
+                "scale",
+                "merge",
+                "anklex",
+                "ankley",
+                "movex",
+                "movey",
+                "bitz"
+            ],
+            "files": [
+                "empty.json"
+            ]
+        }
+    ],
+    "links": [
+        {
+            "source": "core",
+            "target": "topcore"
+        },
+        {
+            "source": "core",
+            "target": "lbackcore"
+        },
+        {
+            "source": "core",
+            "target": "rbackcore"
+        },
+        {
+            "source": "core",
+            "target": "centerbackcore"
+        },
+        {
+            "source": "core",
+            "target": "centerfrontcore"
+        },
+        {
+            "source": "core",
+            "target": "frontcoretop"
+        },
+        {
+            "source": "core",
+            "target": "bottomcore"
+        },
+        {
+            "source": "core",
+            "target": "lfrontcore"
+        },
+        {
+            "source": "core",
+            "target": "rfrontcore"
+        }
+    ]
+}

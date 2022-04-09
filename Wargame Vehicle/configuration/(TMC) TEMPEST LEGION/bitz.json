@@ -1,0 +1,101 @@
+{
+    "TL - Clypeus Transport": {
+        "desc": {
+            "display": "TL - Clypeus Transport",
+            "path": "Wargame Vehicle/bitz/TL - Clypeus Transport/",
+            "bitz": true
+        },
+        "stl": {
+            "Back Grav Disk": {
+                "file": "CAT - Back Grav Disk - 2x.obj",
+                "designer": "Garin",
+                "md5": "a833574074812511812bdab0532155a2",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-clypeus-assault-transport/"
+                ],
+                "support": {
+                    "file": "CAT - Back Grav Disk - 2x - Supported.obj",
+                    "md5": "f1403b862cafdef31d3f888e72c3e0ac"
+                },
+                "bitz": {
+                    "facet": 444
+                }
+            },
+            "Front Grav Disk": {
+                "file": "CAT - Front Grav Disk - 2x.obj",
+                "designer": "Garin",
+                "md5": "159f1f1e38f17e6d650fd0c9a0c20549",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-clypeus-assault-transport/"
+                ],
+                "support": {
+                    "file": "CAT - Front Grav Disk - 2x - Supported.obj",
+                    "md5": "47d7e6aade4f6672c964f01e57ce461b"
+                },
+                "bitz": {
+                    "facet": 436
+                }
+            },
+            "Mid Grav Disk": {
+                "file": "CAT - Mid Grav Disk - 6x.obj",
+                "designer": "Garin",
+                "md5": "49b93261507d558fbac721baa3c87349",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-clypeus-assault-transport/"
+                ],
+                "support": {
+                    "file": "CAT - Mid Grav Disk - 6x - Supported.obj",
+                    "md5": "bce374600a8a7959d63c272b61ac0b1b"
+                },
+                "bitz": {
+                    "facet": 442
+                }
+            },
+            "Turret - Trigun ": {
+                "file": "CAT - Trigun Turret.obj",
+                "designer": "Garin",
+                "md5": "7cf08e9401f39f04adf0bae80776863e",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-clypeus-assault-transport/"
+                ],
+                "support": {
+                    "file": "CAT - Trigun Turret - Hollow - Supported.obj",
+                    "md5": "99affaafce26489ab883b0e6e5f673de"
+                },
+                "bitz": {
+                    "vertex": 6138
+                }
+            },
+            "Quad Phase Cannon": {
+                "file": "CAT - Quad Phase Cannon - R.obj",
+                "designer": "Garin",
+                "md5": "de773c526f15c4d0d05b1980907b7d5e",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-clypeus-assault-transport/"
+                ],
+                "support": {
+                    "file": "CAT - Quad Phase Cannon - R - Supported.obj",
+                    "md5": "31ff02cc122587d426259ed373583f17"
+                },
+                "bitz": {
+                    "vertex": 5915
+                }
+            },
+            "Stand": {
+                "file": "CAT - Stand.obj",
+                "designer": "Garin",
+                "md5": "c25eebdace2dc0630662ecb6fe365738",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/tempest-legion-clypeus-assault-transport/"
+                ],
+                "support": {
+                    "file": "CAT - Stand - Supported.obj",
+                    "md5": "d63509662537fbf2b0a12ec24c2a41ca"
+                },
+                "bitz": {
+                    "facet": 8
+                }
+            }
+        }
+    }
+}
