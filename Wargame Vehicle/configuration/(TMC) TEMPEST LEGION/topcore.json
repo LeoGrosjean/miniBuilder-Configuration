@@ -2,7 +2,8 @@
     "TL - Clypeus Transport": {
         "desc": {
             "display": "TL - Clypeus Transport",
-            "path": "Wargame Vehicle/topcore/TL - Clypeus Transport/"
+            "path": "Wargame Vehicle/topcore/TL - Clypeus Transport/",
+            "nodes": ["topcore"]
         },
         "stl": {
             "Center Roof": {

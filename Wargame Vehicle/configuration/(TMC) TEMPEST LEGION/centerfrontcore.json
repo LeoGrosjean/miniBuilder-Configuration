@@ -2,7 +2,8 @@
     "TL - Clypeus Transport": {
         "desc": {
             "display": "TL - Clypeus Transport",
-            "path": "Wargame Vehicle/centerfrontcore/TL - Clypeus Transport/"
+            "path": "Wargame Vehicle/centerfrontcore/TL - Clypeus Transport/",
+            "nodes": ["centerfrontcore"]
         },
         "stl": {
             "Center Front": {

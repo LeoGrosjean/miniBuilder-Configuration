@@ -2,7 +2,8 @@
     "TL - Clypeus Transport": {
         "desc": {
             "display": "TL - Clypeus Transport",
-            "path": "Wargame Vehicle/sidebackcore/TL - Clypeus Transport/"
+            "path": "Wargame Vehicle/sidebackcore/TL - Clypeus Transport/",
+            "nodes": ["sidebackcore"]
         },
         "stl": {
             "Engine Back": {
