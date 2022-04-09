@@ -37,5 +37,18 @@
         "txarlifactory": [
             "bases.json"
         ]
+    },
+    "Wargame Vehicle": {
+        "(TMC) TEMPEST LEGION": [
+            "backcore.json",
+            "bitz.json",
+            "bottomcore.json",
+            "centerbackcore.json",
+            "centerfrontcore.json",
+            "core.json",
+            "frontcoretop.json",
+            "sidefrontcore.json",
+            "topcore.json"
+        ]
     }
 }
