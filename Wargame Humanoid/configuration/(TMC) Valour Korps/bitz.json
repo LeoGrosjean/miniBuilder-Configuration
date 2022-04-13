@@ -1,0 +1,297 @@
+{
+    "VK - Infantry": {
+        "desc": {
+            "display": "VK - Infantry",
+            "path": "Wargame Humanoid/bitz/VK - Infantry/",
+            "bitz": true
+        },
+        "stl": {
+            "Bayonet": {
+                "file": "bayonet.stl",
+                "designer": "BREXIT",
+                "md5": "4d42c4b36c1f4a4cd5c731dfddec8ce5",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/valour-korps-infantry-builder/"
+                ],
+                "support": {
+                    "file": "bayonet presupported.stl",
+                    "md5": "53ebdcf7af69f72a671e68b23c4e0e71"
+                },
+                "bitz": {
+                    "facet": 23
+                }
+            },
+            "Frag Grenade": {
+                "file": "frag grenade.stl",
+                "designer": "BREXIT",
+                "md5": "07a78baf300b3859528f27b67dc12420",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/valour-korps-infantry-builder/"
+                ],
+                "support": {
+                    "file": "frag grenade presupported.stl",
+                    "md5": "061ed2b3ba67afcc6ccadcee764316f3"
+                },
+                "bitz": {
+                    "vertex": 1118
+                }
+            },
+            "Flamer": {
+                "file": "flamer.stl",
+                "designer": "BREXIT",
+                "md5": "b96941ae52a647247625bf0a5fcced3a",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/valour-korps-infantry-builder/"
+                ],
+                "support": {
+                    "file": "flamer presupported.stl",
+                    "md5": "3c60660118b7bdc87c8c3233f9c214b5"
+                },
+                "bitz": {
+                    "facet": 2822
+                }
+            },
+            "25x25": {
+                "file": "25x25 H.stl",
+                "designer": "BREXIT",
+                "md5": "ba1684cadd529316c138c8a6c4bd7fc8",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/valour-korps-infantry-builder/"
+                ],
+                "bitz": {
+                    "vertex": 1310
+                }
+            },
+            "Grenade Launcher": {
+                "file": "grenade launcher.stl",
+                "designer": "BREXIT",
+                "md5": "123c7cd26001363e4c22eab33e3b262d",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/valour-korps-infantry-builder/"
+                ],
+                "support": {
+                    "file": "grenade launcher presupported.stl",
+                    "md5": "fa4f9ccd7687568f5565bf1610cc2e22"
+                },
+                "bitz": {
+                    "facet": 413
+                }
+            },
+            "Krak Grenade": {
+                "file": "krak grenade.stl",
+                "designer": "BREXIT",
+                "md5": "49474a016e5bc34fff174d15b33581d4",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/valour-korps-infantry-builder/"
+                ],
+                "support": {
+                    "file": "krak grenade presupported.stl",
+                    "md5": "9f04381604a090233a0a69d557a1baf7"
+                },
+                "bitz": {
+                    "facet": 85
+                }
+            },
+            "Large Pocket": {
+                "file": "large pocket.stl",
+                "designer": "BREXIT",
+                "md5": "87cf1368ef28f60f17cb42e26ce22e30",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/valour-korps-infantry-builder/"
+                ],
+                "support": {
+                    "file": "large pocket presupported.stl",
+                    "md5": "3dc5a4054521911594cabc91484e135c"
+                },
+                "bitz": {
+                    "facet": 4
+                }
+            },
+            "Las Pistol": {
+                "file": "las pistol.stl",
+                "designer": "BREXIT",
+                "md5": "3e19ab2c70e0010a72bcea2dfb6c3d02",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/valour-korps-infantry-builder/"
+                ],
+                "support": {
+                    "file": "las pistol presupported.stl",
+                    "md5": "583888357048b9563855eff8fbcd454e"
+                },
+                "bitz": {
+                    "facet": 20
+                }
+            },
+            "Lasgun Magazine": {
+                "file": "lasgun magazine.stl",
+                "designer": "BREXIT",
+                "md5": "4df4f270b1889bea2c337e4d06dd7ad4",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/valour-korps-infantry-builder/"
+                ],
+                "support": {
+                    "file": "lasgun magazine presupported.stl",
+                    "md5": "3fbbfc2dc8565cea4a822cf2cc11e316"
+                },
+                "bitz": {
+                    "facet": 23
+                }
+            },
+            "Lasgun": {
+                "file": "lasgun.stl",
+                "designer": "BREXIT",
+                "md5": "9a0e2cdb1595b43c936199144fedb76a",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/valour-korps-infantry-builder/"
+                ],
+                "support": {
+                    "file": "lasgun presupported.stl",
+                    "md5": "04f6bbcc93d16a0ec8cb5e703a9c9c17"
+                },
+                "bitz": {
+                    "facet": 1291
+                }
+            },
+            "Melta": {
+                "file": "melta.stl",
+                "designer": "BREXIT",
+                "md5": "8daa9faff23f4ed90bc9ca910a550f01",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/valour-korps-infantry-builder/"
+                ],
+                "support": {
+                    "file": "melta presupported.stl",
+                    "md5": "6ee81aca974888db801900b0466ac79f"
+                },
+                "bitz": {
+                    "facet": 2493
+                }
+            },
+            "Plasma": {
+                "file": "plasma.stl",
+                "designer": "BREXIT",
+                "md5": "f95c020aa15ce14eda309cf2fb5b5e8d",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/valour-korps-infantry-builder/"
+                ],
+                "support": {
+                    "file": "plasma presupported.stl",
+                    "md5": "d90adfc379f2d8d1837234f1af334052"
+                },
+                "bitz": {
+                    "facet": 1321
+                }
+            },
+            "Power Sword": {
+                "file": "power sword.stl",
+                "designer": "BREXIT",
+                "md5": "148934f8988cdb93fcebd7276f3f19ba",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/valour-korps-infantry-builder/"
+                ],
+                "support": {
+                    "file": "power sword presupported.stl",
+                    "md5": "df932f36ac7ebeb7f41809366a38ff7c"
+                },
+                "bitz": {
+                    "face": 18302
+                }
+            },
+            "Shovel": {
+                "file": "shovel.stl",
+                "designer": "BREXIT",
+                "md5": "3742ce4563c041da70db364791a56cb6",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/valour-korps-infantry-builder/"
+                ],
+                "support": {
+                    "file": "shovel presupported.stl",
+                    "md5": "5495cf5ac5cfcf57de887584c30fe701"
+                },
+                "bitz": {
+                    "vertex": 3263
+                }
+            },
+            "Small Pocket": {
+                "file": "small pocket.stl",
+                "designer": "BREXIT",
+                "md5": "c8cca62762974c82f17a2d3d42813475",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/valour-korps-infantry-builder/"
+                ],
+                "support": {
+                    "file": "small pocket presupported.stl",
+                    "md5": "4767193276d9230612256100928989af"
+                },
+                "bitz": {
+                    "facet": 6
+                }
+            },
+            "Smoke Grenade": {
+                "file": "smoke grenade.stl",
+                "designer": "BREXIT",
+                "md5": "c68ec5d4e132edd08cbd828180f58861",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/valour-korps-infantry-builder/"
+                ],
+                "support": {
+                    "file": "smoke grenade presupported.stl",
+                    "md5": "ebe59178d425b3ce21b738dd513cd8da"
+                },
+                "bitz": {
+                    "vertex": 1226
+                }
+            },
+            "Stick Grenade": {
+                "file": "stick grenade.stl",
+                "designer": "BREXIT",
+                "md5": "0327655bfe99123a8030eb64f139ed14",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/valour-korps-infantry-builder/"
+                ],
+                "support": {
+                    "file": "stick grenade presupported.stl",
+                    "md5": "2de44611b2f0305ce3116ea8e7dedd77"
+                },
+                "bitz": {
+                    "vertex": 3800
+                }
+            }
+        }
+    },
+    "VK - Shock Infantry": {
+        "desc": {
+            "display": "VK - Shock Infantry",
+            "path": "Wargame Humanoid/bitz/VK - Shock Infantry/",
+            "bitz": true
+        },
+        "stl": {
+            "25x25": {
+                "file": "25x25.obj",
+                "designer": "BREXIT",
+                "md5": "edba3651015695bf5ddd0f3b02f80502",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/valour-korps-shock-infantry-builder/"
+                ],
+                "bitz": {
+                    "vertex": 74
+                }
+            },
+            "Vox Hologram": {
+                "file": "vox hologram.stl",
+                "designer": "BREXIT",
+                "md5": "aacd05e48175f3825afbef455b119147",
+                "urls": [
+                    "https://comicsgamesandthings.com/shop/product/valour-korps-shock-infantry-builder/"
+                ],
+                "support": {
+                    "file": "vox hologram presupported.stl",
+                    "md5": "83f893582fedcd79700e2d38958883ab"
+                },
+                "bitz": {
+                    "vertex": 638
+                }
+            }
+        }
+    }
+}

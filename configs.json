@@ -8,6 +8,11 @@
             "head.json",
             "leg.json"
         ],
+        "(TMC) Valour Korps": [
+            "arm.json",
+            "bitz.json",
+            "body.json"
+        ],
         "free": [
             "arm.json",
             "backpack.json",
