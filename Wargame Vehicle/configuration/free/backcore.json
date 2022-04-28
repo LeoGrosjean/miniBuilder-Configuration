@@ -1,0 +1,45 @@
+{
+    "Imp\u00e9rial Guard": {
+        "desc": {
+            "display": "Imp\u00e9rial Guard",
+            "path": "Wargame Vehicle/sidebackcore/Imp\u00e9rial Guard/",
+            "nodes": [
+                "sidebackcore"
+            ]
+        },
+        "stl": {
+            "Jericho Mk2 - Track Guard Right": {
+                "file": "Jericho Mk2_Track Guard Right.stl",
+                "designer": "redzabo",
+                "md5": "3abdccdea94a21af35fdab591c07d520",
+                "urls": [
+                    "https://cults3d.com/fr/mod%C3%A8le-3d/jeu/jericho-mlrs-mk-2"
+                ],
+                "support": {
+                    "file": "_Jericho_Mk2_Track_Guard_Right.stl",
+                    "md5": "7cedf2d72eb776962bb054f2dc05c265"
+                },
+                "dextral": "right",
+                "sidebackcore": {
+                    "face": 6584
+                }
+            },
+            "Jericho Mk2 - Track Guard Left": {
+                "file": "Jericho Mk2_Track Guard Left.stl",
+                "designer": "redzabo",
+                "md5": "195d0c29b2803668562eedc400242147",
+                "urls": [
+                    "https://cults3d.com/fr/mod%C3%A8le-3d/jeu/jericho-mlrs-mk-2"
+                ],
+                "support": {
+                    "file": "_Jericho_Mk2_Track_Guard_Left.stl",
+                    "md5": "17b9601373b61227d4dfe3459efa103d"
+                },
+                "dextral": "left",
+                "sidebackcore": {
+                    "face": 10150
+                }
+            }
+        }
+    }
+}

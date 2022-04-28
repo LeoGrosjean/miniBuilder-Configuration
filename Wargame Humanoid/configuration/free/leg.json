@@ -24,6 +24,9 @@
                     },
                     "base": {
                         "face": 15095
+                    },
+                    "Loin Cloth": {
+                        "vertex": 14836
                     }
                 },
                 "md5": "fa76e88e52162837b56435c3d251ca32",
@@ -234,6 +237,94 @@
                 "urls": [
                     "https://cults3d.com/en/3d-model/art/modular-marines-pt1-mark-4-tactical"
                 ]
+            }
+        }
+    },
+    "Plague Marine": {
+        "desc": {
+            "display": "Plague Marine",
+            "path": "Wargame Humanoid/leg/Plague Marine/",
+            "nodes": [
+                "leg"
+            ]
+        },
+        "stl": {
+            "Legs 1": {
+                "file": "Plague Marines Legs 1_fixed.stl",
+                "designer": "Sumbu",
+                "md5": "3aac428a823e43bbcb95866bac293ce9",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/tool/parts-of-a-disgusting-resilient-marine-builder"
+                ],
+                "leg": {
+                    "vertex": 211768
+                }
+            },
+            "Legs 2": {
+                "file": "Plague Marines Legs 2_fixed.stl",
+                "designer": "Sumbu",
+                "md5": "b2987e1e93d186857d4c66d1bdfc5bce",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/tool/parts-of-a-disgusting-resilient-marine-builder"
+                ],
+                "leg": {
+                    "vertex": 205166
+                }
+            },
+            "Legs 3": {
+                "file": "Plague Marines Legs 3_fixed.stl",
+                "designer": "Sumbu",
+                "md5": "7d84570db0a199bd40afed79001dd4aa",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/tool/parts-of-a-disgusting-resilient-marine-builder"
+                ],
+                "leg": {
+                    "vertex": 290249
+                }
+            },
+            "Legs 4": {
+                "file": "Plague Marines Legs 4_fixed.stl",
+                "designer": "Sumbu",
+                "md5": "81a37a8bc8288f78489f4001b01e949a",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/tool/parts-of-a-disgusting-resilient-marine-builder"
+                ],
+                "leg": {
+                    "vertex": 134199
+                }
+            },
+            "Legs 5": {
+                "file": "Plague Marines Legs 5_fixed.stl",
+                "designer": "Sumbu",
+                "md5": "22053ccdd8b4c90fa823a4ae76d68ef3",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/tool/parts-of-a-disgusting-resilient-marine-builder"
+                ],
+                "leg": {
+                    "vertex": 275699
+                }
+            },
+            "Legs 6": {
+                "file": "Plague Marines Legs 6_fixed.stl",
+                "designer": "Sumbu",
+                "md5": "a971eb334bff96b52a855cba12e61b8e",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/tool/parts-of-a-disgusting-resilient-marine-builder"
+                ],
+                "leg": {
+                    "vertex": 90420
+                }
+            },
+            "Legs 7": {
+                "file": "Plague Marines Legs 7_fixed.stl",
+                "designer": "Sumbu",
+                "md5": "cbad7f65fa4fb6212746bdd0b39efcae",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/tool/parts-of-a-disgusting-resilient-marine-builder"
+                ],
+                "leg": {
+                    "vertex": 234251
+                }
             }
         }
     }

@@ -1,0 +1,271 @@
+{
+    "Imp\u00e9rial Guard": {
+        "desc": {
+            "display": "Imp\u00e9rial Guard",
+            "path": "Wargame Vehicle/bitz/Imp\u00e9rial Guard/",
+            "bitz": true
+        },
+        "stl": {
+            "Flak Tank - Autocannons Left": {
+                "file": "Flak_Tank_Autocannons_Left.stl",
+                "designer": "redzabo",
+                "md5": "7aeb288d08d12763e07540fd2f6c3c47",
+                "urls": [
+                    "https://cults3d.com/fr/mod%C3%A8le-3d/jeu/imperial-guard-flak-tank-hydra-like-proxy"
+                ],
+                "bitz": {
+                    "facet": 1646
+                }
+            },
+            "Flak Tank - Rotary Cannons": {
+                "file": "Flak_Tank_Rotary_Cannons_Left.stl",
+                "designer": "redzabo",
+                "md5": "933171a3bb0f0f99c31b0d66fdb2a810",
+                "urls": [
+                    "https://cults3d.com/fr/mod%C3%A8le-3d/jeu/imperial-guard-flak-tank-hydra-like-proxy"
+                ],
+                "bitz": {
+                    "facet": 1578
+                }
+            },
+            "Flak Tank - Mortar Left": {
+                "file": "Mortar_Tank_Weapons_Left.stl",
+                "designer": "redzabo",
+                "md5": "0b7cc92c4508927a02a44d4f9c947b10",
+                "urls": [
+                    "https://cults3d.com/fr/mod%C3%A8le-3d/jeu/imperial-guard-flak-tank-hydra-like-proxy"
+                ],
+                "bitz": {
+                    "facet": 3144
+                }
+            },
+            "Flak Tank - Radar Dish": {
+                "file": "Radar_Dish.stl",
+                "designer": "redzabo",
+                "md5": "c674d2c538a30226d7c3b254b366f89e",
+                "urls": [
+                    "https://cults3d.com/fr/mod%C3%A8le-3d/jeu/imperial-guard-flak-tank-hydra-like-proxy"
+                ],
+                "bitz": {
+                    "facet": 240
+                }
+            },
+            "Flak Tank - Radar Hinge": {
+                "file": "Radar_Hinge.stl",
+                "designer": "redzabo",
+                "md5": "32f6e619430b703bdf3e801199590026",
+                "urls": [
+                    "https://cults3d.com/fr/mod%C3%A8le-3d/jeu/imperial-guard-flak-tank-hydra-like-proxy"
+                ],
+                "bitz": {
+                    "facet": 3
+                }
+            },
+            "Flak Tank - Radar Receiver": {
+                "file": "Radar_Receiver_VX.stl",
+                "designer": "redzabo",
+                "md5": "f1019d22a76c51b775573e6d5cf505c0",
+                "urls": [
+                    "https://cults3d.com/fr/mod%C3%A8le-3d/jeu/imperial-guard-flak-tank-hydra-like-proxy"
+                ],
+                "bitz": {
+                    "vertex_list": [
+                        154,
+                        320
+                    ]
+                }
+            },
+            "Jericho Mk2 - Launcher Backplate": {
+                "file": "Jericho Mk2 Launcher Backplate.stl",
+                "designer": "redzabo",
+                "md5": "d6c1a5469914d0b337669dba39aca9ae",
+                "urls": [
+                    "https://cults3d.com/fr/mod%C3%A8le-3d/jeu/jericho-mlrs-mk-2"
+                ],
+                "support": {
+                    "file": "_Jericho Mk2_Missile_Launcher_Backplate.stl",
+                    "md5": "da7a1356df2959c1f9ba51292cd3cc64"
+                },
+                "bitz": {
+                    "facet": 187
+                }
+            },
+            "Jericho Mk2 - Launcher Backplate Launched": {
+                "file": "Jericho Mk2 Launcher Backplate_Launched.stl",
+                "designer": "redzabo",
+                "md5": "16e2733af9c75a5b3fde997842e61136",
+                "urls": [
+                    "https://cults3d.com/fr/mod%C3%A8le-3d/jeu/jericho-mlrs-mk-2"
+                ],
+                "support": {
+                    "file": "_Jericho Mk2_Missile_Launcher_Backplate_Launched.stl",
+                    "md5": "6184090e03fd1582db7a32d13caedba4"
+                },
+                "bitz": {
+                    "facet": 278
+                }
+            },
+            "Jericho Mk2 - Missile Launcher Cover": {
+                "file": "Jericho Mk2 Missile Launcher Missiles Cover.stl",
+                "designer": "redzabo",
+                "md5": "d2bcd9cd55f7be7b9312b73a5efdf307",
+                "urls": [
+                    "https://cults3d.com/fr/mod%C3%A8le-3d/jeu/jericho-mlrs-mk-2"
+                ],
+                "support": {
+                    "file": "_Jericho_Mk2_Missile_Launcher_Missiles_Cover.stl",
+                    "md5": "23b5d4a0917f55b6b6a8187ca1eea0c1"
+                },
+                "bitz": {
+                    "facet": 356
+                }
+            },
+            "Jericho Mk2 - Missile": {
+                "file": "Jericho Mk2 Missile Single.stl",
+                "designer": "redzabo",
+                "md5": "50f8de2db9700400bdafd5f9f6229550",
+                "urls": [
+                    "https://cults3d.com/fr/mod%C3%A8le-3d/jeu/jericho-mlrs-mk-2"
+                ],
+                "support": {
+                    "file": "_Jericho_Mk2_Missile_Single_Launched_X3.stl",
+                    "md5": "3404236c5fc8eb2ee2d6d36e57947894"
+                },
+                "bitz": {
+                    "facet": 0
+                }
+            },
+            "Jericho Mk2 - Warheads x10": {
+                "file": "Jericho Mk2 Warheads Set.stl",
+                "designer": "redzabo",
+                "md5": "280c05ff6ab094211b644878146001bb",
+                "urls": [
+                    "https://cults3d.com/fr/mod%C3%A8le-3d/jeu/jericho-mlrs-mk-2"
+                ],
+                "support": {
+                    "file": "_Jericho_Mk2_Warheads_Set.stl",
+                    "md5": "0864e77cb4cc377ae3a329efa6eb62e0"
+                },
+                "bitz": {
+                    "facet": 7725
+                }
+            },
+            "Jericho Mk2 - Fuel Tank": {
+                "file": "Jericho Mk2_Fuel Tank.stl",
+                "designer": "redzabo",
+                "md5": "e3da72f8c6bcbbd55c218e7cc5ac2e0f",
+                "urls": [
+                    "https://cults3d.com/fr/mod%C3%A8le-3d/jeu/jericho-mlrs-mk-2"
+                ],
+                "support": {
+                    "file": "_Jericho_Mk2_Fuel_Tank.stl",
+                    "md5": "aaf01ce454ae52ff5a13f8021ab7f90e"
+                },
+                "bitz": {
+                    "facet": 20
+                }
+            },
+            "Jericho Mk2 - Missile Reload Bottom": {
+                "file": "Jericho Mk2_Missile Reload Bottom.stl",
+                "designer": "redzabo",
+                "md5": "4a55ef488cdcd5feccf087e3dd6e248c",
+                "urls": [
+                    "https://cults3d.com/fr/mod%C3%A8le-3d/jeu/jericho-mlrs-mk-2"
+                ],
+                "support": {
+                    "file": "_Jericho_Mk2_Missile_Reload_Bottom.stl",
+                    "md5": "8c7de32c6f3d7f54f842f7250b39fff0"
+                },
+                "bitz": {
+                    "facet": 166
+                }
+            },
+            "Jericho Mk2 - Missile Reload Top": {
+                "file": "Jericho Mk2_Missile Reload Top.stl",
+                "designer": "redzabo",
+                "md5": "7013d76c44c05d1fcf865b473592d506",
+                "urls": [
+                    "https://cults3d.com/fr/mod%C3%A8le-3d/jeu/jericho-mlrs-mk-2"
+                ],
+                "support": {
+                    "file": "_Jericho_Mk2_Missile_Reload_Top.stl",
+                    "md5": "f0f9e7e4090c52960e8577423897b92a"
+                },
+                "bitz": {
+                    "facet": 19
+                }
+            },
+            "Jericho Mk2 - Smoke Launcher": {
+                "file": "Jericho Mk2 Smoke Launcher.stl",
+                "designer": "redzabo",
+                "md5": "14f50eaf14992d942b60e9bf8edee0a6",
+                "urls": [
+                    "https://cults3d.com/fr/mod%C3%A8le-3d/jeu/jericho-mlrs-mk-2"
+                ],
+                "support": {
+                    "file": "_Jericho_Mk2_Smoke_Launcher.stl",
+                    "md5": "96de96c4e0db943ee3a6732ff72c0e45"
+                },
+                "bitz": {
+                    "facet": 47
+                }
+            },
+            "Jericho Mk2 - Instrument Panel": {
+                "file": "Jericho Mk2_Instrument Panel X2.stl",
+                "designer": "redzabo",
+                "md5": "2284ea131c33a1e010a3e9a28f6795b7",
+                "urls": [
+                    "https://cults3d.com/fr/mod%C3%A8le-3d/jeu/jericho-mlrs-mk-2"
+                ],
+                "support": {
+                    "file": "_Jericho_Mk2_Instrument_Panel_X2.stl",
+                    "md5": "555372fea69b359586e76588d4c257d7"
+                },
+                "bitz": {
+                    "vertex": 71
+                }
+            },
+            "Jericho Mk2 - Radar Dish": {
+                "file": "Jericho Mk2_Radar Dish.stl",
+                "designer": "redzabo",
+                "md5": "5fe707fe3d97e77a8e3d5c8b678b444c",
+                "urls": [
+                    "https://cults3d.com/fr/mod%C3%A8le-3d/jeu/jericho-mlrs-mk-2"
+                ],
+                "support": {
+                    "file": "_Jericho_Mk2_Radar_Dish.stl",
+                    "md5": "5a5cfac7bb3caa43f63b070ad490e77b"
+                },
+                "bitz": {
+                    "facet": 15
+                }
+            },
+            "Jericho Mk2 - Launcher Cover": {
+                "file": "Jericho Mk2_Launcher Cover.stl",
+                "designer": "redzabo",
+                "md5": "78cdddc014fa612631aefb9eb27c82e2",
+                "urls": [
+                    "https://cults3d.com/fr/mod%C3%A8le-3d/jeu/jericho-mlrs-mk-2"
+                ],
+                "bitz": {
+                    "facet": 1265
+                },
+                "support": {
+                    "file": "_Jericho_Mk2_Missile_Launcher_Missiles_Cover.stl",
+                    "md5": "23b5d4a0917f55b6b6a8187ca1eea0c1"
+                }
+            },
+            "Jericho Mk2 - Warheads": {
+                "file": "Jericho Mk2 Warheads.stl",
+                "designer": "redzabo",
+                "md5": "6479e694156f05c20419cbea35c003bd",
+                "urls": [
+                    "https://cults3d.com/fr/mod%C3%A8le-3d/jeu/jericho-mlrs-mk-2"
+                ],
+                "bitz": {
+                    "facet": 94
+                }
+            }
+        }
+    }
+}

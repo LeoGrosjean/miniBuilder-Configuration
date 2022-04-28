@@ -939,5 +939,900 @@
                 "md5": "99fdaffbf8f038cb49c6bfa67f64a0f7"
             }
         }
+    },
+    "Space Warrior Rider": {
+        "desc": {
+            "display": "Space Warrior Rider",
+            "path": "Wargame Humanoid/body/Space Warrior Rider/",
+            "nodes": [
+                "body"
+            ]
+        },
+        "stl": {
+            "Outrider Pose 01": {
+                "file": "Outrider_pose_01.stl",
+                "designer": "GRAYGAWR",
+                "md5": "73daa8d7682180b6f48e1c2ba49b86ba",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/prime-roadkill-beef-builder"
+                ],
+                "head": {
+                    "vertex": 343427
+                },
+                "arm": {
+                    "left": {
+                        "facet": 186245
+                    }
+                },
+                "backpack": {
+                    "vertex_list": [
+                        442549,
+                        671846
+                    ]
+                }
+            },
+            "Outrider Pose 02": {
+                "file": "Outrider_pose_02.stl",
+                "designer": "GRAYGAWR",
+                "md5": "88a176502da820e686c96fe881451b90",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/prime-roadkill-beef-builder"
+                ],
+                "head": {
+                    "vertex": 582226
+                },
+                "arm": {
+                    "left": {
+                        "facet": 606531
+                    }
+                },
+                "backpack": {
+                    "vertex_list": [
+                        328611,
+                        1323274
+                    ]
+                }
+            },
+            "Outrider Pose 03": {
+                "file": "Outrider_pose_03.stl",
+                "designer": "GRAYGAWR",
+                "md5": "d620ab06385d55fbbc41abbf7e4ffa5a",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/prime-roadkill-beef-builder"
+                ],
+                "head": {
+                    "vertex": 888880
+                },
+                "arm": {
+                    "left": {
+                        "facet": 610473
+                    }
+                },
+                "backpack": {
+                    "vertex_list": [
+                        231985,
+                        398439
+                    ]
+                }
+            },
+            "Outrider Pose 04": {
+                "file": "Outrider_pose_04.stl",
+                "designer": "GRAYGAWR",
+                "md5": "66ce2ca5f7a68847aeeb559ce61f3ece",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/prime-roadkill-beef-builder"
+                ],
+                "head": {
+                    "vertex": 898618
+                },
+                "arm": {
+                    "left": {
+                        "facet": 610427
+                    }
+                },
+                "backpack": {
+                    "vertex_list": [
+                        316076,
+                        1381251
+                    ]
+                }
+            },
+            "Outrider Pose 05": {
+                "file": "Outrider_pose_05.stl",
+                "designer": "GRAYGAWR",
+                "md5": "df8146db329c40605d64474292a5e948",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/prime-roadkill-beef-builder"
+                ],
+                "head": {
+                    "vertex": 740803
+                },
+                "arm": {
+                    "left": {
+                        "facet": 607443
+                    }
+                },
+                "backpack": {
+                    "vertex_list": [
+                        1221100,
+                        1385901
+                    ]
+                }
+            },
+            "Outrider Pose 06": {
+                "file": "Outrider_pose_06.stl",
+                "designer": "GRAYGAWR",
+                "md5": "7dc8656b29e36a5f7e0d5c8b1e12aab2",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/prime-roadkill-beef-builder"
+                ],
+                "head": {
+                    "vertex": 72124
+                },
+                "arm": {
+                    "left": {
+                        "facet": 608925
+                    }
+                },
+                "backpack": {
+                    "vertex_list": [
+                        606195,
+                        777971
+                    ]
+                }
+            },
+            "Outrider Pose 07": {
+                "file": "Outrider_pose_07.stl",
+                "designer": "GRAYGAWR",
+                "md5": "d337216cb3c357a8e17595d43393d1bb",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/prime-roadkill-beef-builder"
+                ],
+                "head": {
+                    "vertex": 898959
+                },
+                "arm": {
+                    "left": {
+                        "facet": 609107
+                    }
+                },
+                "backpack": {
+                    "vertex_list": [
+                        316582,
+                        1381253
+                    ]
+                }
+            },
+            "Outrider Pose 08 Noarms": {
+                "file": "Outrider_pose_08_NoArms.stl",
+                "designer": "GRAYGAWR",
+                "md5": "5df74f731e48c715bb548df6cbaa85cd",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/prime-roadkill-beef-builder"
+                ],
+                "head": {
+                    "vertex": 463406
+                },
+                "arm": {
+                    "left": {
+                        "facet": 606607
+                    },
+                    "right": {
+                        "face": 1926474
+                    }
+                },
+                "backpack": {
+                    "vertex_list": [
+                        261661,
+                        378901
+                    ]
+                }
+            },
+            "Outrider Pose 09": {
+                "file": "Outrider_pose_09.stl",
+                "designer": "GRAYGAWR",
+                "md5": "80d2bddd0e599c145fc76421a2e86257",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/prime-roadkill-beef-builder"
+                ],
+                "head": {
+                    "vertex": 982975
+                },
+                "arm": {
+                    "left": {
+                        "facet": 602228
+                    }
+                },
+                "backpack": {
+                    "vertex_list": [
+                        276294,
+                        1117562
+                    ]
+                }
+            }
+        }
+    },
+    "Space Warrior Aggressor": {
+        "desc": {
+            "display": "Space Warrior Aggressor",
+            "path": "Wargame Humanoid/body/Space Warrior Aggressor/",
+            "nodes": [
+                "body"
+            ]
+        },
+        "stl": {
+            "Pose 01": {
+                "file": "POSE_01_magnet_ready.stl",
+                "designer": "Mazer",
+                "md5": "8d06e6db086746c665382db65b4c878a",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/imperial-legate-walking-tanks"
+                ],
+                "arm": {
+                    "left": {
+                        "facet": 8137
+                    },
+                    "right": {
+                        "facet": 9420
+                    }
+                },
+                "backpack": {
+                    "vertex_list": [
+                        116770,
+                        151878,
+                        201481,
+                        245793
+                    ]
+                }
+            },
+            "Pose 02": {
+                "file": "POSE_02_magnet_ready.stl",
+                "designer": "Mazer",
+                "md5": "20503f77012fa05d13d7375a342af426",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/imperial-legate-walking-tanks"
+                ],
+                "arm": {
+                    "right": {
+                        "facet": 1705
+                    },
+                    "left": {
+                        "facet": 14378
+                    }
+                },
+                "backpack": {
+                    "facet": 18692
+                }
+            },
+            "Pose 03 Sergent": {
+                "file": "POSE_03_SARGE_BODY_magnet_ready.stl",
+                "designer": "Mazer",
+                "md5": "3fd5ba179ea41a2be06ab5aa30151664",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/imperial-legate-walking-tanks"
+                ],
+                "arm": {
+                    "left": {
+                        "facet": 15998
+                    },
+                    "right": {
+                        "facet": 10855
+                    }
+                },
+                "backpack": {
+                    "facet": 18742
+                }
+            }
+        }
+    },
+    "Sekhmet Terminator": {
+        "desc": {
+            "display": "Sekhmet Terminator",
+            "path": "Wargame Humanoid/body/Sekhmet Terminator/",
+            "nodes": [
+                "body"
+            ]
+        },
+        "stl": {
+            "Chest 01": {
+                "file": "sehkmet-terminator-chest-1.stl",
+                "designer": "LordChammon",
+                "md5": "964d6b6d1eb4bcc138eb6639f7bfdabc",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/magnusons-sexmet-cabalistic-crew-conversion-kit"
+                ],
+                "support": {
+                    "file": "sehkmet-terminator-chest-1-supported.stl",
+                    "md5": "03b47671804bc22d7fd0628039a60928"
+                },
+                "leg": {
+                    "vertex": 1625
+                },
+                "arm": {
+                    "left": {
+                        "facet": 19885
+                    },
+                    "right": {
+                        "facet": 19888
+                    }
+                },
+                "bitzs": {
+                    "stole right": {
+                        "vertex": 28012
+                    },
+                    "stole left": {
+                        "vertex": 11248
+                    }
+                }
+            },
+            "Chest 02": {
+                "file": "sehkmet-terminator-chest-2.stl",
+                "designer": "LordChammon",
+                "md5": "4b692ca8c60f8fcd5b9a033e655e6bcf",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/magnusons-sexmet-cabalistic-crew-conversion-kit"
+                ],
+                "support": {
+                    "file": "sehkmet-terminator-chest-2-supported.stl",
+                    "md5": "a3e2662cc3eeebe4356f6459a26bdc17"
+                },
+                "leg": {
+                    "vertex": 34382
+                },
+                "arm": {
+                    "left": {
+                        "facet": 22612
+                    },
+                    "right": {
+                        "facet": 22615
+                    }
+                }
+            },
+            "Chest 03": {
+                "file": "sehkmet-terminator-chest-3.stl",
+                "designer": "LordChammon",
+                "md5": "96247cd83a0f3fe5a7335db61b49cb6e",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/magnusons-sexmet-cabalistic-crew-conversion-kit"
+                ],
+                "support": {
+                    "file": "sehkmet-terminator-chest-3-supported.stl",
+                    "md5": "ad516835248ff8221da488b8cecd3a47"
+                },
+                "leg": {
+                    "vertex": 16039
+                },
+                "arm": {
+                    "left": {
+                        "facet": 23459
+                    },
+                    "right": {
+                        "facet": 23462
+                    }
+                }
+            },
+            "Chest 04": {
+                "file": "sehkmet-terminator-chest-4.stl",
+                "designer": "LordChammon",
+                "md5": "f2a4aaf0ac024a7fffb3dcee2ee72120",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/magnusons-sexmet-cabalistic-crew-conversion-kit"
+                ],
+                "support": {
+                    "file": "sehkmet-terminator-chest-4-supported.stl",
+                    "md5": "ce20eae3961e6b88b8cc5141ba0b0812"
+                },
+                "leg": {
+                    "vertex": 14642
+                },
+                "arm": {
+                    "left": {
+                        "facet": 20928
+                    },
+                    "right": {
+                        "facet": 20931
+                    }
+                }
+            },
+            "Chest 05": {
+                "file": "sehkmet-terminator-chest-5.stl",
+                "designer": "LordChammon",
+                "md5": "6f9d758bbe33b5e7fc4aa0a25106b492",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/magnusons-sexmet-cabalistic-crew-conversion-kit"
+                ],
+                "support": {
+                    "file": "sehkmet-terminator-chest-5-supported.stl",
+                    "md5": "8b61419c2d4b550ffe01b6b5422aa9c5"
+                },
+                "leg": {
+                    "vertex": 13880
+                },
+                "arm": {
+                    "left": {
+                        "facet": 19871
+                    },
+                    "right": {
+                        "facet": 19874
+                    }
+                }
+            }
+        }
+    },
+    "Deathwing Terminator": {
+        "desc": {
+            "display": "Deathwing Terminator",
+            "path": "Wargame Humanoid/body/Deathwing Terminator/",
+            "nodes": [
+                "body"
+            ]
+        },
+        "stl": {
+            "Torso 01": {
+                "file": "DW_Torso_01_mag.stl",
+                "designer": "Mazer",
+                "md5": "5813d7e2e2e59826a35024baf41f8df0",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/deathwing-terminator-builder"
+                ],
+                "support": {
+                    "file": "DW_Torso_01_mag_supported.stl",
+                    "md5": "bdb3ef7b3202b194f8dec76eebc7caa6"
+                },
+                "arm": {
+                    "left": {
+                        "vertex_list": [
+                            108632,
+                            159563
+                        ]
+                    },
+                    "right": {
+                        "vertex_list": [
+                            108320,
+                            111200
+                        ]
+                    }
+                }
+            },
+            "Torso 02": {
+                "file": "DW_Assault_Torso_02_mag.stl",
+                "designer": "Mazer",
+                "md5": "3ff4c44f89463394fb5ed61a86a5e978",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/deathwing-terminator-builder"
+                ],
+                "support": {
+                    "file": "DW_Assault_Torso_02_mag_supported.stl",
+                    "md5": "080a820f54e4f9130e8eb83817727238"
+                },
+                "arm": {
+                    "left": {
+                        "vertex_list": [
+                            164334,
+                            164335
+                        ]
+                    },
+                    "right": {
+                        "vertex_list": [
+                            138086,
+                            138145
+                        ]
+                    }
+                }
+            },
+            "Torso 03": {
+                "file": "DW_Assault_Torso_03_mag.stl",
+                "designer": "Mazer",
+                "md5": "70cc2d07ba94a7683280175a08922f45",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/deathwing-terminator-builder"
+                ],
+                "support": {
+                    "file": "DW_Assault_Torso_03_mag_supported.stl",
+                    "md5": "f7087bb462ecdbfe6965e1f2e9053e04"
+                },
+                "arm": {
+                    "left": {
+                        "vertex_list": [
+                            96908,
+                            156777
+                        ]
+                    },
+                    "right": {
+                        "vertex_list": [
+                            42681,
+                            100880
+                        ]
+                    }
+                }
+            },
+            "Torso Cyclone 01": {
+                "file": "DW_Torso_Cyclone_01_mag.stl",
+                "designer": "Mazer",
+                "md5": "bfb5bcdf5c9b9e11b2aef25469eed2ef",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/deathwing-terminator-builder"
+                ],
+                "support": {
+                    "file": "DW_Torso_Cyclone_01_mag_supported.stl",
+                    "md5": "bf0852f233b85cfa5d58d2219dc77709"
+                },
+                "arm": {
+                    "left": {
+                        "vertex_list": [
+                            98707,
+                            212146
+                        ]
+                    },
+                    "right": {
+                        "vertex_list": [
+                            44900,
+                            164792
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    "Plague Marine": {
+        "desc": {
+            "display": "Plague Marine",
+            "path": "Wargame Humanoid/body/Plague Marine/",
+            "nodes": [
+                "body"
+            ]
+        },
+        "stl": {
+            "Spitter Hull": {
+                "file": "Gift 1 Hull.stl",
+                "designer": "Sumbu",
+                "md5": "b1db78b9553091149324315c6b114f56",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/tool/parts-of-a-disgusting-resilient-marine-builder"
+                ],
+                "arm": {
+                    "left": {
+                        "vertex": 502931
+                    },
+                    "right": {
+                        "vertex": 429638
+                    }
+                },
+                "bitzs": {
+                    "motor L": {
+                        "vertex": 116129
+                    },
+                    "motor R": {
+                        "vertex": 187585
+                    },
+                    "motor up": {
+                        "vertex": 300973
+                    }
+                }
+            },
+            "Hauler - Hull": {
+                "file": "Gift 2 Hull.stl",
+                "designer": "Sumbu",
+                "md5": "755392e9aaebf966107884e681004531",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/tool/parts-of-a-disgusting-resilient-marine-builder"
+                ],
+                "arm": {
+                    "left": {
+                        "vertex": 244341
+                    },
+                    "right": {
+                        "vertex": 103178
+                    }
+                },
+                "bitzs": {
+                    "Track Left": {
+                        "facet": 67996
+                    },
+                    "Track Right": {
+                        "facet": 68000
+                    }
+                }
+            },
+            "Crawler - Hull": {
+                "file": "Gift 3 Hull.stl",
+                "designer": "Sumbu",
+                "md5": "6c70a86058419284c25e81024d5a51ba",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/tool/parts-of-a-disgusting-resilient-marine-builder"
+                ],
+                "arm": {
+                    "left": {
+                        "facet": 53786
+                    },
+                    "right": {
+                        "facet": 28922
+                    }
+                },
+                "bitzs": {
+                    "Mortar": {
+                        "vertex": 1125
+                    },
+                    "Ram": {
+                        "facet": 16125
+                    }
+                }
+            },
+            "Torso 1": {
+                "file": "Plague_Marines_Torso_1_fixed.stl",
+                "designer": "Sumbu",
+                "md5": "c5a8d3769590637fd6a796937b827528",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/tool/parts-of-a-disgusting-resilient-marine-builder"
+                ],
+                "head": {
+                    "vertex": 98319
+                },
+                "leg": {
+                    "vertex": 98322
+                },
+                "arm": {
+                    "left": {
+                        "vertex": 87946
+                    },
+                    "right": {
+                        "vertex": 64058
+                    }
+                },
+                "backpack": {
+                    "vertex": 98199
+                }
+            },
+            "Torso 2": {
+                "file": "Plague_Marines_Torso_2_fixed.stl",
+                "designer": "Sumbu",
+                "md5": "d6fd4d3d00f5da01335731b093d377c0",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/tool/parts-of-a-disgusting-resilient-marine-builder"
+                ],
+                "head": {
+                    "vertex": 27362
+                },
+                "leg": {
+                    "vertex": 27415
+                },
+                "arm": {
+                    "left": {
+                        "vertex": 76432
+                    },
+                    "right": {
+                        "vertex": 3598
+                    }
+                },
+                "backpack": {
+                    "vertex": 27403
+                }
+            },
+            "Torso 3": {
+                "file": "Plague_Marines_Torso_3_fixed.stl",
+                "designer": "Sumbu",
+                "md5": "176bb4d4de1801705c4b7dea6da8773e",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/tool/parts-of-a-disgusting-resilient-marine-builder"
+                ],
+                "head": {
+                    "vertex": 108089
+                },
+                "leg": {
+                    "vertex": 108132
+                },
+                "arm": {
+                    "left": {
+                        "vertex": 262933
+                    },
+                    "right": {
+                        "vertex": 223138
+                    }
+                },
+                "backpack": {
+                    "vertex": 108143
+                }
+            },
+            "Torso 4": {
+                "file": "Plague_Marines_Torso_4_fixed.stl",
+                "designer": "Sumbu",
+                "md5": "98b5fce2de343226648010fbe96358b5",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/tool/parts-of-a-disgusting-resilient-marine-builder"
+                ],
+                "head": {
+                    "vertex": 26961
+                },
+                "leg": {
+                    "vertex": 26910
+                },
+                "arm": {
+                    "left": {
+                        "vertex": 2912
+                    },
+                    "right": {
+                        "vertex": 51814
+                    }
+                },
+                "backpack": {
+                    "face": 79962
+                }
+            },
+            "Torso 5": {
+                "file": "Plague_Marines_Torso_5_fixed.stl",
+                "designer": "Sumbu",
+                "md5": "5049e9d5ed46ef6168a312944b23b2e3",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/tool/parts-of-a-disgusting-resilient-marine-builder"
+                ],
+                "head": {
+                    "vertex": 87050
+                },
+                "leg": {
+                    "vertex": 87117
+                },
+                "arm": {
+                    "left": {
+                        "vertex": 42250
+                    },
+                    "right": {
+                        "vertex": 168665
+                    }
+                },
+                "backpack": {
+                    "face": 113531
+                }
+            },
+            "Torso 6": {
+                "file": "Plague_Marines_Torso_6_fixed.stl",
+                "designer": "Sumbu",
+                "md5": "6257b9f45222c1fd4ec6d07ad00b5758",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/tool/parts-of-a-disgusting-resilient-marine-builder"
+                ],
+                "head": {
+                    "vertex": 588
+                },
+                "leg": {
+                    "facet": 12003
+                },
+                "arm": {
+                    "left": {
+                        "vertex": 69398
+                    },
+                    "right": {
+                        "vertex": 4877
+                    }
+                },
+                "backpack": {
+                    "vertex": 18864
+                }
+            },
+            "Torso 7": {
+                "file": "Plague_Marines_Torso_7_fixed.stl",
+                "designer": "Sumbu",
+                "md5": "93e65def571063697d3208f0d0f8f8ff",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/tool/parts-of-a-disgusting-resilient-marine-builder"
+                ],
+                "head": {
+                    "vertex": 153836
+                },
+                "leg": {
+                    "vertex": 261419
+                },
+                "arm": {
+                    "left": {
+                        "vertex": 205944
+                    },
+                    "right": {
+                        "vertex": 276430
+                    }
+                },
+                "backpack": {
+                    "vertex": 153859
+                }
+            },
+            "Torso 8": {
+                "file": "Plague_Marines_Torso_8_fixed.stl",
+                "designer": "Sumbu",
+                "md5": "25fb71394ece9861e05e791a657c9238",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/tool/parts-of-a-disgusting-resilient-marine-builder"
+                ],
+                "head": {
+                    "vertex": 25694
+                },
+                "leg": {
+                    "vertex": 25641
+                },
+                "arm": {
+                    "left": {
+                        "vertex": 102710
+                    },
+                    "right": {
+                        "vertex": 19624
+                    }
+                },
+                "backpack": {
+                    "vertex": 25649
+                }
+            },
+            "Torso 9": {
+                "file": "Plague_Marines_Torso_9_fixed.stl",
+                "designer": "Sumbu",
+                "md5": "09b560d1d36bc2b099e6e2baaf8dccb4",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/tool/parts-of-a-disgusting-resilient-marine-builder"
+                ],
+                "head": {
+                    "vertex": 72437
+                },
+                "leg": {
+                    "vertex": 72386
+                },
+                "arm": {
+                    "left": {
+                        "vertex": 64735
+                    },
+                    "right": {
+                        "vertex": 27477
+                    }
+                },
+                "backpack": {
+                    "face": 27731
+                }
+            },
+            "Torso 10": {
+                "file": "Plague_Marines_Torso_10_fixed.stl",
+                "designer": "Sumbu",
+                "md5": "2dc6498d0c889234ec3578483e4bc7dc",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/tool/parts-of-a-disgusting-resilient-marine-builder"
+                ],
+                "head": {
+                    "vertex": 114068
+                },
+                "leg": {
+                    "vertex": 79320
+                },
+                "arm": {
+                    "left": {
+                        "vertex": 104274
+                    },
+                    "right": {
+                        "vertex": 145938
+                    }
+                },
+                "backpack": {
+                    "vertex": 114216
+                }
+            },
+            "Torso Champion": {
+                "file": "Plague_Marines_Torso_Champion_fixed.stl",
+                "designer": "Sumbu",
+                "md5": "ece80b22838b1b46da3f3ad446c89697",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/tool/parts-of-a-disgusting-resilient-marine-builder"
+                ],
+                "head": {
+                    "vertex": 24683
+                },
+                "leg": {
+                    "facet": 15983
+                },
+                "arm": {
+                    "left": {
+                        "vertex": 53046
+                    },
+                    "right": {
+                        "vertex": 36478
+                    }
+                },
+                "backpack": {
+                    "vertex": 24611
+                }
+            }
+        }
     }
 }

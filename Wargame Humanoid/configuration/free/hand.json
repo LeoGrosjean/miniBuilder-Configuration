@@ -423,5 +423,577 @@
                 }
             }
         }
+    },
+    "Space Warrior Rider": {
+        "desc": {
+            "display": "Space Warrior Rider",
+            "path": "Wargame Humanoid/hand/Space Warrior Rider/",
+            "nodes": [
+                "hand"
+            ]
+        },
+        "stl": {
+            "Bolter 01": {
+                "file": "Hand_Bolter_01.stl",
+                "designer": "GRAYGAWR",
+                "md5": "0638d808d52a008108b7993de90e2539",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/prime-roadkill-beef-builder"
+                ],
+                "dextral": "left",
+                "hand": {
+                    "vertex": 47644
+                }
+            },
+            "Bolter 02": {
+                "file": "Hand_Bolter_02.stl",
+                "designer": "GRAYGAWR",
+                "md5": "bd5366086b9ed63516bfd6b56281e3cd",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/prime-roadkill-beef-builder"
+                ],
+                "dextral": "left",
+                "hand": {
+                    "vertex": 99633
+                }
+            },
+            "Bolt Pistol 01": {
+                "file": "Hand_Boltpistol.stl",
+                "designer": "GRAYGAWR",
+                "md5": "ff29affe6bdfe9c924520a2ca991a37c",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/prime-roadkill-beef-builder"
+                ],
+                "dextral": "left",
+                "hand": {
+                    "vertex": 71354
+                }
+            },
+            "Bolt Pistol 02": {
+                "file": "Hand_Boltpistol_02.stl",
+                "designer": "GRAYGAWR",
+                "md5": "8aff0faec7a9e511f73259ad8dca5e0f",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/prime-roadkill-beef-builder"
+                ],
+                "dextral": "left",
+                "hand": {
+                    "vertex": 19241
+                }
+            },
+            "Bolt Pistol 03": {
+                "file": "Hand_Boltpistol_03.stl",
+                "designer": "GRAYGAWR",
+                "md5": "ed46c45598edc7353754c91a6d6d17dd",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/prime-roadkill-beef-builder"
+                ],
+                "dextral": "left",
+                "hand": {
+                    "vertex": 80769
+                }
+            },
+            "Bolt Pistol Small 01": {
+                "file": "Hand_Boltpistol_small_01.stl",
+                "designer": "GRAYGAWR",
+                "md5": "0e311c8cdeaba8f39417c4a91adad939",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/prime-roadkill-beef-builder"
+                ],
+                "dextral": "left",
+                "hand": {
+                    "vertex": 6389
+                }
+            },
+            "Bolt Pistol Small 02": {
+                "file": "Hand_Boltpistol_small_02.stl",
+                "designer": "GRAYGAWR",
+                "md5": "e3ca8c92959ba820a1eac29e9ddeded0",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/prime-roadkill-beef-builder"
+                ],
+                "dextral": "left",
+                "hand": {
+                    "vertex": 96222
+                }
+            },
+            "Chainsword 01": {
+                "file": "Hand_Chainsword_01.stl",
+                "designer": "GRAYGAWR",
+                "md5": "5a21048a6890cfc57dd32af274cacf78",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/prime-roadkill-beef-builder"
+                ],
+                "dextral": "left",
+                "hand": {
+                    "vertex": 91568
+                }
+            },
+            "Chainsword 02": {
+                "file": "Hand_Chainsword_02.stl",
+                "designer": "GRAYGAWR",
+                "md5": "c4add97810e382011ba0d2abb76f2315",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/prime-roadkill-beef-builder"
+                ],
+                "dextral": "left",
+                "hand": {
+                    "vertex": 130068
+                }
+            },
+            "Plasma Pistol": {
+                "file": "Hand_Plasmapistol.stl",
+                "designer": "GRAYGAWR",
+                "md5": "c6a367e50893c067e3a06e559ef9dfd6",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/prime-roadkill-beef-builder"
+                ],
+                "dextral": "left",
+                "hand": {
+                    "vertex": 29746
+                }
+            },
+            "Pointing 01": {
+                "file": "Hand_pointing_01.stl",
+                "designer": "GRAYGAWR",
+                "md5": "3e839c02a308067322407d2e500f7c40",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/prime-roadkill-beef-builder"
+                ],
+                "dextral": "right",
+                "hand": {
+                    "vertex": 115663
+                }
+            },
+            "Pointing 02": {
+                "file": "Hand_pointing_02.stl",
+                "designer": "GRAYGAWR",
+                "md5": "95e440c2f0bf29f3e6aca991df2bc6e6",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/prime-roadkill-beef-builder"
+                ],
+                "dextral": "right",
+                "hand": {
+                    "vertex": 44529
+                }
+            }
+        }
+    },
+    "Space Warrior Aggressor": {
+        "desc": {
+            "display": "Space Warrior Aggressor",
+            "path": "Wargame Humanoid/hand/Space Warrior Aggressor/",
+            "nodes": [
+                "hand"
+            ]
+        },
+        "stl": {
+            "Drill 01": {
+                "file": "DRILL_LEFT_repaired.stl",
+                "designer": "Mazer",
+                "md5": "ad0dc289cca7fbb9cc0cad4a20d7bf44",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/imperial-legate-walking-tanks"
+                ],
+                "dextral": "left",
+                "hand": {
+                    "face": 72483
+                }
+            },
+            "Drill 02": {
+                "file": "DRILL_RIGHT_repaired.stl",
+                "designer": "Mazer",
+                "md5": "e34f766f0d59678bee3ada2828b2be3f",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/imperial-legate-walking-tanks"
+                ],
+                "dextral": "right",
+                "hand": {
+                    "face": 72483
+                }
+            },
+            "Grav 01": {
+                "file": "GRAV_LEFT_repaired.stl",
+                "designer": "Mazer",
+                "md5": "7eaa032d1d0007113eced8975b8c0e79",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/imperial-legate-walking-tanks"
+                ],
+                "dextral": "left",
+                "hand": {
+                    "face": 42201
+                }
+            },
+            "Grav 02": {
+                "file": "GRAV_RIGHT_repaired.stl",
+                "designer": "Mazer",
+                "md5": "b8c2a4707143ab5d5fbaa37858621384",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/imperial-legate-walking-tanks"
+                ],
+                "dextral": "left",
+                "hand": {
+                    "face": 45527
+                }
+            },
+            "Lascannon 01": {
+                "file": "LASCANNON__LEFT_repaired.stl",
+                "designer": "Mazer",
+                "md5": "bf0e176dda5c01ef8eef8602beb2144a",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/imperial-legate-walking-tanks"
+                ],
+                "dextral": "right",
+                "hand": {
+                    "face": 294414
+                }
+            },
+            "Bolter 01": {
+                "file": "LEFTBOLTER_repaired.stl",
+                "designer": "Mazer",
+                "md5": "fff9e8f7eb440164a22614519fb1f1f0",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/imperial-legate-walking-tanks"
+                ],
+                "dextral": "left",
+                "hand": {
+                    "face": 26638
+                }
+            },
+            "Bolter 02": {
+                "file": "RIGHTBOLTER_repaired.stl",
+                "designer": "Mazer",
+                "md5": "7260eea89a7a64dcc10e255e245b03af",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/imperial-legate-walking-tanks"
+                ],
+                "dextral": "right",
+                "hand": {
+                    "face": 26610
+                }
+            },
+            "Sergent Bolter 01": {
+                "file": "SARGE_LEFTBOLTER_repaired.stl",
+                "designer": "Mazer",
+                "md5": "b18608af93326bad55058c43986af602",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/imperial-legate-walking-tanks"
+                ],
+                "dextral": "left",
+                "hand": {
+                    "face": 28156
+                }
+            }
+        }
+    },
+    "Sekhmet Terminator": {
+        "desc": {
+            "display": "Sekhmet Terminator",
+            "path": "Wargame Humanoid/hand/Sekhmet Terminator/",
+            "nodes": [
+                "hand"
+            ]
+        },
+        "stl": {
+            "Inferno Combi Bolter": {
+                "file": "sehkmet-terminator-inferno-combibolter.stl",
+                "designer": "LordChammon",
+                "md5": "bc22e701f0caacd67c211d4df4d5b0a7",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/magnusons-sexmet-cabalistic-crew-conversion-kit"
+                ],
+                "support": {
+                    "file": "sehkmet-terminator-inferno-combibolter-supported.stl",
+                    "md5": "f37bb80f8eba5e330a1b6da915da797c"
+                },
+                "dextral": "right",
+                "hand": {
+                    "facet": 96
+                }
+            },
+            "Kopesh Axe": {
+                "file": "sehkmet-terminator-kopesh-axe.stl",
+                "designer": "LordChammon",
+                "md5": "9fc446a1ce4c4996dc0ac484519573b3",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/magnusons-sexmet-cabalistic-crew-conversion-kit"
+                ],
+                "support": {
+                    "file": "sehkmet-terminator-kopesh-axe-supported.stl",
+                    "md5": "f926b8cd77a84dde4373bb32c42b4c5b"
+                },
+                "dextral": "left",
+                "hand": {
+                    "facet": 5153
+                }
+            },
+            "Kopesh Stave": {
+                "file": "sehkmet-terminator-kopesh-stave.stl",
+                "designer": "LordChammon",
+                "md5": "fa349d1d58d3afa523181ece1a1a18cc",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/magnusons-sexmet-cabalistic-crew-conversion-kit"
+                ],
+                "support": {
+                    "file": "sehkmet-terminator-kopesh-stave-supported.stl",
+                    "md5": "fa00827bc0880edc00c9b51d04c64ace"
+                },
+                "dextral": "left",
+                "hand": {
+                    "facet": 8924
+                }
+            }
+        }
+    },
+    "Hands": {
+        "desc": {
+            "display": "Hands",
+            "path": "Wargame Humanoid/hand/Hands/",
+            "nodes": [
+                "hand"
+            ]
+        },
+        "stl": {
+            "Hand Cazzo": {
+                "file": "hand_cazzo.stl",
+                "designer": "Fummelfinger",
+                "md5": "ba9e218cf7b960d19ff55d402227fd91",
+                "urls": [
+                    "https://cults3d.com/fr/mod%C3%A8le-3d/jeu/upscaled-hands"
+                ],
+                "dextral": "right",
+                "hand": {
+                    "facet": 110
+                }
+            },
+            "Hand Fist": {
+                "file": "hand_fist.stl",
+                "designer": "Fummelfinger",
+                "md5": "9698d346bcf7c05061902183518f588f",
+                "urls": [
+                    "https://cults3d.com/fr/mod%C3%A8le-3d/jeu/upscaled-hands"
+                ],
+                "dextral": "right",
+                "hand": {
+                    "facet": 41
+                }
+            },
+            "Hand Fist Tilted": {
+                "file": "hand_fist_tilted.stl",
+                "designer": "Fummelfinger",
+                "md5": "e817330227e2453918fad95ebf74cfe3",
+                "urls": [
+                    "https://cults3d.com/fr/mod%C3%A8le-3d/jeu/upscaled-hands"
+                ],
+                "dextral": "right",
+                "hand": {
+                    "facet": 38
+                }
+            },
+            "Hand Grip": {
+                "file": "hand_grip.stl",
+                "designer": "Fummelfinger",
+                "md5": "e1b6aae759568eeac9ec5516c790ac76",
+                "urls": [
+                    "https://cults3d.com/fr/mod%C3%A8le-3d/jeu/upscaled-hands"
+                ],
+                "weapon": {
+                    "facet": 5284
+                },
+                "dextral": "right",
+                "hand": {
+                    "facet": 14
+                }
+            },
+            "Hand Grip Drilled-out": {
+                "file": "hand_grip_drilled-out.stl",
+                "designer": "Fummelfinger",
+                "md5": "57e020feeeb1f003eec9dbb956918c15",
+                "urls": [
+                    "https://cults3d.com/fr/mod%C3%A8le-3d/jeu/upscaled-hands"
+                ],
+                "dextral": "right",
+                "hand": {
+                    "facet": 14
+                }
+            },
+            "Hand Grip Tilted": {
+                "file": "hand_grip_tilted.stl",
+                "designer": "Fummelfinger",
+                "md5": "5f5128699ed3096e857685668e4eb351",
+                "urls": [
+                    "https://cults3d.com/fr/mod%C3%A8le-3d/jeu/upscaled-hands"
+                ],
+                "weapon": {
+                    "facet": 4709
+                },
+                "dextral": "right",
+                "hand": {
+                    "facet": 3
+                }
+            },
+            "Hand Grip Tilted Drilled-out": {
+                "file": "hand_grip_tilted_drilled-out.stl",
+                "designer": "Fummelfinger",
+                "md5": "e8274816efebff2fb45fc4c1667b221d",
+                "urls": [
+                    "https://cults3d.com/fr/mod%C3%A8le-3d/jeu/upscaled-hands"
+                ],
+                "dextral": "right",
+                "hand": {
+                    "facet": 3
+                }
+            },
+            "Hand Gun Barrel": {
+                "file": "hand_gun_barrel.stl",
+                "designer": "Fummelfinger",
+                "md5": "3ec813ffb06f64bf3cffae5bad524960",
+                "urls": [
+                    "https://cults3d.com/fr/mod%C3%A8le-3d/jeu/upscaled-hands"
+                ],
+                "dextral": "left",
+                "hand": {
+                    "facet": 383
+                }
+            },
+            "Hand Gun Barrel Tilted": {
+                "file": "hand_gun_barrel_tilted.stl",
+                "designer": "Fummelfinger",
+                "md5": "979b099bc05e24d309e021b251ab425b",
+                "urls": [
+                    "https://cults3d.com/fr/mod%C3%A8le-3d/jeu/upscaled-hands"
+                ],
+                "dextral": "left",
+                "hand": {
+                    "facet": 348
+                }
+            },
+            "Hand Gun Straight": {
+                "file": "hand_gun_straight.stl",
+                "designer": "Fummelfinger",
+                "md5": "d40c204137a7e6db2a887d09e3d71d4d",
+                "urls": [
+                    "https://cults3d.com/fr/mod%C3%A8le-3d/jeu/upscaled-hands"
+                ],
+                "weapon": {
+                    "facet": 162
+                },
+                "dextral": "right",
+                "hand": {
+                    "facet": 639
+                }
+            },
+            "Hand Gun Straight Empty": {
+                "file": "hand_gun_straight_empty.stl",
+                "designer": "Fummelfinger",
+                "md5": "455486273e75325f7e8efa987d1decff",
+                "urls": [
+                    "https://cults3d.com/fr/mod%C3%A8le-3d/jeu/upscaled-hands"
+                ],
+                "dextral": "right",
+                "hand": {
+                    "facet": 46
+                }
+            },
+            "Hand Gun Trigger-discipline": {
+                "file": "hand_gun_trigger-discipline.stl",
+                "designer": "Fummelfinger",
+                "md5": "03babc42425d4dde4fc4cac4182a2287",
+                "urls": [
+                    "https://cults3d.com/fr/mod%C3%A8le-3d/jeu/upscaled-hands"
+                ],
+                "weapon": {
+                    "facet": 5306
+                },
+                "dextral": "right",
+                "hand": {
+                    "facet": 1
+                }
+            },
+            "Hand Gun Trigger-discipline Empty": {
+                "file": "hand_gun_trigger-discipline_empty.stl",
+                "designer": "Fummelfinger",
+                "md5": "430adff3cc0998a7e5502f468a33b70b",
+                "urls": [
+                    "https://cults3d.com/fr/mod%C3%A8le-3d/jeu/upscaled-hands"
+                ],
+                "dextral": "right",
+                "hand": {
+                    "facet": 1
+                }
+            },
+            "Hand Open": {
+                "file": "hand_open.stl",
+                "designer": "Fummelfinger",
+                "md5": "213d06c89504eb97f52ae48233247a16",
+                "urls": [
+                    "https://cults3d.com/fr/mod%C3%A8le-3d/jeu/upscaled-hands"
+                ],
+                "dextral": "right",
+                "hand": {
+                    "facet": 11
+                }
+            },
+            "Hand Open Tilted": {
+                "file": "hand_open_tilted.stl",
+                "designer": "Fummelfinger",
+                "md5": "e442fb511870caa0c52c052325b3cae9",
+                "urls": [
+                    "https://cults3d.com/fr/mod%C3%A8le-3d/jeu/upscaled-hands"
+                ],
+                "dextral": "right",
+                "hand": {
+                    "facet": 9
+                }
+            },
+            "Hand Pointing": {
+                "file": "hand_pointing.stl",
+                "designer": "Fummelfinger",
+                "md5": "7398f0a6e6ea09090cc9f676e0f5efc1",
+                "urls": [
+                    "https://cults3d.com/fr/mod%C3%A8le-3d/jeu/upscaled-hands"
+                ],
+                "dextral": "right",
+                "hand": {
+                    "facet": 12
+                }
+            },
+            "Hand Relaxed": {
+                "file": "hand_relaxed.stl",
+                "designer": "Fummelfinger",
+                "md5": "7cc5e8b9ff1f167c9922c526e6a4117f",
+                "urls": [
+                    "https://cults3d.com/fr/mod%C3%A8le-3d/jeu/upscaled-hands"
+                ],
+                "dextral": "right",
+                "hand": {
+                    "facet": 986
+                }
+            },
+            "Hand Stinky": {
+                "file": "hand_stinky.stl",
+                "designer": "Fummelfinger",
+                "md5": "c35ec3a02eaeb475e1d11a63c9aeef01",
+                "urls": [
+                    "https://cults3d.com/fr/mod%C3%A8le-3d/jeu/upscaled-hands"
+                ],
+                "dextral": "right",
+                "hand": {
+                    "facet": 637
+                }
+            },
+            "Hand  Mug": {
+                "file": "hand__mug.stl",
+                "designer": "Fummelfinger",
+                "md5": "b6f15a5a9e52d1f5683479f731093db9",
+                "urls": [
+                    "https://cults3d.com/fr/mod%C3%A8le-3d/jeu/upscaled-hands"
+                ],
+                "dextral": "right",
+                "hand": {
+                    "facet": 28
+                }
+            }
+        }
     }
 }

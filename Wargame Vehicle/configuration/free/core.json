@@ -1,0 +1,137 @@
+{
+    "Imp\u00e9rial Guard": {
+        "desc": {
+            "display": "Imp\u00e9rial Guard",
+            "path": "Wargame Vehicle/core/Imp\u00e9rial Guard/",
+            "nodes": [
+                "core"
+            ]
+        },
+        "stl": {
+            "Flak Mortar - Hull Rear": {
+                "file": "Flak_Mortar_Hull_Hollowed_Rear_V2.stl",
+                "designer": "redzabo",
+                "md5": "9f8d2ad3d566c16c92cd906515333e93",
+                "urls": [
+                    "https://cults3d.com/fr/mod%C3%A8le-3d/jeu/imperial-guard-flak-tank-hydra-like-proxy"
+                ],
+                "sidefrontcore": {
+                    "right": {
+                        "face": 1432
+                    },
+                    "left": {
+                        "face": 11524
+                    }
+                },
+                "centerfrontcore": {
+                    "vertex_list": [
+                        6613,
+                        6614
+                    ]
+                },
+                "topcore": {
+                    "facet": 5356
+                }
+            },
+            "Jericho Mk2 - Hull Rear": {
+                "file": "Jericho Mk2_Hull Rear.stl",
+                "designer": "redzabo",
+                "md5": "ed033fcca76aef558efea2ffddf45c91",
+                "urls": [
+                    "https://cults3d.com/fr/mod%C3%A8le-3d/jeu/jericho-mlrs-mk-2"
+                ],
+                "support": {
+                    "file": "_Jericho_Mk2_Hull_Rear.stl",
+                    "md5": "ab98149670ce5b790e51dd9773190967"
+                },
+                "sidefrontcore": {
+                    "right": {
+                        "face": 16216
+                    },
+                    "left": {
+                        "face": 18203
+                    }
+                },
+                "sidebackcore": {
+                    "right": {
+                        "face": 1064
+                    },
+                    "left": {
+                        "face": 1317
+                    }
+                },
+                "centerfrontcore": {
+                    "vertex_list": [
+                        8603,
+                        8604,
+                        10875,
+                        10876
+                    ]
+                },
+                "topcore": {
+                    "vertex_list": [
+                        4949,
+                        5013,
+                        5029,
+                        5030
+                    ]
+                },
+                "bitzs": {
+                    "Fuel Tank": {
+                        "face": 1432
+                    },
+                    "missile reload bottom": {
+                        "vertex_list": [
+                            1860,
+                            9917
+                        ]
+                    },
+                    "missile reload top": {
+                        "vertex_list": [
+                            1860,
+                            9917
+                        ]
+                    },
+                    "Instrument Panel L": {
+                        "facet": 3396
+                    },
+                    "Instrument Panel R": {
+                        "facet": 5599
+                    }
+                }
+            },
+            "Jericho Mk2 - Assembled Interior View": {
+                "file": "0_Jericho Mk2 Assembled Interior View.stl",
+                "designer": "redzabo",
+                "md5": "cb8202ebc3cdf6a0dfbbfea88a82c981",
+                "urls": [
+                    "https://cults3d.com/fr/mod%C3%A8le-3d/jeu/jericho-mlrs-mk-2"
+                ]
+            },
+            "Jericho Mk2 - Assembled Launcher Down": {
+                "file": "0_Jericho Mk2 Assembled Launcher Down.stl",
+                "designer": "redzabo",
+                "md5": "969ab80d1d1e81e902de6267d06fb559",
+                "urls": [
+                    "https://cults3d.com/fr/mod%C3%A8le-3d/jeu/jericho-mlrs-mk-2"
+                ]
+            },
+            "Jericho Mk2 - Assembled Launcher Up": {
+                "file": "0_Jericho Mk2 Assembled Launcher Up.stl",
+                "designer": "redzabo",
+                "md5": "d998079620edf2daeac42a80feca5bfd",
+                "urls": [
+                    "https://cults3d.com/fr/mod%C3%A8le-3d/jeu/jericho-mlrs-mk-2"
+                ]
+            },
+            "Jericho Mk2 - Assembled Launching": {
+                "file": "0_Jericho Mk2 Assembled Launching.stl",
+                "designer": "redzabo",
+                "md5": "32ac763a925a6dcd5bc1f7c41802a1bf",
+                "urls": [
+                    "https://cults3d.com/fr/mod%C3%A8le-3d/jeu/jericho-mlrs-mk-2"
+                ]
+            }
+        }
+    }
+}

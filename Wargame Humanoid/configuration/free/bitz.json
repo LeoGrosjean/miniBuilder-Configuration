@@ -82,5 +82,2451 @@
                 }
             }
         }
+    },
+    "Space Jewellery": {
+        "desc": {
+            "display": "Space Jewellery",
+            "path": "Wargame Humanoid/bitz/Space Jewellery/",
+            "bitz": true
+        },
+        "stl": {
+            "Big Bone": {
+                "file": "Big_bone.stl",
+                "designer": "GRAYGAWR",
+                "md5": "fc3fd4f62f7c7110d9e5dd14251c894c",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery"
+                ],
+                "bitz": {
+                    "face": 187
+                }
+            },
+            "Big Bone Chain": {
+                "file": "Big_bone_chain.stl",
+                "designer": "GRAYGAWR",
+                "md5": "85e5c00c7a1bfd2e723e2b9b2a4a3f44",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery"
+                ],
+                "support": {
+                    "file": "Big_bone_chain_supp.stl",
+                    "md5": "7d3f4ecf06d8cbd98d86eb44b42044bf"
+                },
+                "bitz": {
+                    "facet": 479
+                }
+            },
+            "Bones": {
+                "file": "Bones.stl",
+                "designer": "GRAYGAWR",
+                "md5": "31aea0687548e9a206f4acf9590d1edf",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery"
+                ],
+                "bitz": {
+                    "face": 4663
+                }
+            },
+            "Bones Chain": {
+                "file": "Bones_chain.stl",
+                "designer": "GRAYGAWR",
+                "md5": "d11424c3edef0684cee9f41bc73ba6b6",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery"
+                ],
+                "support": {
+                    "file": "Bones_chain_supp.stl",
+                    "md5": "6b1c5e8767ca5d8ab772bd8c08792623"
+                },
+                "bitz": {
+                    "face": 7789
+                }
+            },
+            "Bones Housed": {
+                "file": "Bones_housed.stl",
+                "designer": "GRAYGAWR",
+                "md5": "405e82056df200302d601527a82de776",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery"
+                ],
+                "bitz": {
+                    "vertex": 770
+                }
+            },
+            "Bones Housed Chain": {
+                "file": "Bones_housed_chain.stl",
+                "designer": "GRAYGAWR",
+                "md5": "33cef92d01aad3e0bedfee168494f652",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery"
+                ],
+                "support": {
+                    "file": "Bones_housed_chain_supp.stl",
+                    "md5": "44eae18f7af854abb2ddc70abac50e3f"
+                },
+                "bitz": {
+                    "face": 2327
+                }
+            },
+            "Bone Housed": {
+                "file": "Bone_housed.stl",
+                "designer": "GRAYGAWR",
+                "md5": "4cbd0eee0c921c372ee72977171c2b98",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery"
+                ],
+                "bitz": {
+                    "vertex": 4975
+                }
+            },
+            "Bone Housed Chain": {
+                "file": "Bone_housed_chain.stl",
+                "designer": "GRAYGAWR",
+                "md5": "760eaf5cc53a538dbd319743db41b6e8",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery"
+                ],
+                "support": {
+                    "file": "Bone_housed_chain_supp.stl",
+                    "md5": "35242ce0782a34f134479524eeeab8b0"
+                },
+                "bitz": {
+                    "face": 2327
+                }
+            },
+            "Book": {
+                "file": "Book.stl",
+                "designer": "GRAYGAWR",
+                "md5": "efd40914575871ad2c5ca6371da31d34",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery"
+                ],
+                "bitz": {
+                    "vertex": 4347
+                }
+            },
+            "Book Chain": {
+                "file": "Book_chain.stl",
+                "designer": "GRAYGAWR",
+                "md5": "bb068a4e26a510cc802e8a0ac1dd9759",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery"
+                ],
+                "support": {
+                    "file": "Book_chain_supp.stl",
+                    "md5": "46a56165f9a844bf914da1c38674007c"
+                },
+                "bitz": {
+                    "face": 2327
+                }
+            },
+            "Book Cross": {
+                "file": "Book_cross.stl",
+                "designer": "GRAYGAWR",
+                "md5": "c3c0448239f8ebd359112684051dd3b4",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery"
+                ],
+                "bitz": {
+                    "vertex": 11
+                }
+            },
+            "Book Cross Chain": {
+                "file": "Book_cross_chain.stl",
+                "designer": "GRAYGAWR",
+                "md5": "f1630cf92f4c848d4bec0b52acb38ccf",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery"
+                ],
+                "support": {
+                    "file": "Book_cross_chain.stl",
+                    "md5": "f1630cf92f4c848d4bec0b52acb38ccf"
+                },
+                "bitz": {
+                    "face": 2327
+                }
+            },
+            "Bullet": {
+                "file": "Bullet.stl",
+                "designer": "GRAYGAWR",
+                "md5": "fedba277b56c369dfd1005159cab948f",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery"
+                ],
+                "bitz": {
+                    "vertex": 613
+                }
+            },
+            "Bullet Chain": {
+                "file": "Bullet_chain.stl",
+                "designer": "GRAYGAWR",
+                "md5": "48df0750a1b6557e028f094c2fa26be6",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery"
+                ],
+                "support": {
+                    "file": "Bullet_chain_supp.stl",
+                    "md5": "e3052921622c396af830a929dee712ae"
+                },
+                "bitz": {
+                    "face": 2327
+                }
+            },
+            "Bullet Housed": {
+                "file": "Bullet_housed.stl",
+                "designer": "GRAYGAWR",
+                "md5": "34e20a9f29bd8648c1d17d2d8e4babb6",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery"
+                ],
+                "bitz": {
+                    "vertex": 4912
+                }
+            },
+            "Bullet Housed Chain": {
+                "file": "Bullet_housed_chain.stl",
+                "designer": "GRAYGAWR",
+                "md5": "30c3fed7b6ccdce9e7c41ead996c3185",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery"
+                ],
+                "support": {
+                    "file": "Bullet_housed_chain_supp.stl",
+                    "md5": "8964152959ace027cc2eae4082ec10b6"
+                },
+                "bitz": {
+                    "face": 2327
+                }
+            },
+            "Chalice": {
+                "file": "Chalice.stl",
+                "designer": "GRAYGAWR",
+                "md5": "15c23e6f5164b7875706052874ef2c09",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery"
+                ],
+                "bitz": {
+                    "vertex": 5029
+                }
+            },
+            "Chalice Chained": {
+                "file": "Chalice_chained.stl",
+                "designer": "GRAYGAWR",
+                "md5": "a431f1c2bc9bc03068955bea6582ee2f",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery"
+                ],
+                "support": {
+                    "file": "Chalice_chained_supp.stl",
+                    "md5": "6626c6980d9ae0d7c2ea90985d12da96"
+                },
+                "bitz": {
+                    "face": 2327
+                }
+            },
+            "Cross": {
+                "file": "Cross.stl",
+                "designer": "GRAYGAWR",
+                "md5": "b143e2802182c86906baba64d3a8e04f",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery"
+                ],
+                "bitz": {
+                    "vertex": 3607
+                }
+            },
+            "Cross Chain": {
+                "file": "Cross_chain.stl",
+                "designer": "GRAYGAWR",
+                "md5": "4492dd28c5bad1c02b845e1c5eb8164c",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery"
+                ],
+                "support": {
+                    "file": "Cross_chain_supp.stl",
+                    "md5": "7d2b755b24a9a0a0fedf4358afcd8492"
+                },
+                "bitz": {
+                    "face": 2327
+                }
+            },
+            "Cross Housed": {
+                "file": "Cross_housed.stl",
+                "designer": "GRAYGAWR",
+                "md5": "372b1cd067de0bb7c941a81e0c6d1707",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery"
+                ],
+                "bitz": {
+                    "vertex": 5273
+                }
+            },
+            "Cross Housed Chain": {
+                "file": "Cross_housed_chain.stl",
+                "designer": "GRAYGAWR",
+                "md5": "c2777c7f15f7259078e0a6ed4d2a39d0",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery"
+                ],
+                "support": {
+                    "file": "Cross_housed_chain_supp.stl",
+                    "md5": "e60115ee1b98d8813f4855d7fefe8bd8"
+                },
+                "bitz": {
+                    "face": 2327
+                }
+            },
+            "Iron Cross 01": {
+                "file": "Iron_cross_01.stl",
+                "designer": "GRAYGAWR",
+                "md5": "4029ef9cb988ef8901d723bee801d129",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery"
+                ],
+                "bitz": {
+                    "face": 337
+                }
+            },
+            "Iron Cross 01 Chain": {
+                "file": "Iron_cross_01_chain.stl",
+                "designer": "GRAYGAWR",
+                "md5": "568d854fe01a83d9190c8251ef05b4b9",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery"
+                ],
+                "support": {
+                    "file": "Iron_cross_01_chain_supp.stl",
+                    "md5": "b1e2c5a0afc0f48cee123fc3baff02b1"
+                },
+                "bitz": {
+                    "face": 2327
+                }
+            },
+            "Iron Cross 02": {
+                "file": "Iron_cross_02.stl",
+                "designer": "GRAYGAWR",
+                "md5": "a1345a025042e80c28512b9a47e0e1fd",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery"
+                ],
+                "bitz": {
+                    "vertex": 1955
+                }
+            },
+            "Iron Cross 02 Chain": {
+                "file": "Iron_cross_02_chain.stl",
+                "designer": "GRAYGAWR",
+                "md5": "94b55a89ebdc94a73bc0920d1477e81a",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery"
+                ],
+                "bitz": {
+                    "face": 2327
+                }
+            },
+            "Key": {
+                "file": "Key.stl",
+                "designer": "GRAYGAWR",
+                "md5": "8cd13e97ea9b6a03a6f0803292cb47cb",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery"
+                ],
+                "bitz": {
+                    "facet": 8
+                }
+            },
+            "Key Chain": {
+                "file": "Key_chain.stl",
+                "designer": "GRAYGAWR",
+                "md5": "ea3a4daf8608f14c579a4cd9a549451e",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery"
+                ],
+                "support": {
+                    "file": "Key_chain_supp.stl",
+                    "md5": "d59850c4784d5622230c3305623b5b31"
+                },
+                "bitz": {
+                    "face": 4291
+                }
+            },
+            "Keys": {
+                "file": "Keys.stl",
+                "designer": "GRAYGAWR",
+                "md5": "42e1748a04c2d6669abe2cdf2fabe2f8",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery"
+                ],
+                "bitz": {
+                    "face": 1496
+                }
+            },
+            "Keys Chain": {
+                "file": "Keys_chain.stl",
+                "designer": "GRAYGAWR",
+                "md5": "5e11045f815fa359acc767eade2b303a",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery"
+                ],
+                "support": {
+                    "file": "Keys_chain_supp.stl",
+                    "md5": "af52b2624904e936133428e74f1fc1fc"
+                },
+                "bitz": {
+                    "face": 5165
+                }
+            },
+            "Key Housed": {
+                "file": "Key_housed.stl",
+                "designer": "GRAYGAWR",
+                "md5": "218dcb89b2306f4aeb33536227402867",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery"
+                ],
+                "bitz": {
+                    "face": 1041
+                }
+            },
+            "Key Housed Chain": {
+                "file": "Key_housed_chain.stl",
+                "designer": "GRAYGAWR",
+                "md5": "84e793571332e2fb0188e63e1470e1c3",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery"
+                ],
+                "support": {
+                    "file": "Key_housed_chain_supp.stl",
+                    "md5": "f380b79adc35bda1b721625d5ea025c3"
+                },
+                "bitz": {
+                    "face": 2327
+                }
+            },
+            "Lock": {
+                "file": "Lock.stl",
+                "designer": "GRAYGAWR",
+                "md5": "8473d02cd12d3346e082dbbe498af1b8",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery"
+                ],
+                "bitz": {
+                    "face": 2566
+                }
+            },
+            "Lock Chain": {
+                "file": "Lock_chain.stl",
+                "designer": "GRAYGAWR",
+                "md5": "43fbbd78493289757343609655afa4c8",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery"
+                ],
+                "bitz": {
+                    "face": 1915
+                }
+            },
+            "Lock And Key": {
+                "file": "Lock_and_key.stl",
+                "designer": "GRAYGAWR",
+                "md5": "182714e2b402627a1a3dc42e920a2fd2",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery"
+                ],
+                "bitz": {
+                    "face": 75
+                }
+            },
+            "Lock And Key Chain": {
+                "file": "Lock_and_key_chain.stl",
+                "designer": "GRAYGAWR",
+                "md5": "3ce8438c92e97498be255bdcec01bcb7",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery"
+                ],
+                "support": {
+                    "file": "Lock_and_key_chain_supp.stl",
+                    "md5": "9b811ce840740a8bd4751da74b496007"
+                },
+                "bitz": {
+                    "face": 5925
+                }
+            },
+            "Servo": {
+                "file": "Servo.stl",
+                "designer": "GRAYGAWR",
+                "md5": "85bec03e8d9c3408f1665887c99ca9e7",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery"
+                ],
+                "bitz": {
+                    "vertex": 5212
+                }
+            },
+            "Servo Chain": {
+                "file": "Servo_chain.stl",
+                "designer": "GRAYGAWR",
+                "md5": "e50bbcafee82dc399fcc72e70a662187",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery"
+                ],
+                "bitz": {
+                    "face": 2327
+                }
+            },
+            "Shield 01": {
+                "file": "Shield_01.stl",
+                "designer": "GRAYGAWR",
+                "md5": "cc85a8a315b1ea75d87f97c4f0589ab1",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery"
+                ],
+                "bitz": {
+                    "vertex": 1412
+                }
+            },
+            "Shield 01 Chain": {
+                "file": "Shield_01_chain.stl",
+                "designer": "GRAYGAWR",
+                "md5": "56f245fc601336ccd4aa54ee94cbb837",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery"
+                ],
+                "support": {
+                    "file": "Shield_01_chain_supp.stl",
+                    "md5": "aee83f8ca575a81135a932d16346b4f1"
+                },
+                "bitz": {
+                    "face": 1915
+                }
+            },
+            "Shield 02": {
+                "file": "Shield_02.stl",
+                "designer": "GRAYGAWR",
+                "md5": "d598ca84a2a7b828dec2b5152e3fe288",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery"
+                ],
+                "bitz": {
+                    "vertex": 1478
+                }
+            },
+            "Shield 02 Chain": {
+                "file": "Shield_02_chain.stl",
+                "designer": "GRAYGAWR",
+                "md5": "8bc851d4ba2d0624b3c927f653cd9595",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery"
+                ],
+                "support": {
+                    "file": "Shield_02_chain_supp.stl",
+                    "md5": "76cf879c8d27f813d3195d37e9595965"
+                },
+                "bitz": {
+                    "face": 1915
+                }
+            },
+            "Shield 03": {
+                "file": "Shield_03.stl",
+                "designer": "GRAYGAWR",
+                "md5": "4c165cc773eb2f575f2f995bb63b41ce",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery"
+                ],
+                "bitz": {
+                    "vertex": 2172
+                }
+            },
+            "Shield 03 Chain": {
+                "file": "Shield_03_chain.stl",
+                "designer": "GRAYGAWR",
+                "md5": "8b473136443b743cac62312ebad77825",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery"
+                ],
+                "support": {
+                    "file": "Shield_03_chain_supp.stl",
+                    "md5": "d2940a856da1ed87fc3163ba73000015"
+                },
+                "bitz": {
+                    "face": 1915
+                }
+            },
+            "Skull": {
+                "file": "Skull.stl",
+                "designer": "GRAYGAWR",
+                "md5": "5b904ef061c88e6112eb2f20f583b14f",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery"
+                ],
+                "bitz": {
+                    "vertex": 2600
+                }
+            },
+            "Skull Chain": {
+                "file": "Skull_chain.stl",
+                "designer": "GRAYGAWR",
+                "md5": "10ee585f7739302ffd82f79a592dd26d",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery"
+                ],
+                "support": {
+                    "file": "Skull_chain_supp.stl",
+                    "md5": "f40186916834a538c2b8a9446769bde0"
+                },
+                "bitz": {
+                    "face": 2327
+                }
+            },
+            "Skulls 01": {
+                "file": "Skulls_01.stl",
+                "designer": "GRAYGAWR",
+                "md5": "cdd9aee2f68588a6009c4e46aca3c0b0",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery"
+                ],
+                "bitz": {
+                    "vertex": 5259
+                }
+            },
+            "Skulls 01 Chain": {
+                "file": "Skulls_01_chain.stl",
+                "designer": "GRAYGAWR",
+                "md5": "714dac9965d1827037d6785f505ca2ef",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery"
+                ],
+                "support": {
+                    "file": "Skulls_01_chain_supp.stl",
+                    "md5": "bcf68a1bbb0a4eafd208ffe7a05cee60"
+                },
+                "bitz": {
+                    "face": 2327
+                }
+            },
+            "Skulls 02": {
+                "file": "Skulls_02.stl",
+                "designer": "GRAYGAWR",
+                "md5": "3b59fe42629ee1a06bce6183af80d615",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery"
+                ],
+                "bitz": {
+                    "vertex": 8785
+                }
+            },
+            "Skulls 02 Chain": {
+                "file": "Skulls_02_chain.stl",
+                "designer": "GRAYGAWR",
+                "md5": "a912275886541a8cc50abf9e5ce72670",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery"
+                ],
+                "support": {
+                    "file": "Skulls_02_chain_supp.stl",
+                    "md5": "f821080a6dc650512e0d74284dd408ce"
+                },
+                "bitz": {
+                    "face": 2327
+                }
+            },
+            "Blood Drop": {
+                "file": "Blood_drop.stl",
+                "designer": "GRAYGAWR",
+                "md5": "93692334d6fdec522b79feb684d9bdfa",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery-set-2"
+                ],
+                "bitz": {
+                    "face": 3654
+                }
+            },
+            "Blood Drop Chain": {
+                "file": "Blood_drop_chain.stl",
+                "designer": "GRAYGAWR",
+                "md5": "2b7bbe2187e6a47ca5776acc52227a12",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery-set-2"
+                ],
+                "support": {
+                    "file": "Blood_drop_chain_supp.stl",
+                    "md5": "8ca68ddb6dcfe36d8f89a7fa57155622"
+                },
+                "bitz": {
+                    "face": 2682
+                }
+            },
+            "Blood Tear": {
+                "file": "Blood_tear.stl",
+                "designer": "GRAYGAWR",
+                "md5": "114073fb9a1b21e662db37578301a020",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery-set-2"
+                ],
+                "bitz": {
+                    "vertex": 994
+                }
+            },
+            "Blood Tear Chain": {
+                "file": "Blood_tear_chain.stl",
+                "designer": "GRAYGAWR",
+                "md5": "786c457a59c63b540a8dabbe9909b7b3",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery-set-2"
+                ],
+                "support": {
+                    "file": "Blood_tear_chain_supp.stl",
+                    "md5": "159f86daef831d3cde53ce1648d60702"
+                },
+                "bitz": {
+                    "face": 4488
+                }
+            },
+            "Blood Tear Duo": {
+                "file": "Blood_tear_duo.stl",
+                "designer": "GRAYGAWR",
+                "md5": "fb1645445776579671c335aa78b821a7",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery-set-2"
+                ],
+                "bitz": {
+                    "facet": 391
+                }
+            },
+            "Blood Tear Duo Chain": {
+                "file": "Blood_tear_duo_chain.stl",
+                "designer": "GRAYGAWR",
+                "md5": "12e1956ee5b5fbcdee18f146c0319ea1",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery-set-2"
+                ],
+                "support": {
+                    "file": "Blood_tear_duo_chain_supp.stl",
+                    "md5": "824e801a6f426263488d07a826ada67a"
+                },
+                "bitz": {
+                    "face": 11010
+                }
+            },
+            "Blood Tear Winged": {
+                "file": "Blood_tear_winged.stl",
+                "designer": "GRAYGAWR",
+                "md5": "24c314f0e5293a5206fafc7d49c986b8",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery-set-2"
+                ],
+                "bitz": {
+                    "face": 5908
+                }
+            },
+            "Blood Tear Winged Chain": {
+                "file": "Blood_tear_winged_chain.stl",
+                "designer": "GRAYGAWR",
+                "md5": "2d77b246384f41d829c23ae964c84e9c",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery-set-2"
+                ],
+                "support": {
+                    "file": "Blood_tear_winged_chain_supp.stl",
+                    "md5": "5a374e2eae0eea61b71e0c0b8b585e89"
+                },
+                "bitz": {
+                    "face": 8001
+                }
+            },
+            "Feather 01": {
+                "file": "Feather_01.stl",
+                "designer": "GRAYGAWR",
+                "md5": "57ea003924781f73020bd99dcd07f058",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery-set-2"
+                ],
+                "bitz": {
+                    "face": 3032
+                }
+            },
+            "Feather 01 Chain": {
+                "file": "Feather_01_chain.stl",
+                "designer": "GRAYGAWR",
+                "md5": "03d8262d158f9eb8cbd4de4ba0f0af85",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery-set-2"
+                ],
+                "support": {
+                    "file": "Feather_01_chain_supp.stl",
+                    "md5": "beef6b4936268b5a56d7f31b1d587a08"
+                },
+                "bitz": {
+                    "face": 1128
+                }
+            },
+            "Feather 02": {
+                "file": "Feather_02.stl",
+                "designer": "GRAYGAWR",
+                "md5": "a87a4bf44f919e122bc4a9222f9991e0",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery-set-2"
+                ],
+                "bitz": {
+                    "vertex": 725
+                }
+            },
+            "Feather 02 Chain": {
+                "file": "Feather_02_chain.stl",
+                "designer": "GRAYGAWR",
+                "md5": "b5f594dad9b8934ed9a12203897175cc",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery-set-2"
+                ],
+                "support": {
+                    "file": "Feather_02_chain_supp.stl",
+                    "md5": "a27f78c124cfbe29b1ed4d4a41c953d5"
+                },
+                "bitz": {
+                    "face": 838
+                }
+            },
+            "Feather Duo": {
+                "file": "Feather_duo.stl",
+                "designer": "GRAYGAWR",
+                "md5": "9348d6a3498f1c870eb92b58c2e5508c",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery-set-2"
+                ],
+                "bitz": {
+                    "vertex": 754
+                }
+            },
+            "Feather Duo Chain": {
+                "file": "Feather_duo_chain.stl",
+                "designer": "GRAYGAWR",
+                "md5": "608e89def43a57c95ebe141c2595f73f",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery-set-2"
+                ],
+                "support": {
+                    "file": "Feather_duo_chain_supp.stl",
+                    "md5": "5368e6c90b322897cec80fb5b5e1e03e"
+                },
+                "bitz": {
+                    "face": 1704
+                }
+            },
+            "Gem": {
+                "file": "Gem.stl",
+                "designer": "GRAYGAWR",
+                "md5": "20ad9be585494c8b58bf26f69b13e282",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery-set-2"
+                ],
+                "bitz": {
+                    "vertex": 1055
+                }
+            },
+            "Gem Chain": {
+                "file": "Gem_chain.stl",
+                "designer": "GRAYGAWR",
+                "md5": "ec098e49044a8557c14f3d5b5de645f6",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery-set-2"
+                ],
+                "support": {
+                    "file": "Gem_chain_supp.stl",
+                    "md5": "c432cda1db8457889a0540663bab3652"
+                },
+                "bitz": {
+                    "face": 3051
+                }
+            },
+            "Holy Handgranade": {
+                "file": "Holy_handgranade.stl",
+                "designer": "GRAYGAWR",
+                "md5": "d5817c92fef06b1eb3ced109135a26a8",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery-set-2"
+                ],
+                "bitz": {
+                    "vertex": 2494
+                }
+            },
+            "Holy Handgranade Chain": {
+                "file": "Holy_handgranade_chain.stl",
+                "designer": "GRAYGAWR",
+                "md5": "c123a85c74c5c6a32b53ddf64141a473",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery-set-2"
+                ],
+                "support": {
+                    "file": "Holy_handgranade_chain_supp.stl",
+                    "md5": "fc12c61061a3d655b582832580f64a1c"
+                },
+                "bitz": {
+                    "face": 1491
+                }
+            },
+            "Pelt": {
+                "file": "Pelt.stl",
+                "designer": "GRAYGAWR",
+                "md5": "2cdf49f8118ccab14a267264dc2d449f",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery-set-2"
+                ],
+                "bitz": {
+                    "vertex": 4179
+                }
+            },
+            "Pelt Chain": {
+                "file": "Pelt_chain.stl",
+                "designer": "GRAYGAWR",
+                "md5": "e28c8a79bc3398705bf55e39ba50a8db",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery-set-2"
+                ],
+                "support": {
+                    "file": "Pelt_chain_supp.stl",
+                    "md5": "e343bc1e9b4caad4a5ad28a616374432"
+                },
+                "bitz": {
+                    "face": 11182
+                }
+            },
+            "Reliquary Cube": {
+                "file": "Reliquary_Cube.stl",
+                "designer": "GRAYGAWR",
+                "md5": "187fb8659f2c8d4af6cd241f610d5d52",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery-set-2"
+                ],
+                "bitz": {
+                    "vertex": 674
+                }
+            },
+            "Reliquary Cube Chain": {
+                "file": "Reliquary_Cube_chainReliquary_Cube_chain.stl",
+                "designer": "GRAYGAWR",
+                "md5": "17f84eac2ce1d2300e3a532044295539",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery-set-2"
+                ],
+                "support": {
+                    "file": "Reliquary_Cube_chain_supp.stl",
+                    "md5": "261d94287c4697a84938e7eeceea8609"
+                },
+                "bitz": {
+                    "face": 2904
+                }
+            },
+            "Reliquary Cubes": {
+                "file": "Reliquary_Cubes.stl",
+                "designer": "GRAYGAWR",
+                "md5": "e375b22f63dc0faa3a3f668cf2d68546",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery-set-2"
+                ],
+                "bitz": {
+                    "face": 1863
+                }
+            },
+            "Reliquary Cubes Chain": {
+                "file": "Reliquary_Cubes_chain.stl",
+                "designer": "GRAYGAWR",
+                "md5": "997569eed78859a9ae217825f02afe1c",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery-set-2"
+                ],
+                "support": {
+                    "file": "Reliquary_Cubes_chain_supp.stl",
+                    "md5": "1d736292ca914c0f4d92ee7da827b099"
+                },
+                "bitz": {
+                    "face": 3116
+                }
+            },
+            "Reliquary Cube Chain (no sup)": {
+                "file": "Reliquary_Cube_chain.stl",
+                "designer": "GRAYGAWR",
+                "md5": "ca8362986acecf622cb570995c90fc9a",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery-set-2"
+                ],
+                "bitz": {
+                    "face": 2956
+                }
+            },
+            "Reliquary Hand 01": {
+                "file": "Reliquary_hand_01.stl",
+                "designer": "GRAYGAWR",
+                "md5": "5a1a13b513c5244d0daa428405c6b4a2",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery-set-2"
+                ],
+                "bitz": {
+                    "vertex": 827
+                }
+            },
+            "Reliquary Hand 01 Chain": {
+                "file": "Reliquary_hand_01_chain.stl",
+                "designer": "GRAYGAWR",
+                "md5": "20ed55dc55d5c7eb2eb9027b98754882",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery-set-2"
+                ],
+                "support": {
+                    "file": "Reliquary_hand_01_chain_supp.stl",
+                    "md5": "870fc394b178736c4e8153f69c45e767"
+                },
+                "bitz": {
+                    "face": 7613
+                }
+            },
+            "Reliquary Hand 02": {
+                "file": "Reliquary_hand_02.stl",
+                "designer": "GRAYGAWR",
+                "md5": "7d4a70492b9f8cca73030d8789607ad6",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery-set-2"
+                ],
+                "bitz": {
+                    "vertex": 1740
+                }
+            },
+            "Reliquary Hand 02 Chain": {
+                "file": "Reliquary_hand_02_chain.stl",
+                "designer": "GRAYGAWR",
+                "md5": "f9e5b9fbf5b1eb82a448d3134f6c88d3",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery-set-2"
+                ],
+                "support": {
+                    "file": "Reliquary_hand_02_chain_supp.stl",
+                    "md5": "1958afdb81ee716759a764db7f09700e"
+                },
+                "bitz": {
+                    "face": 7384
+                }
+            },
+            "Reliquary Hand 03": {
+                "file": "Reliquary_hand_03.stl",
+                "designer": "GRAYGAWR",
+                "md5": "9b3e2ae3b126d59163ca3daca4d737ac",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery-set-2"
+                ],
+                "bitz": {
+                    "face": 5661
+                }
+            },
+            "Reliquary Hand 03 Chain": {
+                "file": "Reliquary_hand_03_chain.stl",
+                "designer": "GRAYGAWR",
+                "md5": "855b19847125b5f5c8d1562691f330fc",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery-set-2"
+                ],
+                "support": {
+                    "file": "Reliquary_hand_03_chain_supp.stl",
+                    "md5": "53c64d8f8c614e36a61d799ef0d52445"
+                },
+                "bitz": {
+                    "face": 2889
+                }
+            },
+            "Reliquary Sock": {
+                "file": "Reliquary_sock.stl",
+                "designer": "GRAYGAWR",
+                "md5": "b2cf434884e30cfb1f180b1333d82ade",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery-set-2"
+                ],
+                "bitz": {
+                    "vertex": 125
+                }
+            },
+            "Reliquary Sock Chain": {
+                "file": "Reliquary_sock_chain.stl",
+                "designer": "GRAYGAWR",
+                "md5": "b0d48789e6d697e5695936c49dd2286b",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery-set-2"
+                ],
+                "support": {
+                    "file": "Reliquary_sock_chain_supp.stl",
+                    "md5": "fe3d14be8ad4aa087538cbfda2bf086f"
+                },
+                "bitz": {
+                    "face": 845
+                }
+            },
+            "Reliquary Statue": {
+                "file": "Reliquary_Statue.stl",
+                "designer": "GRAYGAWR",
+                "md5": "5b927ca28a45749388ab789f90c4edbd",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery-set-2"
+                ],
+                "bitz": {
+                    "vertex": 2798
+                }
+            },
+            "Reliquary Statue Chain": {
+                "file": "Reliquary_Statue_chain.stl",
+                "designer": "GRAYGAWR",
+                "md5": "b7cd9880085c557ad76c7df21efbf9ff",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery-set-2"
+                ],
+                "support": {
+                    "file": "Reliquary_Statue_chain_supp.stl",
+                    "md5": "716935a88d664c025fd19e9a2dcb4a16"
+                },
+                "bitz": {
+                    "face": 3390
+                }
+            },
+            "Rune 01": {
+                "file": "Rune_01.stl",
+                "designer": "GRAYGAWR",
+                "md5": "d9b8bf364859d311604fda0eab133b33",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery-set-2"
+                ],
+                "bitz": {
+                    "face": 838
+                }
+            },
+            "Rune 01 Chain": {
+                "file": "Rune_01_chain.stl",
+                "designer": "GRAYGAWR",
+                "md5": "87b0e42af3387a2554ef42a20f09dec3",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery-set-2"
+                ],
+                "support": {
+                    "file": "Rune_01_chain_supp.stl",
+                    "md5": "c2e8fd909aef5eb4dfd8f833c4bff4cb"
+                },
+                "bitz": {
+                    "face": 5703
+                }
+            },
+            "Rune 02": {
+                "file": "Rune_02.stl",
+                "designer": "GRAYGAWR",
+                "md5": "ca7ff140bc14d7ba6088d16d19305a63",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery-set-2"
+                ],
+                "bitz": {
+                    "face": 1959
+                }
+            },
+            "Rune 02 Chain": {
+                "file": "Rune_02_chain.stl",
+                "designer": "GRAYGAWR",
+                "md5": "afc172c9bdfaaa8040c5d5dec9fb6cd9",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery-set-2"
+                ],
+                "support": {
+                    "file": "Rune_02_chain_supp.stl",
+                    "md5": "1883ca22fd7599c8a3923c2ce4358c92"
+                },
+                "bitz": {
+                    "face": 793
+                }
+            },
+            "Rune Stone 01": {
+                "file": "Rune_Stone_01.stl",
+                "designer": "GRAYGAWR",
+                "md5": "0b665f699df841d28e32ad3d909c63d9",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery-set-2"
+                ],
+                "bitz": {
+                    "vertex": 1140
+                }
+            },
+            "Rune Stone 01 Chain": {
+                "file": "Rune_Stone_01_chain.stl",
+                "designer": "GRAYGAWR",
+                "md5": "1a3e9630f3a7bb80694604a8043631e2",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery-set-2"
+                ],
+                "support": {
+                    "file": "Rune_Stone_01_chain_supp.stl",
+                    "md5": "9740d1a5aba3781ed2ae4d36cf6fed8f"
+                },
+                "bitz": {
+                    "face": 398
+                }
+            },
+            "Rune Stone 02": {
+                "file": "Rune_Stone_02.stl",
+                "designer": "GRAYGAWR",
+                "md5": "ffab9634aefcb70e6b43c9024da76e3a",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery-set-2"
+                ],
+                "bitz": {
+                    "vertex": 1541
+                }
+            },
+            "Rune Stone 02 Chain": {
+                "file": "Rune_Stone_02_chain.stl",
+                "designer": "GRAYGAWR",
+                "md5": "e76b22862cd2bc48b93f3f4dc78a76ed",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery-set-2"
+                ],
+                "support": {
+                    "file": "Rune_Stone_02_chain_supp.stl",
+                    "md5": "494b5033a74a7f7e971b7a1571f7783f"
+                },
+                "bitz": {
+                    "face": 862
+                }
+            },
+            "Shark Tooth 01": {
+                "file": "Shark_tooth_01.stl",
+                "designer": "GRAYGAWR",
+                "md5": "8c751fba01faa9557d8719a3ac418eee",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery-set-2"
+                ],
+                "bitz": {
+                    "vertex": 94
+                }
+            },
+            "Shark Tooth 01 Chain": {
+                "file": "Shark_tooth_01_chain.stl",
+                "designer": "GRAYGAWR",
+                "md5": "b27f454135158052f0e1afbcd635b73a",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery-set-2"
+                ],
+                "support": {
+                    "file": "Shark_tooth_01_chain_supp.stl",
+                    "md5": "a71dae6e1c7b054ca1b4f07e3b39fed8"
+                },
+                "bitz": {
+                    "face": 3259
+                }
+            },
+            "Shark Tooth 02": {
+                "file": "Shark_tooth_02.stl",
+                "designer": "GRAYGAWR",
+                "md5": "15d6f51990cd4e856693a29315f0adcd",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery-set-2"
+                ],
+                "bitz": {
+                    "vertex": 284
+                }
+            },
+            "Shark Tooth 02 Chain": {
+                "file": "Shark_tooth_02_chain.stl",
+                "designer": "GRAYGAWR",
+                "md5": "2e6a7366344854762df71e2e291bdc9a",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery-set-2"
+                ],
+                "support": {
+                    "file": "Shark_tooth_02_chain_supp.stl",
+                    "md5": "dff03ac525487ac848631660fd63b20b"
+                },
+                "bitz": {
+                    "face": 518
+                }
+            },
+            "Shark Tooth 03": {
+                "file": "Shark_tooth_03.stl",
+                "designer": "GRAYGAWR",
+                "md5": "b0c421ba64242bf254fcfd85c6b134b6",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery-set-2"
+                ],
+                "bitz": {
+                    "vertex": 1587
+                }
+            },
+            "Shark Tooth 03 Chain": {
+                "file": "Shark_tooth_03_chain.stl",
+                "designer": "GRAYGAWR",
+                "md5": "16fed0ca1e7d6f474d46ae7ef02e21a0",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery-set-2"
+                ],
+                "support": {
+                    "file": "Shark_tooth_03_chain_supp.stl",
+                    "md5": "8de8df99ea0d36153c1c31e97d5e446e"
+                },
+                "bitz": {
+                    "face": 3534
+                }
+            },
+            "Shovel": {
+                "file": "Shovel.stl",
+                "designer": "GRAYGAWR",
+                "md5": "3bee087db3a054314fc7689b21720aee",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery-set-2"
+                ],
+                "bitz": {
+                    "vertex": 3029
+                }
+            },
+            "Shovel Chain": {
+                "file": "Shovel_chain.stl",
+                "designer": "GRAYGAWR",
+                "md5": "3b096a7f4c66dabde6348ce9508a8852",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery-set-2"
+                ],
+                "support": {
+                    "file": "Shovel_chain_supp.stl",
+                    "md5": "af2bfbb1780f96818238dc49965a96f7"
+                },
+                "bitz": {
+                    "face": 3836
+                }
+            },
+            "Skull Wreath": {
+                "file": "Skull_wreath.stl",
+                "designer": "GRAYGAWR",
+                "md5": "cd5034f5d94fcc3126d6aedfcc705175",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery-set-2"
+                ],
+                "bitz": {
+                    "face": 1601
+                }
+            },
+            "Skull Wreath Chain": {
+                "file": "Skull_wreath_chain.stl",
+                "designer": "GRAYGAWR",
+                "md5": "791f5a9c53a6a44077b9d7e900add4f1",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery-set-2"
+                ],
+                "support": {
+                    "file": "Skull_wreath_chain_supp.stl",
+                    "md5": "b45d043963a052d0cf4e60ed1d4bb664"
+                },
+                "bitz": {
+                    "face": 7368
+                }
+            },
+            "Sword": {
+                "file": "Sword.stl",
+                "designer": "GRAYGAWR",
+                "md5": "29fe2a55c60aeaa5a3bdb480a3b19aa3",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery-set-2"
+                ],
+                "bitz": {
+                    "face": 1496
+                }
+            },
+            "Sword Chain": {
+                "file": "Sword_chain.stl",
+                "designer": "GRAYGAWR",
+                "md5": "a3d009753e95797ecb50e58deb1997bc",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery-set-2"
+                ],
+                "support": {
+                    "file": "Sword_chain_supp.stl",
+                    "md5": "1c5de0515604f76b0d641d7647ad515e"
+                },
+                "bitz": {
+                    "face": 2681
+                }
+            },
+            "Swords": {
+                "file": "Swords.stl",
+                "designer": "GRAYGAWR",
+                "md5": "6d35da18597cef527efc2e012070cdbd",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery-set-2"
+                ],
+                "bitz": {
+                    "face": 1390
+                }
+            },
+            "Swords Chain": {
+                "file": "Swords_chain.stl",
+                "designer": "GRAYGAWR",
+                "md5": "fca903ea9e6bf03a97b76cbae42754fc",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery-set-2"
+                ],
+                "support": {
+                    "file": "Swords_chain_supp.stl",
+                    "md5": "524bf48e88ef749d734c57ac86d6c47e"
+                },
+                "bitz": {
+                    "face": 2920
+                }
+            },
+            "Temple Cross 01": {
+                "file": "Temple_cross_01.stl",
+                "designer": "GRAYGAWR",
+                "md5": "ce47354647eeea0ae1f1e95beac93b5a",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery-set-2"
+                ],
+                "bitz": {
+                    "vertex": 1110
+                }
+            },
+            "Temple Cross 01 Chain": {
+                "file": "Temple_cross_01_chain.stl",
+                "designer": "GRAYGAWR",
+                "md5": "3c550b81b2727cf2ac1680195e6fa4ae",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery-set-2"
+                ],
+                "support": {
+                    "file": "Temple_cross_01_chain_supp.stl",
+                    "md5": "4e4bef64f5b68a80b40cd0f6e9bec7e8"
+                },
+                "bitz": {
+                    "face": 1060
+                }
+            },
+            "Temple Cross 02": {
+                "file": "Temple_cross_02.stl",
+                "designer": "GRAYGAWR",
+                "md5": "fe5dd9a86a132d0fa8469718373baca8",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery-set-2"
+                ],
+                "bitz": {
+                    "vertex": 647
+                }
+            },
+            "Temple Cross 02 Chain": {
+                "file": "Temple_cross_02_chain.stl",
+                "designer": "GRAYGAWR",
+                "md5": "f4a954ab5ec70edb8afd1f40cba38ef3",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery-set-2"
+                ],
+                "support": {
+                    "file": "Temple_cross_02_chain_supp.stl",
+                    "md5": "7816d906c0b5d377b70ff0df91060f2e"
+                },
+                "bitz": {
+                    "face": 886
+                }
+            },
+            "Temple Cross 03": {
+                "file": "Temple_cross_03.stl",
+                "designer": "GRAYGAWR",
+                "md5": "9dd6636e377812eead5d4494fe2fd8a6",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery-set-2"
+                ],
+                "bitz": {
+                    "vertex": 1994
+                }
+            },
+            "Temple Cross 03 Chain": {
+                "file": "Temple_cross_03_chain.stl",
+                "designer": "GRAYGAWR",
+                "md5": "98d75e54afb0ba893de2fbe35f7b064d",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery-set-2"
+                ],
+                "support": {
+                    "file": "Temple_cross_03_chain_supp.stl",
+                    "md5": "ce897c3d4682fc5fd5234e4f3042d9fd"
+                },
+                "bitz": {
+                    "face": 1312
+                }
+            },
+            "Temple Cross 04": {
+                "file": "Temple_cross_04.stl",
+                "designer": "GRAYGAWR",
+                "md5": "3e3d693d1d5829aa6b66028f1f2417c6",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery-set-2"
+                ],
+                "bitz": {
+                    "vertex": 1347
+                }
+            },
+            "Temple Cross 04 Chain": {
+                "file": "Temple_cross_04_chain.stl",
+                "designer": "GRAYGAWR",
+                "md5": "31e3d524f4196ae9d59ddf57e982e36b",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery-set-2"
+                ],
+                "support": {
+                    "file": "Temple_cross_04_chain_supp.stl",
+                    "md5": "d48c0768e233723dcf3ba67e682c2508"
+                },
+                "bitz": {
+                    "face": 1656
+                }
+            },
+            "Test Tube": {
+                "file": "Test_tube.stl",
+                "designer": "GRAYGAWR",
+                "md5": "adcb4629e9b4909c2f42e68baf1573ed",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery-set-2"
+                ],
+                "bitz": {
+                    "vertex": 965
+                }
+            },
+            "Test Tube Chain": {
+                "file": "Test_tube_chain.stl",
+                "designer": "GRAYGAWR",
+                "md5": "1209acd62f8ab3a238f005500b874a11",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery-set-2"
+                ],
+                "support": {
+                    "file": "Test_tube_chain_supp.stl",
+                    "md5": "c21675bf1e4367c64ad3f0a57eefe3d2"
+                },
+                "bitz": {
+                    "face": 1324
+                }
+            },
+            "Test Tubes": {
+                "file": "Test_tubes.stl",
+                "designer": "GRAYGAWR",
+                "md5": "edceb1f8c624ee4f652f4d88b76d43d0",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery-set-2"
+                ],
+                "bitz": {
+                    "face": 6417
+                }
+            },
+            "Test Tubes Chain": {
+                "file": "Test_tubes_chain.stl",
+                "designer": "GRAYGAWR",
+                "md5": "35f4c09d2c6521478391dd644d09f372",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery-set-2"
+                ],
+                "support": {
+                    "file": "Test_tubes_chain_supp.stl",
+                    "md5": "74c7d3652ca1be08fb422e9193483cf9"
+                },
+                "bitz": {
+                    "face": 3728
+                }
+            },
+            "Thunderhammer 01": {
+                "file": "Thunderhammer_01.stl",
+                "designer": "GRAYGAWR",
+                "md5": "82e5a2ade6bcc5777b2973c8b6c0ff96",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery-set-2"
+                ],
+                "bitz": {
+                    "vertex": 4751
+                }
+            },
+            "Thunderhammer 01 Chain": {
+                "file": "Thunderhammer_01_chain.stl",
+                "designer": "GRAYGAWR",
+                "md5": "c0ef9f5cbcf56d9baa3d417d92470555",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery-set-2"
+                ],
+                "support": {
+                    "file": "Thunderhammer_01_chain_supp.stl",
+                    "md5": "496f16cb7b85acc50f2467e38d957fbe"
+                },
+                "bitz": {
+                    "face": 4370
+                }
+            },
+            "Thunderhammer 02": {
+                "file": "Thunderhammer_02.stl",
+                "designer": "GRAYGAWR",
+                "md5": "41d37f717414ba544710b897df67a804",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery-set-2"
+                ],
+                "bitz": {
+                    "vertex": 5963
+                }
+            },
+            "Thunderhammer 02 Chain": {
+                "file": "Thunderhammer_02_chain.stl",
+                "designer": "GRAYGAWR",
+                "md5": "8d4d5775fb22ed27c1a434fdc98b157d",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery-set-2"
+                ],
+                "support": {
+                    "file": "Thunderhammer_02_chain_supp.stl",
+                    "md5": "18e66b45baeaeea6017152add24b26b6"
+                },
+                "bitz": {
+                    "face": 5498
+                }
+            },
+            "Thurible": {
+                "file": "Thurible.stl",
+                "designer": "GRAYGAWR",
+                "md5": "eeefad8393b610aa6c6e5acc3978016d",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery-set-2"
+                ],
+                "bitz": {
+                    "face": 8901
+                }
+            },
+            "Thurible Chain": {
+                "file": "Thurible_chain.stl",
+                "designer": "GRAYGAWR",
+                "md5": "b6d5b36feeea49b469174b7ec301cb3e",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery-set-2"
+                ],
+                "support": {
+                    "file": "Thurible_chain_supp.stl",
+                    "md5": "6f616ad9be1f97b7f311e807ab170e30"
+                },
+                "bitz": {
+                    "face": 10895
+                }
+            },
+            "Thurible Smoke 01": {
+                "file": "Thurible_smoke_01.stl",
+                "designer": "GRAYGAWR",
+                "md5": "a72f22e5ef24c33aa206b6a4e3e803ed",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery-set-2"
+                ],
+                "bitz": {
+                    "vertex": 6789
+                }
+            },
+            "Thurible Smoke 01 Chain": {
+                "file": "Thurible_smoke_01_chain.stl",
+                "designer": "GRAYGAWR",
+                "md5": "a3279cbee3d93db5609d4b4969745c38",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery-set-2"
+                ],
+                "support": {
+                    "file": "Thurible_smoke_01_chain _supp.stl",
+                    "md5": "64a78574267f41be026cf84cb5412354"
+                },
+                "bitz": {
+                    "face": 29526
+                }
+            },
+            "Thurible Smoke 02": {
+                "file": "Thurible_smoke_02.stl",
+                "designer": "GRAYGAWR",
+                "md5": "0a9eb5d86e4967f3ec76c4a38a96dc31",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery-set-2"
+                ],
+                "bitz": {
+                    "vertex": 2067
+                }
+            },
+            "Thurible Smoke 02 Chain": {
+                "file": "Thurible_smoke_02_chain.stl",
+                "designer": "GRAYGAWR",
+                "md5": "895bd5bd7644aaff25c37b18f280537c",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery-set-2"
+                ],
+                "support": {
+                    "file": "Thurible_smoke_02_chain_supp.stl",
+                    "md5": "1e543bcee1174f65d4d2dba49c856a0b"
+                },
+                "bitz": {
+                    "face": 31574
+                }
+            },
+            "Wolf Fang 01": {
+                "file": "Wolf_fang_01.stl",
+                "designer": "GRAYGAWR",
+                "md5": "820da19d9ad99214c7bb90b8010852c8",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery-set-2"
+                ],
+                "bitz": {
+                    "vertex": 1400
+                }
+            },
+            "Wolf Fang 01 Chain": {
+                "file": "Wolf_fang_01_chain.stl",
+                "designer": "GRAYGAWR",
+                "md5": "5132b8e2725c2bb7cda8a360ede1df1d",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery-set-2"
+                ],
+                "support": {
+                    "file": "Wolf_fang_01_chain_supp.stl",
+                    "md5": "4dfc70f490a2cad85f03dac1831c77b6"
+                },
+                "bitz": {
+                    "face": 3125
+                }
+            },
+            "Wolf Fang 02": {
+                "file": "Wolf_fang_02.stl",
+                "designer": "GRAYGAWR",
+                "md5": "9b3791fe4c89eaebce59ff486abab3b7",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery-set-2"
+                ],
+                "bitz": {
+                    "face": 1878
+                }
+            },
+            "Wolf Fang 02 Chain": {
+                "file": "Wolf_fang_02_chain.stl",
+                "designer": "GRAYGAWR",
+                "md5": "810d03ff85e5b7f2c47bc9fd5438d9e4",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery-set-2"
+                ],
+                "support": {
+                    "file": "Wolf_fang_02_chain_supp.stl",
+                    "md5": "d27ddb45064c841730c7a937566586af"
+                },
+                "bitz": {
+                    "face": 3162
+                }
+            },
+            "Wolf Fang Duo": {
+                "file": "Wolf_fang_duo.stl",
+                "designer": "GRAYGAWR",
+                "md5": "dc22e1b7b34f5c8a0048a7fa9c39b5f1",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery-set-2"
+                ],
+                "bitz": {
+                    "facet": 598
+                }
+            },
+            "Wolf Fang Duo Chain": {
+                "file": "Wolf_fang_duo_chain.stl",
+                "designer": "GRAYGAWR",
+                "md5": "4e7a5bcf7fd915091ff0d8b05229928e",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/space-jewellery-set-2"
+                ],
+                "support": {
+                    "file": "Wolf_fang_duo_chain_supp.stl",
+                    "md5": "edb253bd1450ff7948a2d4acf1bc8603"
+                },
+                "bitz": {
+                    "face": 7125
+                }
+            }
+        }
+    },
+    "Loin Cloth": {
+        "desc": {
+            "display": "Loin Cloth",
+            "path": "Wargame Humanoid/bitz/Loin Cloth/",
+            "bitz": true
+        },
+        "stl": {
+            "L": {
+                "file": "Loin Cloth_L.stl",
+                "designer": "GRAYGAWR",
+                "md5": "6a15022e5f0525e72623baba16eca4ce",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/loin-cloths-for-all-gray-scale-legs"
+                ],
+                "bitz": {
+                    "vertex": 14435
+                }
+            },
+            "M": {
+                "file": "Loin Cloth_M.stl",
+                "designer": "GRAYGAWR",
+                "md5": "9691f182224330bf35923b908ce3dbfc",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/loin-cloths-for-all-gray-scale-legs"
+                ],
+                "bitz": {
+                    "face": 76259
+                }
+            },
+            "S": {
+                "file": "Loin Cloth_S.stl",
+                "designer": "GRAYGAWR",
+                "md5": "057e5a5261168bd40d105c877205bc22",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/loin-cloths-for-all-gray-scale-legs"
+                ],
+                "bitz": {
+                    "face": 31031
+                }
+            }
+        }
+    },
+    "Space Warrior Rider": {
+        "desc": {
+            "display": "Space Warrior Rider",
+            "path": "Wargame Humanoid/bitz/Space Warrior Rider/",
+            "bitz": true
+        },
+        "stl": {
+            "Bolt Rifle Packed": {
+                "file": "Bolt_Rifle_packed.stl",
+                "designer": "GRAYGAWR",
+                "md5": "ab290e81e241caa156e3f95120ecafe6",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/prime-roadkill-beef-builder"
+                ],
+                "bitz": {
+                    "face": 92006
+                }
+            },
+            "Chainsword Holstered": {
+                "file": "Chainsword_holstered.stl",
+                "designer": "GRAYGAWR",
+                "md5": "a8a10732ef6d9f2adbe1d23bb8ffc4d6",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/prime-roadkill-beef-builder"
+                ],
+                "bitz": {
+                    "face": 326571
+                }
+            },
+            "Chainsword Holster Empty": {
+                "file": "Chainsword_holster_empty.stl",
+                "designer": "GRAYGAWR",
+                "md5": "ace440d4f28cf677d4a4ff51dbedd5f5",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/prime-roadkill-beef-builder"
+                ],
+                "bitz": {
+                    "face": 742
+                }
+            },
+            "Handle Bar Left": {
+                "file": "Handle_barL.stl",
+                "designer": "GRAYGAWR",
+                "md5": "54ebb14e76a610e9c00316613fe0ce5a",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/prime-roadkill-beef-builder"
+                ],
+                "bitz": {
+                    "facet": 777
+                }
+            },
+            "Outrider Shoulder L": {
+                "file": "Outrider_L.stl",
+                "designer": "GRAYGAWR",
+                "md5": "65e1478b48b6231c6eb11e2e718edc67",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/prime-roadkill-beef-builder"
+                ],
+                "bitz": {
+                    "face": 51682
+                }
+            },
+            "Outrider Shoulder R": {
+                "file": "Outrider_R.stl",
+                "designer": "GRAYGAWR",
+                "md5": "d171b8ec6503e99561f69f7def1a1ccd",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/prime-roadkill-beef-builder"
+                ],
+                "bitz": {
+                    "face": 56994
+                }
+            },
+            "Pack": {
+                "file": "Pack_scaled.stl",
+                "designer": "GRAYGAWR",
+                "md5": "0b41a251ca5c424f1d7200329e7beacb",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/prime-roadkill-beef-builder"
+                ],
+                "bitz": {
+                    "face": 223093
+                }
+            },
+            "Pistol Holster Empty": {
+                "file": "Pistol_holster_empty_scaled.stl",
+                "designer": "GRAYGAWR",
+                "md5": "44501743fda3c34a5bfd7a88826aa385",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/prime-roadkill-beef-builder"
+                ],
+                "bitz": {
+                    "face": 743
+                }
+            },
+            "Pistol Holster": {
+                "file": "Pistol_holster_scaled.stl",
+                "designer": "GRAYGAWR",
+                "md5": "2f42d5fd2e304748dfd4884a541d0ed4",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/prime-roadkill-beef-builder"
+                ],
+                "bitz": {
+                    "face": 75939
+                }
+            },
+            "Sidebag": {
+                "file": "Sidebag.stl",
+                "designer": "cornivius",
+                "md5": "ebe970bde0cf0a2bf2377db15ea63681",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/prime-roadkill-beef-builder"
+                ],
+                "bitz": {
+                    "face": 31652
+                }
+            }
+        }
+    },
+    "Space Warrior Aggressor": {
+        "desc": {
+            "display": "Space Warrior Aggressor",
+            "path": "Wargame Humanoid/bitz/Space Warrior Aggressor/",
+            "bitz": true
+        },
+        "stl": {
+            "Handle": {
+                "file": "HANDLE_repaired.stl",
+                "designer": "Mazer",
+                "md5": "43fa175bc9a1bbfe8222b3bfd21bea85",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/imperial-legate-walking-tanks"
+                ],
+                "bitz": {
+                    "vertex": 97
+                }
+            },
+            "Magnet Sized": {
+                "file": "Peg_To_Use_Instead_Of_Magnets.stl",
+                "designer": "Mazer",
+                "md5": "7645af05dfd94b76577f6c317a27f4fc",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/imperial-legate-walking-tanks"
+                ],
+                "bitz": {
+                    "facet": 8
+                }
+            },
+            "Flamer Left": {
+                "file": "FLAMER_LEFT_repaired.stl",
+                "designer": "Mazer",
+                "md5": "474511fbe8b2219f300f7b5e21cff355",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/imperial-legate-walking-tanks"
+                ],
+                "bitz": {
+                    "facet": 4
+                }
+            },
+            "Flamer Right": {
+                "file": "FLAMER_RIGHT_repaired.stl",
+                "designer": "Mazer",
+                "md5": "0001f8c9b7dd2542c4d1fe67a646b41e",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/imperial-legate-walking-tanks"
+                ],
+                "bitz": {
+                    "facet": 4
+                }
+            },
+            "Melta Left": {
+                "file": "MELTA_LEFT_repaired.stl",
+                "designer": "Mazer",
+                "md5": "5621b2bd25eae539c4d1b65056c95c0e",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/imperial-legate-walking-tanks"
+                ],
+                "bitz": {
+                    "facet": 4
+                }
+            },
+            "Melta Right": {
+                "file": "MELTA_RIGHT_repaired.stl",
+                "designer": "Mazer",
+                "md5": "21163ff13d0e56a9e9742387d3d7b078",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/imperial-legate-walking-tanks"
+                ],
+                "bitz": {
+                    "facet": 5
+                }
+            }
+        }
+    },
+    "Sekhmet Terminator": {
+        "desc": {
+            "display": "Sekhmet Terminator",
+            "path": "Wargame Humanoid/bitz/Sekhmet Terminator/",
+            "bitz": true
+        },
+        "stl": {
+            "Shoulder Circle Scarab": {
+                "file": "sehkmet-terminator-shoulder-circle-bug.stl",
+                "designer": "LordChammon",
+                "md5": "e3e6efb32ccf3f97425b83a11885e9c6",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/magnusons-sexmet-cabalistic-crew-conversion-kit"
+                ],
+                "support": {
+                    "file": "sehkmet-terminator-shoulder-circle-scarab-supported.stl",
+                    "md5": "5f3d5212c804e6da8de36042ac5254bd"
+                },
+                "bitz": {
+                    "facet": 13521
+                }
+            },
+            "Shoulder Circle Eye": {
+                "file": "sehkmet-terminator-shoulder-circle-eye.stl",
+                "designer": "LordChammon",
+                "md5": "5e844cdba8258144029105173db5a60c",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/magnusons-sexmet-cabalistic-crew-conversion-kit"
+                ],
+                "support": {
+                    "file": "sehkmet-terminator-shoulder-circle-eye-supported.stl",
+                    "md5": "25ccb4850f8d93f3b2545349a211beac"
+                },
+                "bitz": {
+                    "facet": 12307
+                }
+            },
+            "Shoulder Circle Legion": {
+                "file": "sehkmet-terminator-shoulder-circle-legion.stl",
+                "designer": "LordChammon",
+                "md5": "63ed4f82fa545051bd27aa56ab816e4f",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/magnusons-sexmet-cabalistic-crew-conversion-kit"
+                ],
+                "support": {
+                    "file": "sehkmet-terminator-shoulder-circle-legion-supported.stl",
+                    "md5": "f051181543dde50475e65c8fb13aa27e"
+                },
+                "bitz": {
+                    "facet": 13517
+                }
+            },
+            "Shoulder Circle": {
+                "file": "sehkmet-terminator-shoulder-circle.stl",
+                "designer": "LordChammon",
+                "md5": "b145cd4d670bab9eff4e9ef1d2ee301d",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/magnusons-sexmet-cabalistic-crew-conversion-kit"
+                ],
+                "support": {
+                    "file": "sehkmet-terminator-shoulder-circle-supported.stl",
+                    "md5": "e7770393bfdbc945605e2b0cf62e31c7"
+                },
+                "bitz": {
+                    "facet": 11289
+                }
+            },
+            "Shoulder Flames Eye": {
+                "file": "sehkmet-terminator-shoulder-flames-eye.stl",
+                "designer": "LordChammon",
+                "md5": "1c5380901da79e75430dab7c4fba1ffc",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/magnusons-sexmet-cabalistic-crew-conversion-kit"
+                ],
+                "support": {
+                    "file": "sehkmet-terminator-shoulder-flames-eye-supported.stl",
+                    "md5": "961bc4d9033f938b5596adb50b6086fe"
+                },
+                "bitz": {
+                    "facet": 15735
+                }
+            },
+            "Shoulder Flames Legion": {
+                "file": "sehkmet-terminator-shoulder-flames-legion.stl",
+                "designer": "LordChammon",
+                "md5": "3b579852decc2dc81ca0e6c1bb12a672",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/magnusons-sexmet-cabalistic-crew-conversion-kit"
+                ],
+                "support": {
+                    "file": "sehkmet-terminator-shoulder-flames-legion-supported.stl",
+                    "md5": "df22c0c97b09d9d5c6c26114cc167589"
+                },
+                "bitz": {
+                    "facet": 16945
+                }
+            },
+            "Shoulder Flames Scarab": {
+                "file": "sehkmet-terminator-shoulder-flames-scarab.stl",
+                "designer": "LordChammon",
+                "md5": "7ff2053021f6217662d00f8d229f9b03",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/magnusons-sexmet-cabalistic-crew-conversion-kit"
+                ],
+                "support": {
+                    "file": "sehkmet-terminator-shoulder-flames-scarab-supported.stl",
+                    "md5": "07cbaf1690777601dbe228887379f084"
+                },
+                "bitz": {
+                    "facet": 16949
+                }
+            },
+            "Shoulder Sorcerer Eye": {
+                "file": "sehkmet-terminator-shoulder-sorcerer-eye.stl",
+                "designer": "LordChammon",
+                "md5": "1e6b12535cdb20f160cf37144a1cef06",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/magnusons-sexmet-cabalistic-crew-conversion-kit"
+                ],
+                "support": {
+                    "file": "sehkmet-terminator-shoulder-sorcerer-eye-supported.stl",
+                    "md5": "e97fa9b07d7b60f57a48c3e0ac969dde"
+                },
+                "bitz": {
+                    "facet": 1875
+                }
+            },
+            "Shoulder Flames": {
+                "file": "sehkmet-terminator-shoulder-flames.stl",
+                "designer": "LordChammon",
+                "md5": "2eeebcf303c79de9bebd5072fe44af03",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/magnusons-sexmet-cabalistic-crew-conversion-kit"
+                ],
+                "support": {
+                    "file": "sehkmet-terminator-shoulder-flames-supported.stl",
+                    "md5": "73e9024bb1a91f1183b0313fdd06f44a"
+                },
+                "bitz": {
+                    "facet": 14717
+                }
+            },
+            "Shoulder Sorcerer Legion": {
+                "file": "sehkmet-terminator-shoulder-sorcerer-legion.stl",
+                "designer": "LordChammon",
+                "md5": "1077aec8afa41575405b518f1f281a58",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/magnusons-sexmet-cabalistic-crew-conversion-kit"
+                ],
+                "support": {
+                    "file": "sehkmet-terminator-shoulder-sorcerer-legion-supported.stl",
+                    "md5": "16510824d409c7c8c27eee010700e4f0"
+                },
+                "bitz": {
+                    "facet": 1318
+                }
+            },
+            "Shoulder Sorcerer Scarab": {
+                "file": "sehkmet-terminator-shoulder-sorcerer-scarab.stl",
+                "designer": "LordChammon",
+                "md5": "c3302e57086e606d4ad171fcb3cff010",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/magnusons-sexmet-cabalistic-crew-conversion-kit"
+                ],
+                "support": {
+                    "file": "sehkmet-terminator-shoulder-sorcerer-scarab-supported.stl",
+                    "md5": "14d2014252db6fd7b15b1133522973f6"
+                },
+                "bitz": {
+                    "facet": 1318
+                }
+            },
+            "Hellfyre Adapter": {
+                "file": "sehkmet-terminator-hellfyre-adapter.stl",
+                "designer": "LordChammon",
+                "md5": "946b446324caefc751405ea9e7537b1b",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/magnusons-sexmet-cabalistic-crew-conversion-kit"
+                ],
+                "support": {
+                    "file": "sehkmet-terminator-hellfyre-adapter-supported.stl",
+                    "md5": "5a0fb4cecae1469473e98cae095771bb"
+                },
+                "bitz": {
+                    "facet": 22
+                }
+            },
+            "Sorcerer Book": {
+                "file": "sehkmet-terminator-sorcerer-book.stl",
+                "designer": "LordChammon",
+                "md5": "468afe6c0676668166f7fc2ca8f5bcfc",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/magnusons-sexmet-cabalistic-crew-conversion-kit"
+                ],
+                "support": {
+                    "file": "sehkmet-terminator-sorcerer-book-supported.stl",
+                    "md5": "9fdd17c4e53848c4588139a62f6ba2d3"
+                },
+                "bitz": {
+                    "face": 3345
+                }
+            },
+            "Sorcerer Cape": {
+                "file": "sehkmet-terminator-sorcerer-cape.stl",
+                "designer": "LordChammon",
+                "md5": "1e9b764f0e6742d4727dec7c2c796f2d",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/magnusons-sexmet-cabalistic-crew-conversion-kit"
+                ],
+                "support": {
+                    "file": "sehkmet-terminator-sorcerer-cape-supported.stl",
+                    "md5": "0b0d78d5015be074802efa56d5309f27"
+                },
+                "bitz": {
+                    "face": 673
+                }
+            },
+            "Sorcerer Scrolls": {
+                "file": "sehkmet-terminator-sorcerer-scrolls.stl",
+                "designer": "LordChammon",
+                "md5": "2350ec48d4ab8f58e6ee708196619180",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/magnusons-sexmet-cabalistic-crew-conversion-kit"
+                ],
+                "support": {
+                    "file": "sehkmet-terminator-sorcerer-scrolls-supported.stl",
+                    "md5": "cbe49ac981b5aaf921a5c9fdec93fcdc"
+                },
+                "bitz": {
+                    "vertex": 2232
+                }
+            },
+            "Sorcerer Stole": {
+                "file": "sehkmet-terminator-sorcerer-stole.stl",
+                "designer": "LordChammon",
+                "md5": "9a166e3d0e87467eb53cb1bb9c4b3cd8",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/magnusons-sexmet-cabalistic-crew-conversion-kit"
+                ],
+                "support": {
+                    "file": "sehkmet-terminator-sorcerer-stole-supported.stl",
+                    "md5": "2c82189de916fe4c64ce33961400bc09"
+                },
+                "bitz": {
+                    "vertex": 3017
+                }
+            },
+            "Sorcerer Tabard Eye": {
+                "file": "sehkmet-terminator-sorcerer-tabard-eye.stl",
+                "designer": "LordChammon",
+                "md5": "e97b5ef5fbcb9ba14f9d0b757cc60132",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/magnusons-sexmet-cabalistic-crew-conversion-kit"
+                ],
+                "support": {
+                    "file": "sehkmet-terminator-sorcerer-tabard-eye-supported.stl",
+                    "md5": "198ecaa2ea4e7479876ca8eafc072cb7"
+                },
+                "bitz": {
+                    "face": 82857
+                }
+            },
+            "Sorcerer Tabard Legion": {
+                "file": "sehkmet-terminator-sorcerer-tabard-legion.stl",
+                "designer": "LordChammon",
+                "md5": "eebbb7839eeafb12e46d3e9dde80704d",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/magnusons-sexmet-cabalistic-crew-conversion-kit"
+                ],
+                "support": {
+                    "file": "sehkmet-terminator-sorcerer-tabard-legion-supported.stl",
+                    "md5": "1659c9432fd49166cb8a1f5759da290c"
+                },
+                "bitz": {
+                    "face": 82856
+                }
+            },
+            "Sorcerer Tabard Scarab": {
+                "file": "sehkmet-terminator-sorcerer-tabard-scarab.stl",
+                "designer": "LordChammon",
+                "md5": "0435fc9bde594781b9b93ca7989b8ad9",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/magnusons-sexmet-cabalistic-crew-conversion-kit"
+                ],
+                "support": {
+                    "file": "sehkmet-terminator-sorcerer-tabard-scarab-supported.stl",
+                    "md5": "0c6f2dba1f6e3f150fecba3d1ccd8c66"
+                },
+                "bitz": {
+                    "face": 82857
+                }
+            },
+            "Soulreaper Barrel": {
+                "file": "sehkmet-terminator-soulreaper-barrel.stl",
+                "designer": "LordChammon",
+                "md5": "e0f5eb9a0c10be232fb0aa901c95639a",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/magnusons-sexmet-cabalistic-crew-conversion-kit"
+                ],
+                "support": {
+                    "file": "sehkmet-terminator-soulreaper-barrel-supported.stl",
+                    "md5": "1aaf9829d7559c5494154695ef765f3e"
+                },
+                "bitz": {
+                    "facet": 1088
+                }
+            },
+            "Builder Abs": {
+                "file": "cataphractii-builder-abs.stl",
+                "designer": "LordChammon",
+                "md5": "8f9653d1d976810dae295905c7aeeed7",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/magnusons-sexmet-cabalistic-crew-conversion-kit"
+                ],
+                "support": {
+                    "file": "cataphractii-abs-supported.stl",
+                    "md5": "56f3036c41cd3909a4955fa40872e54f"
+                },
+                "bitz": {
+                    "facet": 8096
+                }
+            }
+        }
+    },
+    "Deathwing Terminator": {
+        "desc": {
+            "display": "Deathwing Terminator",
+            "path": "Wargame Humanoid/bitz/Deathwing Terminator/",
+            "bitz": true
+        },
+        "stl": {
+            "Shoulder Crux Pad": {
+                "file": "Crux Pad_L_with McAngry McCrux.stl",
+                "designer": "MrMcAngry",
+                "md5": "55124a6f379ceef03c24a7728fa5dabd",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/deathwing-terminator-builder"
+                ],
+                "support": {
+                    "file": "Crux Pad_L_with McAngry McCrux_supported.stl",
+                    "md5": "6669a868bd298604e31bfedc10321692"
+                },
+                "bitz": {
+                    "vertex": 15305
+                }
+            },
+            "Shoulder Pad": {
+                "file": "DW right pad.stl",
+                "designer": "MrMcAngry",
+                "md5": "44da4ad5c91efba3af8b3f99106217b3",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/deathwing-terminator-builder"
+                ],
+                "support": {
+                    "file": "DW right pad_supported.stl",
+                    "md5": "609da13fc5c366cb68bb248b14f63748"
+                },
+                "bitz": {
+                    "vertex": 19
+                }
+            },
+            "Magnet 3x3x1.7": {
+                "file": "Use 3x3x1.7 magnets.  This is a proxy that is slightly larger if you want to magnatize other stuff.  .stl",
+                "designer": "MrMcAngry",
+                "md5": "eec1e6b44e2af0a58150d41e1be628b1",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/deathwing-terminator-builder"
+                ],
+                "bitz": {
+                    "facet": 8
+                }
+            }
+        }
+    },
+    "Plague Marine": {
+        "desc": {
+            "display": "Plague Marine",
+            "path": "Wargame Humanoid/bitz/Plague Marine/",
+            "bitz": true
+        },
+        "stl": {
+            "Spitter - Motor R": {
+                "file": "Gift 1 Motor R.stl",
+                "designer": "Sumbu",
+                "md5": "05aa36a56d6c26ec389b2e6fae822933",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/tool/parts-of-a-disgusting-resilient-marine-builder"
+                ],
+                "bitz": {
+                    "facet": 275
+                }
+            },
+            "Spitter - Motor L": {
+                "file": "Gift 1 MotorL.stl",
+                "designer": "Sumbu",
+                "md5": "fea9febc39caadef16179ecf6851f4c9",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/tool/parts-of-a-disgusting-resilient-marine-builder"
+                ],
+                "bitz": {
+                    "facet": 245
+                }
+            },
+            "Spitter - Motor Up": {
+                "file": "Gift 1 Motor Up.stl",
+                "designer": "Sumbu",
+                "md5": "9b367924d2b164f0ee346b7f7b78bf4d",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/tool/parts-of-a-disgusting-resilient-marine-builder"
+                ],
+                "bitz": {
+                    "vertex": 233544
+                }
+            },
+            "Hauler - Track Left": {
+                "file": "Gift 2 Track L.stl",
+                "designer": "Sumbu",
+                "md5": "a96b5004fc6d15758cb5d2c9092aa6d7",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/tool/parts-of-a-disgusting-resilient-marine-builder"
+                ],
+                "bitz": {
+                    "vertex": 52691
+                }
+            },
+            "Hauler - Track Right": {
+                "file": "Gift 2 Track R.stl",
+                "designer": "Sumbu",
+                "md5": "6308db6d58c98f8c5f3fec39846de9f6",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/tool/parts-of-a-disgusting-resilient-marine-builder"
+                ],
+                "bitz": {
+                    "vertex": 217233
+                }
+            },
+            "Crawler - Mortar": {
+                "file": "Gift 3 Mortar.stl",
+                "designer": "Sumbu",
+                "md5": "069ee6079cdc7a1e5c714b9bc41bfed7",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/tool/parts-of-a-disgusting-resilient-marine-builder"
+                ],
+                "bitz": {
+                    "facet": 48765
+                }
+            },
+            "Crawler - Ram": {
+                "file": "Gift 3 Ram.stl",
+                "designer": "Sumbu",
+                "md5": "4078fc54985b78f93e39d63d65ddffff",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/tool/parts-of-a-disgusting-resilient-marine-builder"
+                ],
+                "bitz": {
+                    "facet": 119
+                }
+            }
+        }
     }
 }

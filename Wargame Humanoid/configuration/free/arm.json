@@ -202,9 +202,882 @@
                     "vertex": 87218
                 },
                 "hand": {
-                    "right": {
-                        "vertex": 27983
-                    }
+                    "vertex": 27983
+                }
+            }
+        }
+    },
+    "Space Warrior Rider": {
+        "desc": {
+            "display": "Space Warrior Rider",
+            "path": "Wargame Humanoid/arm/Space Warrior Rider/",
+            "nodes": [
+                "arm"
+            ]
+        },
+        "stl": {
+            "Arm 01": {
+                "file": "ArmL_01.stl",
+                "designer": "GRAYGAWR",
+                "md5": "ce5aa220550755e92736be129b959eda",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/prime-roadkill-beef-builder"
+                ],
+                "dextral": "left",
+                "arm": {
+                    "facet": 51625
+                },
+                "hand": {
+                    "vertex": 101092
+                }
+            },
+            "Arm 02": {
+                "file": "ArmL_02.stl",
+                "designer": "GRAYGAWR",
+                "md5": "da720beeb1a3b064b885e8d5b450ee52",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/prime-roadkill-beef-builder"
+                ],
+                "hand": {
+                    "vertex": 116739
+                },
+                "dextral": "left",
+                "arm": {
+                    "facet": 51473
+                }
+            },
+            "Arm 03": {
+                "file": "ArmL_03.stl",
+                "designer": "GRAYGAWR",
+                "md5": "bdb4efeddd7159b1f9c3c0602bd47648",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/prime-roadkill-beef-builder"
+                ],
+                "hand": {
+                    "vertex": 105332
+                },
+                "dextral": "left",
+                "arm": {
+                    "facet": 51516
+                }
+            },
+            "Arm 04": {
+                "file": "ArmL_04.stl",
+                "designer": "GRAYGAWR",
+                "md5": "35e4d54f2884e00b32225369e9726211",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/prime-roadkill-beef-builder"
+                ],
+                "hand": {
+                    "vertex": 49635
+                },
+                "dextral": "left",
+                "arm": {
+                    "facet": 51585
+                }
+            },
+            "Arm 05": {
+                "file": "ArmL_05.stl",
+                "designer": "GRAYGAWR",
+                "md5": "0004e5c33f9e875c0dd8a6ed8e7a4fca",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/prime-roadkill-beef-builder"
+                ],
+                "hand": {
+                    "vertex": 103608
+                },
+                "dextral": "left",
+                "arm": {
+                    "facet": 51578
+                }
+            },
+            "Arm 06": {
+                "file": "ArmL_06.stl",
+                "designer": "GRAYGAWR",
+                "md5": "ce33eb5939b42cbeed9d85bf61b6d27c",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/prime-roadkill-beef-builder"
+                ],
+                "hand": {
+                    "vertex": 3558
+                },
+                "dextral": "left",
+                "arm": {
+                    "facet": 51629
+                }
+            },
+            "Arm 07": {
+                "file": "ArmL_07.stl",
+                "designer": "GRAYGAWR",
+                "md5": "cdec6945a66db3f3a7daa08908395475",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/prime-roadkill-beef-builder"
+                ],
+                "hand": {
+                    "vertex": 83936
+                },
+                "dextral": "left",
+                "arm": {
+                    "facet": 51628
+                }
+            },
+            "Arm 08": {
+                "file": "ArmL_08.stl",
+                "designer": "GRAYGAWR",
+                "md5": "74bfe00a4578eb6f2b493b4e96345046",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/prime-roadkill-beef-builder"
+                ],
+                "hand": {
+                    "vertex": 6950
+                },
+                "dextral": "left",
+                "arm": {
+                    "facet": 51710
+                }
+            },
+            "Arm 09": {
+                "file": "ArmL_09.stl",
+                "designer": "GRAYGAWR",
+                "md5": "f84ce0bf6f3c2886adfe6fef2f6f7866",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/prime-roadkill-beef-builder"
+                ],
+                "hand": {
+                    "vertex": 57808
+                },
+                "dextral": "left",
+                "arm": {
+                    "facet": 51419
+                }
+            },
+            "Arm 10": {
+                "file": "ArmL_10.stl",
+                "designer": "GRAYGAWR",
+                "md5": "007f95dc0fe0a3380b1bbdfdc69041fd",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/prime-roadkill-beef-builder"
+                ],
+                "hand": {
+                    "vertex": 101613
+                },
+                "dextral": "left",
+                "arm": {
+                    "facet": 51657
+                }
+            },
+            "Arm 11": {
+                "file": "ArmL_11.stl",
+                "designer": "GRAYGAWR",
+                "md5": "4b1f312534b0e37443efaa772341e66d",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/prime-roadkill-beef-builder"
+                ],
+                "hand": {
+                    "vertex": 40590
+                },
+                "dextral": "left",
+                "arm": {
+                    "facet": 72111
+                }
+            },
+            "Arm 12": {
+                "file": "ArmL_12.stl",
+                "designer": "GRAYGAWR",
+                "md5": "5e520668ddc48397b464139c5864988e",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/prime-roadkill-beef-builder"
+                ],
+                "hand": {
+                    "vertex": 93410
+                },
+                "dextral": "left",
+                "arm": {
+                    "facet": 51706
+                }
+            },
+            "Arm 13": {
+                "file": "ArmL_13.stl",
+                "designer": "GRAYGAWR",
+                "md5": "c0ec3158a43b0f7641587466612996c9",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/prime-roadkill-beef-builder"
+                ],
+                "hand": {
+                    "vertex": 8940
+                },
+                "dextral": "left",
+                "arm": {
+                    "facet": 51490
+                }
+            },
+            "Arm 14": {
+                "file": "ArmL_14.stl",
+                "designer": "GRAYGAWR",
+                "md5": "5ef63b2cc140ab1c2f69463d244ab3e1",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/prime-roadkill-beef-builder"
+                ],
+                "hand": {
+                    "vertex": 24713
+                },
+                "dextral": "left",
+                "arm": {
+                    "facet": 51539
+                }
+            },
+            "Arm 15": {
+                "file": "ArmL_15.stl",
+                "designer": "GRAYGAWR",
+                "md5": "1b7ad171df53d11cc37af791851c77df",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/prime-roadkill-beef-builder"
+                ],
+                "hand": {
+                    "vertex": 4690
+                },
+                "dextral": "left",
+                "arm": {
+                    "facet": 51630
+                }
+            },
+            "Arms Sniper": {
+                "file": "Arms_Sniper.stl",
+                "designer": "GRAYGAWR",
+                "md5": "8d90bbb49e64ad530f6fff865941e38c",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/prime-roadkill-beef-builder"
+                ],
+                "dextral": "right",
+                "arm": {
+                    "facet": 223599
+                }
+            }
+        }
+    },
+    "Space Warrior Aggressor": {
+        "desc": {
+            "display": "Space Warrior Aggressor",
+            "path": "Wargame Humanoid/arm/Space Warrior Aggressor/",
+            "nodes": [
+                "arm"
+            ]
+        },
+        "stl": {
+            "Blank 01": {
+                "file": "LEFTARM_BLANK_magnet_ready.stl",
+                "designer": "Mazer",
+                "md5": "8bc583339be68931333b32e6d551b1b8",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/imperial-legate-walking-tanks"
+                ],
+                "dextral": "left",
+                "arm": {
+                    "vertex_list": [
+                        167552,
+                        170187,
+                        170806,
+                        173799
+                    ]
+                },
+                "hand": {
+                    "face": 102429
+                }
+            },
+            "Iron Fist 01": {
+                "file": "LEFTARM_IF_magnet_ready.stl",
+                "designer": "Mazer",
+                "md5": "87dbd3d629fa3680d5339307bb4ca17b",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/imperial-legate-walking-tanks"
+                ],
+                "hand": {
+                    "face": 464748
+                },
+                "dextral": "left",
+                "arm": {
+                    "facet": 15089
+                }
+            },
+            "Blank 02": {
+                "file": "RIGHTARM_magnet_ready.stl",
+                "designer": "Mazer",
+                "md5": "5f08c761902b8d4beb153723ea7a789d",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/imperial-legate-walking-tanks"
+                ],
+                "dextral": "right",
+                "arm": {
+                    "vertex_list": [
+                        63255,
+                        68009,
+                        69368,
+                        70248
+                    ]
+                },
+                "hand": {
+                    "face": 406984
+                }
+            },
+            "Sergent Comlink": {
+                "file": "SARGE_LEFTARM_BLANK_magnet_ready.stl",
+                "designer": "Mazer",
+                "md5": "b67743f8aa1895575978d79331a2ea85",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/imperial-legate-walking-tanks"
+                ],
+                "dextral": "left",
+                "arm": {
+                    "vertex_list": [
+                        8664,
+                        10584,
+                        12463,
+                        15225
+                    ]
+                }
+            },
+            "Sergent Comlink Iron Fist": {
+                "file": "SARGE_LEFTARM_magnet_ready.stl",
+                "designer": "Mazer",
+                "md5": "41a169ff8eb61fad745a7a3e9940e10e",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/imperial-legate-walking-tanks"
+                ],
+                "dextral": "left",
+                "arm": {
+                    "vertex_list": [
+                        12518,
+                        13397,
+                        15883,
+                        16951
+                    ]
+                },
+                "hand": {
+                    "vertex": 286807
+                }
+            }
+        }
+    },
+    "Deathwing Terminator": {
+        "desc": {
+            "display": "Deathwing Terminator",
+            "path": "Wargame Humanoid/arm/Deathwing Terminator/",
+            "nodes": [
+                "arm"
+            ]
+        },
+        "stl": {
+            "Claw 01": {
+                "file": "Claw1_L_Mag.stl",
+                "designer": "Mazer",
+                "md5": "a8fa105840771363e4ad34380a15fb57",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/deathwing-terminator-builder"
+                ],
+                "support": {
+                    "file": "Claw1_L_Mag_supported.stl",
+                    "md5": "53755d2bb8b68a2369bb5695ce175a5e"
+                },
+                "dextral": "left",
+                "arm": {
+                    "vertex_list": [
+                        16127,
+                        16768,
+                        18491,
+                        28915
+                    ]
+                }
+            },
+            "Claw 02": {
+                "file": "Claw5_L_Mag.stl",
+                "designer": "Mazer",
+                "md5": "444bc3d63cf41a4f9a55f1f107518849",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/deathwing-terminator-builder"
+                ],
+                "support": {
+                    "file": "Claw5_L_Mag_supported.stl",
+                    "md5": "5a569d9f03fdab228668811d830f4455"
+                },
+                "dextral": "left",
+                "arm": {
+                    "vertex_list": [
+                        15503,
+                        21270,
+                        27292,
+                        33028
+                    ]
+                }
+            },
+            "Chain Fist 01": {
+                "file": "DW chain fist left_mag.stl",
+                "designer": "Mazer",
+                "md5": "3f8f8cc7d2eca73d2d4c11e8aa58372e",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/deathwing-terminator-builder"
+                ],
+                "support": {
+                    "file": "DW chain fist left_mag_supported.stl",
+                    "md5": "0d66777a857a8db5ae3a271ee249f843"
+                },
+                "dextral": "left",
+                "arm": {
+                    "vertex_list": [
+                        4673,
+                        9147,
+                        15272
+                    ]
+                }
+            },
+            "Shield 01": {
+                "file": "DW_Left Arm DA Shield mag.stl",
+                "designer": "Mazer",
+                "md5": "50a6f6ae01acfe7f2a99a3aacccde249",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/deathwing-terminator-builder"
+                ],
+                "support": {
+                    "file": "DW_Left Arm DA Shield mag_supported.stl",
+                    "md5": "394288fc36852d27137866020423d3d2"
+                },
+                "dextral": "left",
+                "arm": {
+                    "vertex_list": [
+                        2538,
+                        7182,
+                        34765,
+                        42644
+                    ]
+                }
+            },
+            "No Hand 01": {
+                "file": "Right Arm No Hand mag.stl",
+                "designer": "Mazer",
+                "md5": "330478956c0992dcd6dca90f80d8e658",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/deathwing-terminator-builder"
+                ],
+                "hand": {
+                    "facet": 283
+                },
+                "dextral": "right",
+                "arm": {
+                    "vertex_list": [
+                        801,
+                        1711,
+                        2070,
+                        2071
+                    ]
+                }
+            },
+            "Power Sword 01": {
+                "file": "Right Arm Power Sword_mag.stl",
+                "designer": "Mazer",
+                "md5": "f70b611181774540b7a9339621200323",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/deathwing-terminator-builder"
+                ],
+                "support": {
+                    "file": "Right Arm Power Sword_mag_supported.stl",
+                    "md5": "521b5cd7e306e626a70b8b4f2789a697"
+                },
+                "dextral": "right",
+                "arm": {
+                    "vertex_list": [
+                        22711,
+                        26293,
+                        41064,
+                        43396
+                    ]
+                }
+            },
+            "Hammer 01": {
+                "file": "Right Arm with McAngry Hammer_magnatized 3x1.7.stl",
+                "designer": "MrMcAngry",
+                "md5": "a799c10e51d676d3016c02a7cba207b1",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/deathwing-terminator-builder"
+                ],
+                "support": {
+                    "file": "Right Arm with McAngry Hammer_magnatized 3x1.7_supported.stl",
+                    "md5": "999e6547dfe35a2fb24bf3883d7aab6a"
+                },
+                "dextral": "right",
+                "arm": {
+                    "vertex_list": [
+                        5496,
+                        20946,
+                        44086,
+                        153984
+                    ]
+                }
+            },
+            "Bolter 01": {
+                "file": "RW right arm McAngry McBolter Mag.stl",
+                "designer": "MrMcAngry",
+                "md5": "c20574d60c5452c8af4c1c9848298321",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/deathwing-terminator-builder"
+                ],
+                "support": {
+                    "file": "RW right arm McAngry McBolter Mag_supported.stl",
+                    "md5": "f2bf6ba6b8684be2d773c02150c44a44"
+                },
+                "dextral": "right",
+                "arm": {
+                    "vertex_list": [
+                        32359,
+                        37508,
+                        64627,
+                        69798
+                    ]
+                }
+            }
+        }
+    },
+    "Plague Marine": {
+        "desc": {
+            "display": "Plague Marine",
+            "path": "Wargame Humanoid/arm/Plague Marine/",
+            "nodes": [
+                "arm"
+            ]
+        },
+        "stl": {
+            "Spitter - Mower": {
+                "file": "Gift 1 Mower.stl",
+                "designer": "Sumbu",
+                "md5": "f760b2f7bcac6e187eff7f2238a5824a",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/tool/parts-of-a-disgusting-resilient-marine-builder"
+                ],
+                "dextral": "right",
+                "arm": {
+                    "vertex": 218371
+                }
+            },
+            "Spitter - Spewer L": {
+                "file": "Gift 1 Spewer L.stl",
+                "designer": "Sumbu",
+                "md5": "7d37f85279912cea6de6d064567910e1",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/tool/parts-of-a-disgusting-resilient-marine-builder"
+                ],
+                "dextral": "left",
+                "arm": {
+                    "vertex": 57365
+                }
+            },
+            "Spitter - Spewer R": {
+                "file": "Gift 1 Spewer R.stl",
+                "designer": "Sumbu",
+                "md5": "56b10767a0592413449abcef72f8e9d3",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/tool/parts-of-a-disgusting-resilient-marine-builder"
+                ],
+                "dextral": "right",
+                "arm": {
+                    "vertex": 36837
+                }
+            },
+            "Hauler - Turret 1": {
+                "file": "Gift 2 Turret L.stl",
+                "designer": "Sumbu",
+                "md5": "c62132fc02a03388510e72423b1bdb44",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/tool/parts-of-a-disgusting-resilient-marine-builder"
+                ],
+                "dextral": "left",
+                "arm": {
+                    "vertex": 31021
+                }
+            },
+            "Hauler - Turret 2": {
+                "file": "Gift 2 Turret R.stl",
+                "designer": "Sumbu",
+                "md5": "5610a30d225e8b3cbdbafe89371e6301",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/tool/parts-of-a-disgusting-resilient-marine-builder"
+                ],
+                "dextral": "right",
+                "arm": {
+                    "vertex": 16270
+                }
+            },
+            "Crawler - Spitter L": {
+                "file": "Gift 3 Spitter L.stl",
+                "designer": "Sumbu",
+                "md5": "cec86db7dae41a6f9921dabb23649b5f",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/tool/parts-of-a-disgusting-resilient-marine-builder"
+                ],
+                "dextral": "left",
+                "arm": {
+                    "facet": 13283
+                }
+            },
+            "Crawler - Spitter R": {
+                "file": "Gift 3 Spitter R.stl",
+                "designer": "Sumbu",
+                "md5": "b91980e2c94eeb49f9d39ee5f8f08634",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/tool/parts-of-a-disgusting-resilient-marine-builder"
+                ],
+                "dextral": "left",
+                "arm": {
+                    "vertex": 2696
+                }
+            },
+            "Hold Ammo": {
+                "file": "Plague Marines Arm Ammo_fixed.stl",
+                "designer": "Sumbu",
+                "md5": "03180d9d63ee71a2178b0ce33f21755c",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/tool/parts-of-a-disgusting-resilient-marine-builder"
+                ],
+                "dextral": "left",
+                "arm": {
+                    "vertex": 101041
+                }
+            },
+            "LR Bolter 1": {
+                "file": "Plague Marines Arm Bolter 1_fixed.stl",
+                "designer": "Sumbu",
+                "md5": "b6288ee3fa9b47e0761e696de7b63a5b",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/tool/parts-of-a-disgusting-resilient-marine-builder"
+                ],
+                "dextral": "right",
+                "arm": {
+                    "vertex": 120171
+                }
+            },
+            "LR Bolter 2": {
+                "file": "Plague_Marines_Arm_Bolter_2_fixed.stl",
+                "designer": "Sumbu",
+                "md5": "488d943e12d70ac39132c5681a849c02",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/tool/parts-of-a-disgusting-resilient-marine-builder"
+                ],
+                "dextral": "right",
+                "arm": {
+                    "vertex": 161280
+                }
+            },
+            "LR Bolter 3": {
+                "file": "Plague Marines Arm Bolter 3_fixed.stl",
+                "designer": "Sumbu",
+                "md5": "63b0e596c2bcf8d64ad5dd9abc6abae6",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/tool/parts-of-a-disgusting-resilient-marine-builder"
+                ],
+                "dextral": "right",
+                "arm": {
+                    "vertex": 42640
+                }
+            },
+            "LR Bolter 4": {
+                "file": "Plague Marines Arm Bolter 4_fixed.stl",
+                "designer": "Sumbu",
+                "md5": "18f4aeae03a151fb11edea157f66dc22",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/tool/parts-of-a-disgusting-resilient-marine-builder"
+                ],
+                "dextral": "left",
+                "arm": {
+                    "vertex": 49952
+                }
+            },
+            "LR Bolter 5": {
+                "file": "Plague Marines Arm Bolter 5_fixed.stl",
+                "designer": "Sumbu",
+                "md5": "4d545f5424a40c15766ee4d2a3de13e3",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/tool/parts-of-a-disgusting-resilient-marine-builder"
+                ],
+                "dextral": "left",
+                "arm": {
+                    "vertex": 22031
+                }
+            },
+            "Bolter 01": {
+                "file": "Plague Marines Arm Bolter Ammo_fixed.stl",
+                "designer": "Sumbu",
+                "md5": "0cd30d87a88dc6ebacf32185b5116a10",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/tool/parts-of-a-disgusting-resilient-marine-builder"
+                ],
+                "dextral": "right",
+                "arm": {
+                    "vertex": 31091
+                }
+            },
+            "LR Bubotic Axe 01": {
+                "file": "Plague Marines Arm Bubotic Axe_fixed.stl",
+                "designer": "Sumbu",
+                "md5": "5007484aca77ca5d6b26e2ed4bf4e7ea",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/tool/parts-of-a-disgusting-resilient-marine-builder"
+                ],
+                "dextral": "right",
+                "arm": {
+                    "vertex": 79555
+                }
+            },
+            "LR Flail Of Contagion 01": {
+                "file": "Plague Marines Arm Flail of Contagion_fixed.stl",
+                "designer": "Sumbu",
+                "md5": "96acc99effd8ef68f9a0a302065803be",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/tool/parts-of-a-disgusting-resilient-marine-builder"
+                ],
+                "dextral": "right",
+                "arm": {
+                    "vertex": 154398
+                }
+            },
+            "Champion Kriss 01 ": {
+                "file": "Plague Marines Arm L Champion_fixed.stl",
+                "designer": "Sumbu",
+                "md5": "91c88bfc5e41fe12e72bb82d35a1b3c8",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/tool/parts-of-a-disgusting-resilient-marine-builder"
+                ],
+                "dextral": "left",
+                "arm": {
+                    "vertex": 11975
+                }
+            },
+            "Corrupted 01": {
+                "file": "Plague Marines Arm L Corrupted_fixed.stl",
+                "designer": "Sumbu",
+                "md5": "8267c7be93e0bf9f8397212b372eb34a",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/tool/parts-of-a-disgusting-resilient-marine-builder"
+                ],
+                "dextral": "left",
+                "arm": {
+                    "vertex": 47013
+                }
+            },
+            "Energy Fist 01": {
+                "file": "Plague Marines Arm L Energy Fist_fixed.stl",
+                "designer": "Sumbu",
+                "md5": "900fa0736e3190112f899f0cd339595c",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/tool/parts-of-a-disgusting-resilient-marine-builder"
+                ],
+                "dextral": "left",
+                "arm": {
+                    "vertex": 73445
+                }
+            },
+            "Knife 01": {
+                "file": "Plague Marines Arm L Plague Knife_fixed.stl",
+                "designer": "Sumbu",
+                "md5": "eea40bc9d01ae40e7622269c6008aaa3",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/tool/parts-of-a-disgusting-resilient-marine-builder"
+                ],
+                "dextral": "left",
+                "arm": {
+                    "vertex": 206480
+                }
+            },
+            "LR Melta 01": {
+                "file": "Plague Marines Arm Melta_fixed.stl",
+                "designer": "Sumbu",
+                "md5": "0478ebd628b8f890a77814ba89a88dc4",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/tool/parts-of-a-disgusting-resilient-marine-builder"
+                ],
+                "dextral": "right",
+                "arm": {
+                    "vertex": 69516
+                }
+            },
+            "LR Plasma 01": {
+                "file": "Plague Marines Arm Plasma 1_fixed.stl",
+                "designer": "Sumbu",
+                "md5": "1c0749224ee5ead506295d7cc867b886",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/tool/parts-of-a-disgusting-resilient-marine-builder"
+                ],
+                "dextral": "right",
+                "arm": {
+                    "vertex": 280294
+                }
+            },
+            "RL Plasma 02": {
+                "file": "Plague Marines Arm Plasma 2_fixed.stl",
+                "designer": "Sumbu",
+                "md5": "1da767c7073f76f1e66178c305c5b979",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/tool/parts-of-a-disgusting-resilient-marine-builder"
+                ],
+                "dextral": "left",
+                "arm": {
+                    "vertex": 51152
+                }
+            },
+            "Blight Launcher 01": {
+                "file": "Plague Marines Arm R Blight Launcher_fixed.stl",
+                "designer": "Sumbu",
+                "md5": "7d6e5a8ae054aae479ae09174e1a40e4",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/tool/parts-of-a-disgusting-resilient-marine-builder"
+                ],
+                "dextral": "right",
+                "arm": {
+                    "vertex": 252642
+                }
+            },
+            "Champion Hearth 01": {
+                "file": "Plague Marines Arm R Champion_fixed.stl",
+                "designer": "Sumbu",
+                "md5": "e5110c104ff71211e078c494aeff5a43",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/tool/parts-of-a-disgusting-resilient-marine-builder"
+                ],
+                "dextral": "right",
+                "arm": {
+                    "vertex": 43413
+                }
+            },
+            "Empty 01": {
+                "file": "Plague Marines Arm R Empty_fixed.stl",
+                "designer": "Sumbu",
+                "md5": "b26db1c4ba287e1e9bb9f9593536cc50",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/tool/parts-of-a-disgusting-resilient-marine-builder"
+                ],
+                "dextral": "right",
+                "arm": {
+                    "vertex": 157162
+                }
+            },
+            "Plague Belcher 01": {
+                "file": "Plague Marines Arm R Plague Belcher_fixed.stl",
+                "designer": "Sumbu",
+                "md5": "90433c2306650a278dc00eaa59e1f124",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/tool/parts-of-a-disgusting-resilient-marine-builder"
+                ],
+                "dextral": "right",
+                "arm": {
+                    "vertex": 29866
+                }
+            },
+            "Plague Spewer 01": {
+                "file": "Plague Marines Arm R Plague Spewer_fixed.stl",
+                "designer": "Sumbu",
+                "md5": "9f651d161e523ef76f9b1e9651aeeb2e",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/tool/parts-of-a-disgusting-resilient-marine-builder"
+                ],
+                "dextral": "right",
+                "arm": {
+                    "vertex": 182808
                 }
             }
         }

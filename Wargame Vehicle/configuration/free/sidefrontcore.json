@@ -1,0 +1,41 @@
+{
+    "Imp\u00e9rial Guard": {
+        "desc": {
+            "display": "Imp\u00e9rial Guard",
+            "path": "Wargame Vehicle/sidefrontcore/Imp\u00e9rial Guard/",
+            "nodes": [
+                "sidefrontcore"
+            ]
+        },
+        "stl": {
+            "Flak Mortar - Track": {
+                "file": "Chimera_Track_With_Guard_Hollowed_Left.stl",
+                "designer": "redzabo",
+                "md5": "bd50630c7b624e9cdec515f27155593e",
+                "urls": [
+                    "https://cults3d.com/fr/mod%C3%A8le-3d/jeu/imperial-guard-flak-tank-hydra-like-proxy"
+                ],
+                "dextral": "left",
+                "sidefrontcore": {
+                    "face": 52043
+                }
+            },
+            "Chimera - Track": {
+                "file": "Chimera Track Hollowed Left Mirror.stl",
+                "designer": "redzabo",
+                "md5": "c11925f850a13f0499b945feaba5a6f3",
+                "urls": [
+                    "https://cults3d.com/fr/mod%C3%A8le-3d/jeu/jericho-mlrs-mk-2"
+                ],
+                "support": {
+                    "file": "_Chimera_Track_Hollowed_Left_Mirror.stl",
+                    "md5": "c7cd0ba147e7f4f1790bda23002f7027"
+                },
+                "dextral": "left",
+                "sidefrontcore": {
+                    "vertex": 5405
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "Imp\u00e9rial Guard": {
+        "desc": {
+            "display": "Imp\u00e9rial Guard",
+            "path": "Wargame Vehicle/centerfrontcore/Imp\u00e9rial Guard/",
+            "nodes": [
+                "centerfrontcore"
+            ]
+        },
+        "stl": {
+            "Flak Mortar - Hull Front": {
+                "file": "Flak_Mortar_Hull_Hollowed_Front_V2.stl",
+                "designer": "redzabo",
+                "md5": "f1453f557c704ddcb2fd9a92282ca4f5",
+                "urls": [
+                    "https://cults3d.com/fr/mod%C3%A8le-3d/jeu/imperial-guard-flak-tank-hydra-like-proxy"
+                ],
+                "centerfrontcore": {
+                    "vertex_list": [
+                        7553,
+                        7555
+                    ]
+                }
+            },
+            "Jericho Mk2 - Front Hull": {
+                "file": "Jericho Mk2 Front Hull.stl",
+                "designer": "redzabo",
+                "md5": "50853e7434ee3e78c0f466aad34495cc",
+                "urls": [
+                    "https://cults3d.com/fr/mod%C3%A8le-3d/jeu/jericho-mlrs-mk-2"
+                ],
+                "support": {
+                    "file": "_Jericho_Mk2_Front_Hull.stl",
+                    "md5": "724f403d8d3a4dc98e9c937a46eb6c37"
+                },
+                "centerfrontcore": {
+                    "vertex_list": [
+                        1634,
+                        1635,
+                        13793,
+                        13794
+                    ]
+                },
+                "bitzs": {
+                    "Smoke Launcher": {
+                        "face": 3252
+                    },
+                    "Radar Dish": {
+                        "facet": 801
+                    }
+                }
+            },
+            "Jericho Mk2 - Front Hull (empty top)": {
+                "file": "Jericho Mk2_Front Hull.stl",
+                "designer": "redzabo",
+                "md5": "35550b677f67599b701b68e2f5160643",
+                "urls": [
+                    "https://cults3d.com/fr/mod%C3%A8le-3d/jeu/jericho-mlrs-mk-2"
+                ],
+                "centerfrontcore": {
+                    "vertex_list": [
+                        7761,
+                        7762,
+                        10027,
+                        10028
+                    ]
+                }
+            }
+        }
+    }
+}

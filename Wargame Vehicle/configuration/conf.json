@@ -110,7 +110,7 @@
         },
         {
             "id": "centerbackcore",
-            "label": "Back Core",
+            "label": "Center Back Core",
             "folder": "backcore",
             "permissions": [
                 "select",

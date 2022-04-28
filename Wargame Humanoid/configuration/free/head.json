@@ -212,5 +212,307 @@
                 }
             }
         }
+    },
+    "Grey Knights": {
+        "desc": {
+            "display": "Grey Knights",
+            "path": "Wargame Humanoid/head/Grey Knights/",
+            "nodes": [
+                "head"
+            ]
+        },
+        "stl": {
+            "Grey Knights 01": {
+                "file": "Grey Knights Head 01.stl",
+                "designer": "GRAYGAWR",
+                "md5": "a1fea5c49ab283c6dfacf2c9569c49ab",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/ghost-hunting-space-wizard-heads"
+                ],
+                "support": {
+                    "file": "Grey Knights Head 01_supp.stl",
+                    "md5": "a644f8d84dfb9922fb48cd24213e1efd"
+                },
+                "head": {
+                    "vertex": 97926
+                }
+            },
+            "Grey Knights 02": {
+                "file": "Grey Knights Head 02.stl",
+                "designer": "GRAYGAWR",
+                "md5": "c8f61647ad6a76cf15a1a788736aad1e",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/ghost-hunting-space-wizard-heads"
+                ],
+                "support": {
+                    "file": "Grey Knights Head 02_supp.stl",
+                    "md5": "13dd1c8d913bb48903cfcbd53cb10e24"
+                },
+                "head": {
+                    "vertex": 158718
+                }
+            },
+            "Grey Knights 03": {
+                "file": "Grey Knights Head 03.stl",
+                "designer": "GRAYGAWR",
+                "md5": "51f479b1ef5b594f32537eaf66cf66b3",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/ghost-hunting-space-wizard-heads"
+                ],
+                "support": {
+                    "file": "Grey Knights Head 03_supp.stl",
+                    "md5": "866482e65cee4ae2ca9b90820afa4567"
+                },
+                "head": {
+                    "vertex": 148305
+                }
+            },
+            "Grey Knights 04": {
+                "file": "Grey Knights Head 04.stl",
+                "designer": "GRAYGAWR",
+                "md5": "0395d0d461abe6a1de09af0829c82e9e",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/ghost-hunting-space-wizard-heads"
+                ],
+                "support": {
+                    "file": "Grey Knights Head 04_supp.stl",
+                    "md5": "bde4386d42a8602d61afb90ff7f04c53"
+                },
+                "head": {
+                    "vertex": 78332
+                }
+            }
+        }
+    },
+    "Space Warrior Rider": {
+        "desc": {
+            "display": "Space Warrior Rider",
+            "path": "Wargame Humanoid/head/Space Warrior Rider/",
+            "nodes": [
+                "head"
+            ]
+        },
+        "stl": {
+            "Bald 01": {
+                "file": "Head_6_by_mrmcangry.stl",
+                "designer": "MrMcAngry",
+                "md5": "fa733b57de28e71c23c1f118b7412296",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/prime-roadkill-beef-builder"
+                ],
+                "head": {
+                    "vertex": 13787
+                }
+            },
+            "Intercessor Helmet": {
+                "file": "Intercessor_Helmet.stl",
+                "designer": "GRAYGAWR",
+                "md5": "69f3539bcb3ace8cf56fefdb79c4e50c",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/prime-roadkill-beef-builder"
+                ],
+                "head": {
+                    "facet": 52774
+                }
+            },
+            "Mohawk": {
+                "file": "mohawk-merged_by_mrmcangry.stl",
+                "designer": "GRAYGAWR",
+                "md5": "a56727ed140bc64d61116bcc7d26689e",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/prime-roadkill-beef-builder"
+                ],
+                "head": {
+                    "vertex": 27502
+                }
+            },
+            "Primaris Beaky Plain": {
+                "file": "Primaris_Beaky_Plain_by_cornivius.stl",
+                "designer": "cornivius",
+                "md5": "d9d3585d83bf1295475b355a3cc7c3e0",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/prime-roadkill-beef-builder"
+                ],
+                "head": {
+                    "vertex": 58141
+                }
+            }
+        }
+    },
+    "Meme": {
+        "desc": {
+            "display": "Meme",
+            "path": "Wargame Humanoid/head/Meme/",
+            "nodes": [
+                "head"
+            ]
+        },
+        "stl": {
+            "Nordic Gamer Headset": {
+                "file": "Nordic_Gamer_Headset.stl",
+                "designer": "GRAYGAWR",
+                "md5": "8503226771fb144e47f5a8c44ead027f",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/nordic-gamer-and-yes-chad-heads-for-space-soldiers"
+                ],
+                "head": {
+                    "vertex": 16855
+                }
+            },
+            "Nordic Gamer No Headset": {
+                "file": "Nordic_Gamer_no_headset.stl",
+                "designer": "GRAYGAWR",
+                "md5": "99ba8646de58044aee915f5e625a731b",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/nordic-gamer-and-yes-chad-heads-for-space-soldiers"
+                ],
+                "head": {
+                    "vertex": 373630
+                }
+            },
+            "Nordic Gamer Visor": {
+                "file": "Nordic_Gamer_Visor_headset.stl",
+                "designer": "GRAYGAWR",
+                "md5": "2cd09a9dd1bda1d21d1a40ee312bf3aa",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/nordic-gamer-and-yes-chad-heads-for-space-soldiers"
+                ],
+                "head": {
+                    "vertex": 438613
+                }
+            },
+            "Yes Chad": {
+                "file": "YES_Chad.stl",
+                "designer": "GRAYGAWR",
+                "md5": "42ae58ae523f79e6e5b52f550d7a04a3",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/nordic-gamer-and-yes-chad-heads-for-space-soldiers"
+                ],
+                "head": {
+                    "vertex": 280880
+                }
+            },
+            "Yes Chad Visor": {
+                "file": "YES_Chad_Visor.stl",
+                "designer": "GRAYGAWR",
+                "md5": "82df31957a7ac98eee1f4e6b5f4cbf2b",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/nordic-gamer-and-yes-chad-heads-for-space-soldiers"
+                ],
+                "head": {
+                    "vertex": 301792
+                }
+            }
+        }
+    },
+    "Plague Marine": {
+        "desc": {
+            "display": "Plague Marine",
+            "path": "Wargame Humanoid/head/Plague Marine/",
+            "nodes": [
+                "head"
+            ]
+        },
+        "stl": {
+            "Head 1": {
+                "file": "Plague_Marine_Head_1_fixed.stl",
+                "designer": "Sumbu",
+                "md5": "b6d655c9a5c2ac645c1604a07c5c2856",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/tool/parts-of-a-disgusting-resilient-marine-builder"
+                ],
+                "head": {
+                    "face": 301
+                }
+            },
+            "Head 2": {
+                "file": "Plague_Marine_Head_2_fixed.stl",
+                "designer": "Sumbu",
+                "md5": "b3112d3ddb0d29cac765a4401cd7de59",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/tool/parts-of-a-disgusting-resilient-marine-builder"
+                ],
+                "head": {
+                    "face": 246
+                }
+            },
+            "Head 3": {
+                "file": "Plague_Marine_Head_3_fixed.stl",
+                "designer": "Sumbu",
+                "md5": "2cc219221cde1463b8f9bcbe43be7cee",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/tool/parts-of-a-disgusting-resilient-marine-builder"
+                ],
+                "head": {
+                    "vertex": 49407
+                }
+            },
+            "Head 5": {
+                "file": "Plague_Marine_Head_5_fixed.stl",
+                "designer": "Sumbu",
+                "md5": "50502b9b124e1517f96e2b4d24033c09",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/tool/parts-of-a-disgusting-resilient-marine-builder"
+                ],
+                "head": {
+                    "vertex": 26400
+                }
+            },
+            "Head 6": {
+                "file": "Plague_Marine_Head_6_fixed.stl",
+                "designer": "Sumbu",
+                "md5": "3840ecee5cc1eb214ebf40e5d3fc1237",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/tool/parts-of-a-disgusting-resilient-marine-builder"
+                ],
+                "head": {
+                    "vertex": 6015
+                }
+            },
+            "Head 8": {
+                "file": "Plague_Marine_Head_8_fixed.stl",
+                "designer": "Sumbu",
+                "md5": "21c58cde1162c9ae4a6eb91807e9c61e",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/tool/parts-of-a-disgusting-resilient-marine-builder"
+                ],
+                "head": {
+                    "vertex": 14696
+                }
+            },
+            "Head 9": {
+                "file": "Plague_Marine_Head_9_fixed.stl",
+                "designer": "Sumbu",
+                "md5": "304aff022404420ba5edb261060795a9",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/tool/parts-of-a-disgusting-resilient-marine-builder"
+                ],
+                "head": {
+                    "vertex": 36409
+                }
+            },
+            "Head 10": {
+                "file": "Plague_Marine_Head_10_fixed.stl",
+                "designer": "Sumbu",
+                "md5": "b21593bd82a2701af2acd3fce7539e0e",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/tool/parts-of-a-disgusting-resilient-marine-builder"
+                ],
+                "head": {
+                    "vertex": 24574
+                }
+            },
+            "Head Champion": {
+                "file": "Plague Marine Head Champion_fixed.stl",
+                "designer": "Sumbu",
+                "md5": "ea6d7e3561197102093a707ba4813233",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/tool/parts-of-a-disgusting-resilient-marine-builder"
+                ],
+                "head": {
+                    "vertex": 75430
+                }
+            }
+        }
     }
 }

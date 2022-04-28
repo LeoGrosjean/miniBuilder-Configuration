@@ -1,59 +1,67 @@
 {
-    "Wargame Humanoid": {
-        "(TMC) TEMPEST LEGION": [
-            "arm.json",
-            "backpack.json",
-            "bitz.json",
-            "body.json",
-            "head.json",
-            "leg.json"
-        ],
-        "(TMC) Valour Korps": [
-            "arm.json",
-            "bitz.json",
-            "body.json"
-        ],
-        "free": [
-            "arm.json",
-            "backpack.json",
-            "bitz.json",
-            "body.json",
-            "hand.json",
-            "head.json",
-            "leg.json"
-        ],
-        "GUERONVESA": [
-            "backpack.json",
-            "body.json",
-            "hand.json",
-            "head.json",
-            "leg.json",
-            "weapon.json"
-        ],
-        "Onos Industries": [
-            "arm.json",
-            "backpack.json",
-            "bitz.json",
-            "body.json",
-            "head.json",
-            "leg.json",
-            "weapon.json"
-        ],
-        "txarlifactory": [
-            "bases.json"
-        ]
-    },
-    "Wargame Vehicle": {
-        "(TMC) TEMPEST LEGION": [
-            "backcore.json",
-            "bitz.json",
-            "bottomcore.json",
-            "centerbackcore.json",
-            "centerfrontcore.json",
-            "core.json",
-            "frontcoretop.json",
-            "sidefrontcore.json",
-            "topcore.json"
-        ]
-    }
+   "Wargame Humanoid": {
+      "(TMC) TEMPEST LEGION": [
+         "arm.json",
+         "backpack.json",
+         "bitz.json",
+         "body.json",
+         "head.json",
+         "leg.json"
+      ],
+      "(TMC) Valour Korps": [
+         "arm.json",
+         "bitz.json",
+         "body.json"
+      ],
+      "free": [
+         "arm.json",
+         "backpack.json",
+         "bitz.json",
+         "body.json",
+         "hand.json",
+         "head.json",
+         "leg.json"
+      ],
+      "GUERONVESA": [
+         "backpack.json",
+         "body.json",
+         "hand.json",
+         "head.json",
+         "leg.json",
+         "weapon.json"
+      ],
+      "Onos Industries": [
+         "arm.json",
+         "backpack.json",
+         "bitz.json",
+         "body.json",
+         "head.json",
+         "leg.json",
+         "weapon.json"
+      ],
+      "txarlifactory": [
+         "bases.json"
+      ]
+   },
+   "Wargame Vehicle": {
+      "(TMC) TEMPEST LEGION": [
+         "backcore.json",
+         "bitz.json",
+         "bottomcore.json",
+         "centerbackcore.json",
+         "centerfrontcore.json",
+         "core.json",
+         "frontcoretop.json",
+         "sidefrontcore.json",
+         "topcore.json"
+      ],
+      "free": [
+         "backcore.json",
+         "bitz.json",
+         "centerfrontcore.json",
+         "core.json",
+         "sidefrontcore.json",
+         "topcore.json"
+      ]
+   }
 }

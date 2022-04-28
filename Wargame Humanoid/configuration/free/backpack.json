@@ -444,5 +444,206 @@
                 "md5": "780f2f9bd092ad93aeab581f7a1fb8fa"
             }
         }
+    },
+    "Space Warrior Rider": {
+        "desc": {
+            "display": "Space Warrior Rider",
+            "path": "Wargame Humanoid/backpack/Space Warrior Rider/",
+            "nodes": [
+                "backpack"
+            ]
+        },
+        "stl": {
+            "Backpack": {
+                "file": "Backpack.stl",
+                "designer": "GRAYGAWR",
+                "md5": "ff7ac65a193d95b0260080aff040a26e",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/prime-roadkill-beef-builder"
+                ],
+                "backpack": {
+                    "vertex_list": [
+                        59579,
+                        90719
+                    ]
+                }
+            }
+        }
+    },
+    "Space Warrior Aggressor": {
+        "desc": {
+            "display": "Space Warrior Aggressor",
+            "path": "Wargame Humanoid/backpack/Space Warrior Aggressor/",
+            "nodes": [
+                "backpack"
+            ]
+        },
+        "stl": {
+            "Assault Backpack": {
+                "file": "ASSAULT_BACKPACK__repaired.stl",
+                "designer": "Mazer",
+                "md5": "48f7cb48d867b9113143d55d67e3984e",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/imperial-legate-walking-tanks"
+                ],
+                "backpack": {
+                    "facet": 53122
+                }
+            },
+            "Boltstorm Backpack": {
+                "file": "BOLTSTORM_BACKPACK_repaired.stl",
+                "designer": "Mazer",
+                "md5": "5e5ce1b29a7b6a34f945357cb84b8b06",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/imperial-legate-walking-tanks"
+                ],
+                "backpack": {
+                    "facet": 55849
+                }
+            },
+            "Frag Backpack": {
+                "file": "FRAG_BACKPACK_repaired.stl",
+                "designer": "Mazer",
+                "md5": "737d4af2e76be0a19928b490d34acb6d",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/imperial-legate-walking-tanks"
+                ],
+                "backpack": {
+                    "facet": 7833
+                }
+            },
+            "Sergent Assault Backpack": {
+                "file": "SARGE_ASSAULT_BACKPACK_repaired.stl",
+                "designer": "Mazer",
+                "md5": "97d31966f5c110d964188fa783fbf720",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/imperial-legate-walking-tanks"
+                ],
+                "backpack": {
+                    "facet": 47195
+                }
+            },
+            "Sergent Boltstorm Backpack": {
+                "file": "SARGE_BOLTSTORM_BACKPACK_repaired.stl",
+                "designer": "Mazer",
+                "md5": "5c1429ae940bec4dbc760ca436a9e9ab",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/imperial-legate-walking-tanks"
+                ],
+                "backpack": {
+                    "facet": 53872
+                }
+            },
+            "Sergent Frag Backpack": {
+                "file": "SARGE_FRAG_BACKPACK_repaired.stl",
+                "designer": "Mazer",
+                "md5": "5bac98cb620c2872583d7ce57f41e136",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/game/imperial-legate-walking-tanks"
+                ],
+                "backpack": {
+                    "facet": 7901
+                }
+            }
+        }
+    },
+    "Plague Marine": {
+        "desc": {
+            "display": "Plague Marine",
+            "path": "Wargame Humanoid/backpack/Plague Marine/",
+            "nodes": [
+                "backpack"
+            ]
+        },
+        "stl": {
+            "Backpack 1": {
+                "file": "Plague_Marine_Backpack_1_fixed.stl",
+                "designer": "Sumbu",
+                "md5": "9a02c28d6b36bfefc0fc0ec61059bbfd",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/tool/parts-of-a-disgusting-resilient-marine-builder"
+                ],
+                "backpack": {
+                    "vertex": 157531
+                }
+            },
+            "Backpack 2": {
+                "file": "Plague_Marine_Backpack_2_fixed.stl",
+                "designer": "Sumbu",
+                "md5": "16ea831756d9e525eb1ece3d33620a73",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/tool/parts-of-a-disgusting-resilient-marine-builder"
+                ],
+                "backpack": {
+                    "vertex": 8268
+                }
+            },
+            "Backpack 3": {
+                "file": "Plague_Marine_Backpack_3_fixed.stl",
+                "designer": "Sumbu",
+                "md5": "d180dca0cce4039e6eabd497daa23d30",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/tool/parts-of-a-disgusting-resilient-marine-builder"
+                ],
+                "backpack": {
+                    "vertex": 49421
+                }
+            },
+            "Backpack 4": {
+                "file": "Plague Marine Backpack 4_fixed.stl",
+                "designer": "Sumbu",
+                "md5": "301624f66deeb46596ad7f3d209b60b4",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/tool/parts-of-a-disgusting-resilient-marine-builder"
+                ],
+                "backpack": {
+                    "vertex": 6310
+                }
+            },
+            "Backpack 5": {
+                "file": "Plague Marine Backpack 5_fixed.stl",
+                "designer": "Sumbu",
+                "md5": "cd4aece3b0afba098dd5d848a82267a5",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/tool/parts-of-a-disgusting-resilient-marine-builder"
+                ],
+                "backpack": {
+                    "vertex": 8485
+                }
+            },
+            "Backpack 6": {
+                "file": "Plague Marine Backpack 6_fixed.stl",
+                "designer": "Sumbu",
+                "md5": "8c4d40723bb781e40e9eb3b173692838",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/tool/parts-of-a-disgusting-resilient-marine-builder"
+                ],
+                "backpack": {
+                    "vertex": 29838
+                }
+            },
+            "Backpack 7": {
+                "file": "Plague Marine Backpack 7_fixed.stl",
+                "designer": "Sumbu",
+                "md5": "3c22f4d9cd1830e76ddce4cd82f10ac7",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/tool/parts-of-a-disgusting-resilient-marine-builder"
+                ],
+                "backpack": {
+                    "vertex": 50111
+                }
+            },
+            "Backpack 8": {
+                "file": "Plague Marine Backpack 8_fixed.stl",
+                "designer": "Sumbu",
+                "md5": "d0713b3bd675d5eefd406db5b66df150",
+                "urls": [
+                    "https://cults3d.com/en/3d-model/tool/parts-of-a-disgusting-resilient-marine-builder"
+                ],
+                "backpack": {
+                    "vertex": 61381
+                }
+            }
+        }
     }
 }

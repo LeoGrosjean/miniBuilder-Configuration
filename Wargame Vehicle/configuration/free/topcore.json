@@ -1,0 +1,91 @@
+{
+    "Imp\u00e9rial Guard": {
+        "desc": {
+            "display": "Imp\u00e9rial Guard",
+            "path": "Wargame Vehicle/topcore/Imp\u00e9rial Guard/",
+            "nodes": [
+                "topcore"
+            ]
+        },
+        "stl": {
+            "Flak Mortar - Turret": {
+                "file": "Mortar_Tank_Turret_Hollowed_V2.stl",
+                "designer": "redzabo",
+                "md5": "72b63c272370967a3e3b9620d8ec4bb1",
+                "urls": [
+                    "https://cults3d.com/fr/mod%C3%A8le-3d/jeu/imperial-guard-flak-tank-hydra-like-proxy"
+                ],
+                "topcore": {
+                    "facet": 331
+                }
+            },
+            "Flak Mortar - Turret radar": {
+                "file": "Flak_Tank_Turret_Hollowed_V5.stl",
+                "designer": "redzabo",
+                "md5": "b30e2a91a7fc4597ccb9f56b292a9ce3",
+                "urls": [
+                    "https://cults3d.com/fr/mod%C3%A8le-3d/jeu/imperial-guard-flak-tank-hydra-like-proxy"
+                ],
+                "topcore": {
+                    "facet": 235
+                },
+                "bitzs": {
+                    "radar receiver": {
+                        "facet": 4161
+                    },
+                    "radar Hinge": {
+                        "facet": 856
+                    },
+                    "radar dish": {
+                        "vertex_list": [
+                            14014,
+                            21007
+                        ]
+                    },
+                    "turret left": {
+                        "facet": 4168
+                    },
+                    "turret right": {
+                        "facet": 147
+                    }
+                }
+            },
+            "Jericho Mk2 - Missile Launcher Housing": {
+                "file": "Jericho Mk2 Missile Launcher Housing.stl",
+                "designer": "redzabo",
+                "md5": "75c01c0c51fd7ce6e676f58d50196790",
+                "urls": [
+                    "https://cults3d.com/fr/mod%C3%A8le-3d/jeu/jericho-mlrs-mk-2"
+                ],
+                "support": {
+                    "file": "_Jericho_Mk2_Missile_Launcher_Housing.stl",
+                    "md5": "8b1eed644d9c27047113f1cc66c6f692"
+                },
+                "topcore": {
+                    "vertex_list": [
+                        16338,
+                        16348,
+                        16351,
+                        16368
+                    ]
+                },
+                "bitzs": {
+                    "launcher backplate": {
+                        "facet": 692
+                    },
+                    "launcher cover": {
+                        "face": 29439
+                    },
+                    "missile": {
+                        "vertex_list": [
+                            13069,
+                            13070,
+                            13081,
+                            13082
+                        ]
+                    }
+                }
+            }
+        }
+    }
+}
