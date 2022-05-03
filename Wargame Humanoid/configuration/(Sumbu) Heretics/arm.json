@@ -1,0 +1,98 @@
+{
+    "Heretics - Grim Hounds": {
+        "desc": {
+            "display": "Heretics - Grim Hounds",
+            "path": "Wargame Humanoid/arm/Heretics - Grim Hounds/",
+            "nodes": [
+                "arm"
+            ]
+        },
+        "stl": {
+            "Bolter 01": {
+                "file": "ArmBolter.stl",
+                "designer": "Sumbu",
+                "md5": "04db25c7aeb13aa39953dff3915c56de",
+                "urls": [
+                    "https://cults3d.com/fr/mod%C3%A8le-3d/outil/the-harvesters-grim-hounds-bikers"
+                ],
+                "support": {
+                    "file": "S_ArmBolter.stl",
+                    "md5": "256c0d7ee5d296de62f69d54caa18ab1"
+                },
+                "dextral": "right",
+                "arm": {
+                    "vertex": 3014
+                },
+                "bitzs": {
+                    "pad": {
+                        "vertex": 2804
+                    }
+                }
+            },
+            "Chainaxe 01": {
+                "file": "ArmChainaxe1.stl",
+                "designer": "Sumbu",
+                "md5": "03e5bf5640feafce32b0d7d38a78d161",
+                "urls": [
+                    "https://cults3d.com/fr/mod%C3%A8le-3d/outil/the-harvesters-grim-hounds-bikers"
+                ],
+                "support": {
+                    "file": "S_ArmChainaxe1.stl",
+                    "md5": "e44f5b45e1e19c5726261adcca3d81c3"
+                },
+                "dextral": "right",
+                "arm": {
+                    "vertex": 38881
+                }
+            },
+            "Chainaxe 02": {
+                "file": "ArmChainaxe2.stl",
+                "designer": "Sumbu",
+                "md5": "1eefb007840af0c90a49c03ab198df3f",
+                "urls": [
+                    "https://cults3d.com/fr/mod%C3%A8le-3d/outil/the-harvesters-grim-hounds-bikers"
+                ],
+                "support": {
+                    "file": "S_ArmChainaxe2.stl",
+                    "md5": "f901ceef9c15e9e0d113b1ee47805cf1"
+                },
+                "dextral": "right",
+                "arm": {
+                    "vertex": 6839
+                }
+            },
+            "Chainsword 01": {
+                "file": "ArmChainsword1.stl",
+                "designer": "Sumbu",
+                "md5": "28138a6a8e1e264680496b2f7f87f7d2",
+                "urls": [
+                    "https://cults3d.com/fr/mod%C3%A8le-3d/outil/the-harvesters-grim-hounds-bikers"
+                ],
+                "support": {
+                    "file": "S_ArmChainsword1.stl",
+                    "md5": "69bd1af78c9ed3fb736d299fa495b959"
+                },
+                "dextral": "right",
+                "arm": {
+                    "vertex": 26460
+                }
+            },
+            "Chainsword 02": {
+                "file": "ArmChainsword2.stl",
+                "designer": "Sumbu",
+                "md5": "81e692e51bb28b533ec74f2c2331d6ea",
+                "urls": [
+                    "https://cults3d.com/fr/mod%C3%A8le-3d/outil/the-harvesters-grim-hounds-bikers"
+                ],
+                "support": {
+                    "file": "S_ArmChainsword2.stl",
+                    "md5": "88fbf06a10c9219d10f9c487d0f3ddff"
+                },
+                "dextral": "right",
+                "arm": {
+                    "vertex": 27186
+                }
+            }
+        }
+    }
+}

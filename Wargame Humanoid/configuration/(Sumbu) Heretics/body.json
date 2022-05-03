@@ -1,0 +1,152 @@
+{
+    "Heretics - Grim Hounds": {
+        "desc": {
+            "display": "Heretics - Grim Hounds",
+            "path": "Wargame Humanoid/body/Heretics - Grim Hounds/",
+            "nodes": [
+                "body"
+            ]
+        },
+        "stl": {
+            "Neck Breaker": {
+                "file": "TorsoNeckbreaker.stl",
+                "designer": "Sumbu",
+                "md5": "f3c14e0e1cccd65c8648d8ae357b494c",
+                "urls": [
+                    "https://cults3d.com/fr/mod%C3%A8le-3d/outil/the-harvesters-grim-hounds-bikers"
+                ],
+                "support": {
+                    "file": "S_TorsoNeckbreaker.stl",
+                    "md5": "87a45cba6a63c8172683c244674750db"
+                },
+                "leg": {
+                    "vertex": 70756
+                },
+                "backpack": {
+                    "facet": 9568
+                },
+                "head": {
+                    "vertex": 9058
+                },
+                "bitzs": {
+                    "pad L": {
+                        "vertex": 21278
+                    },
+                    "pad R": {
+                        "vertex": 74376
+                    }
+                }
+            },
+            "Shooting Bolter": {
+                "file": "TorsoShootingBolter.stl",
+                "designer": "Sumbu",
+                "md5": "83815e17de7532d349e066018bd8db82",
+                "urls": [
+                    "https://cults3d.com/fr/mod%C3%A8le-3d/outil/the-harvesters-grim-hounds-bikers"
+                ],
+                "support": {
+                    "file": "S_TorsoShootingBolter.stl",
+                    "md5": "806317da7c4f37fc070139faf38115e7"
+                },
+                "leg": {
+                    "vertex": 56814
+                },
+                "backpack": {
+                    "facet": 1801
+                },
+                "head": {
+                    "vertex": 8128
+                },
+                "bitzs": {
+                    "pad L": {
+                        "vertex": 14403
+                    },
+                    "pad R": {
+                        "vertex": 69822
+                    }
+                }
+            },
+            "Sword Axe Bolter 1": {
+                "file": "TorsoSwordAxeBolter1.stl",
+                "designer": "Sumbu",
+                "md5": "1055fa10efc97f4ec801511e19ebc2f8",
+                "urls": [
+                    "https://cults3d.com/fr/mod%C3%A8le-3d/outil/the-harvesters-grim-hounds-bikers"
+                ],
+                "support": {
+                    "file": "S_TorsoSwordAxeBolter1.stl",
+                    "md5": "79a5f30866b622a674a0affa13ffd655"
+                },
+                "leg": {
+                    "vertex": 18278
+                },
+                "backpack": {
+                    "facet": 1543
+                },
+                "head": {
+                    "vertex_list": [
+                        3285,
+                        9677
+                    ]
+                },
+                "arm": {
+                    "right": {
+                        "vertex": 15175
+                    },
+                    "left": {
+                        "right": {
+                            "vertex": 15175
+                        }
+                    }
+                },
+                "bitzs": {
+                    "pad L": {
+                        "vertex": 14382
+                    }
+                }
+            },
+            "Sword Axe Bolter 2": {
+                "file": "TorsoSwordAxeBolter2.stl",
+                "designer": "Sumbu",
+                "md5": "7df6be6c23b25a576e7aa5f3f0b17038",
+                "urls": [
+                    "https://cults3d.com/fr/mod%C3%A8le-3d/outil/the-harvesters-grim-hounds-bikers"
+                ],
+                "support": {
+                    "file": "S_TorsoSwordAxeBolter2.stl",
+                    "md5": "abb65f73c987a4001c6b633ff57d137a"
+                },
+                "leg": {
+                    "vertex": 42201
+                },
+                "backpack": {
+                    "facet": 428
+                },
+                "head": {
+                    "vertex": 19256
+                }
+            },
+            "Two Handed": {
+                "file": "Torsotwohanded.stl",
+                "designer": "Sumbu",
+                "md5": "385b9e9f7bdea77c66f080e43443abd3",
+                "urls": [
+                    "https://cults3d.com/fr/mod%C3%A8le-3d/outil/the-harvesters-grim-hounds-bikers"
+                ],
+                "support": {
+                    "file": "S_Torsotwohanded.stl",
+                    "md5": "43b7bc21842c238b0f1e326dd747b8e1"
+                },
+                "leg": {
+                    "vertex": 46860
+                },
+                "backpack": {
+                    "facet": 433
+                },
+                "head": {
+                    "vertex": 34636
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,239 @@
+{
+    "Heretics - Grim Hounds": {
+        "desc": {
+            "display": "Heretics - Grim Hounds",
+            "path": "Wargame Humanoid/bitz/Heretics - Grim Hounds/",
+            "bitz": true
+        },
+        "stl": {
+            "Flag": {
+                "file": "Flag.stl",
+                "designer": "Sumbu",
+                "md5": "ef55b40484ba80be76b7358241397d0f",
+                "urls": [
+                    "https://cults3d.com/fr/mod%C3%A8le-3d/outil/the-harvesters-grim-hounds-bikers"
+                ],
+                "support": {
+                    "file": "S_Flag.stl",
+                    "md5": "e35aec626eed07250bc83125a70bcce3"
+                },
+                "bitz": {
+                    "vertex": 5151
+                }
+            },
+            "Pad - Bones 1": {
+                "file": "Harvesters Berserker Pad Bones 1.stl",
+                "designer": "Sumbu",
+                "md5": "04b8dc72a2dd09c5b3d15d8ebc070e15",
+                "urls": [
+                    "https://cults3d.com/fr/mod%C3%A8le-3d/outil/the-harvesters-grim-hounds-bikers"
+                ],
+                "bitz": {
+                    "vertex": 49421
+                },
+                "scale": 0.1
+            },
+            "Pad - Bones 2": {
+                "file": "Harvesters Berserker Pad Bones 2.stl",
+                "designer": "Sumbu",
+                "md5": "dc58e31be2e3daffc9112b481f73c641",
+                "urls": [
+                    "https://cults3d.com/fr/mod%C3%A8le-3d/outil/the-harvesters-grim-hounds-bikers"
+                ],
+                "bitz": {
+                    "vertex": 33099
+                }
+            },
+            "Pad - Bones 3": {
+                "file": "Harvesters Berserker Pad Bones 3.stl",
+                "designer": "Sumbu",
+                "md5": "c83473f145f175ef0ce1264a96f7be9b",
+                "urls": [
+                    "https://cults3d.com/fr/mod%C3%A8le-3d/outil/the-harvesters-grim-hounds-bikers"
+                ],
+                "bitz": {
+                    "vertex": 7855
+                }
+            },
+            "Pad - Book": {
+                "file": "Harvesters Berserker Pad Book.stl",
+                "designer": "Sumbu",
+                "md5": "2f5888ffe90821a4cbd765236e5e0a43",
+                "urls": [
+                    "https://cults3d.com/fr/mod%C3%A8le-3d/outil/the-harvesters-grim-hounds-bikers"
+                ],
+                "support": {
+                    "file": "S_Harvesters Pad Book.stl",
+                    "md5": "0c16a40f19dcf1704d9fb85a4ebbcafa"
+                },
+                "bitz": {
+                    "vertex": 33334
+                }
+            },
+            "Pad - Empty": {
+                "file": "Harvesters Berserker Pad empty.stl",
+                "designer": "Sumbu",
+                "md5": "4ccf766de0bc4ffa68b1983d8b4498c5",
+                "urls": [
+                    "https://cults3d.com/fr/mod%C3%A8le-3d/outil/the-harvesters-grim-hounds-bikers"
+                ],
+                "support": {
+                    "file": "S_Harvesters Pad empty.stl",
+                    "md5": "00ce63ccf0706d4d99d1794ff8d6d38f"
+                },
+                "bitz": {
+                    "vertex": 2091
+                }
+            },
+            "Pad - Hellhound": {
+                "file": "Harvesters Berserker Pad Hellhound.stl",
+                "designer": "Sumbu",
+                "md5": "0d9020f28c1b8f4f36e43db55a10f7dd",
+                "urls": [
+                    "https://cults3d.com/fr/mod%C3%A8le-3d/outil/the-harvesters-grim-hounds-bikers"
+                ],
+                "support": {
+                    "file": "S_Harvesters Pad Hellhound.stl",
+                    "md5": "2325da2bb4cfc34dcba9bcf7348e3c8b"
+                },
+                "bitz": {
+                    "vertex": 19033
+                }
+            },
+            "Pad - Hydra 1": {
+                "file": "Harvesters Berserker Pad Hydra 1.stl",
+                "designer": "Sumbu",
+                "md5": "a9c540011b0c04b606c65b01f96c5e11",
+                "urls": [
+                    "https://cults3d.com/fr/mod%C3%A8le-3d/outil/the-harvesters-grim-hounds-bikers"
+                ],
+                "bitz": {
+                    "vertex": 653
+                }
+            },
+            "Pad - Hydra 2": {
+                "file": "Harvesters Berserker Pad Hydra 2.stl",
+                "designer": "Sumbu",
+                "md5": "c559c5cc5bd34fd6ebed679cea1bda00",
+                "urls": [
+                    "https://cults3d.com/fr/mod%C3%A8le-3d/outil/the-harvesters-grim-hounds-bikers"
+                ],
+                "support": {
+                    "file": "S_Harvesters Pad Hydra 2.stl",
+                    "md5": "e218593ffcb266863549aeb6eb0bb0e1"
+                },
+                "bitz": {
+                    "vertex": 144222
+                }
+            },
+            "Pad - Skull 1": {
+                "file": "Harvesters Berserker Pad Skull 1.stl",
+                "designer": "Sumbu",
+                "md5": "1171c808cdea49fd74209c4e3d1baf83",
+                "urls": [
+                    "https://cults3d.com/fr/mod%C3%A8le-3d/outil/the-harvesters-grim-hounds-bikers"
+                ],
+                "bitz": {
+                    "vertex": 8293
+                }
+            },
+            "Pad - Skull 2": {
+                "file": "Harvesters Berserker Pad Skull 2.stl",
+                "designer": "Sumbu",
+                "md5": "031c4c62b3185b398e35853811e8bf41",
+                "urls": [
+                    "https://cults3d.com/fr/mod%C3%A8le-3d/outil/the-harvesters-grim-hounds-bikers"
+                ],
+                "bitz": {
+                    "vertex": 15775
+                }
+            },
+            "Pad - Skull 3": {
+                "file": "Harvesters Berserker Pad Skull 3.stl",
+                "designer": "Sumbu",
+                "md5": "0064cddf9f5af8b5722e13cfba9579bc",
+                "urls": [
+                    "https://cults3d.com/fr/mod%C3%A8le-3d/outil/the-harvesters-grim-hounds-bikers"
+                ],
+                "support": {
+                    "file": "S_Harvesters Pad Skull 3 .stl",
+                    "md5": "aca4d115c75a6c4af54b9d30045c8d0c"
+                },
+                "bitz": {
+                    "vertex": 3143
+                }
+            },
+            "Pad - Skull 4": {
+                "file": "Harvesters Berserker Pad Skull 4.stl",
+                "designer": "Sumbu",
+                "md5": "27d18b2095892d593962b5d2d45e00fa",
+                "urls": [
+                    "https://cults3d.com/fr/mod%C3%A8le-3d/outil/the-harvesters-grim-hounds-bikers"
+                ],
+                "support": {
+                    "file": "S_Harvesters Pad Skull 4.stl",
+                    "md5": "9f915bef5b720b8aff618da3ed185640"
+                },
+                "bitz": {
+                    "vertex": 1113
+                }
+            },
+            "Pistol Holster": {
+                "file": "additional pistol.stl",
+                "designer": "Sumbu",
+                "md5": "7cc7317d972edad5e0cb1d21b4380218",
+                "urls": [
+                    "https://cults3d.com/fr/mod%C3%A8le-3d/outil/the-harvesters-grim-hounds-bikers"
+                ],
+                "support": {
+                    "file": "S_additional pistol.stl",
+                    "md5": "2eeadaf83d3acf2e22f34ee89da63b9f"
+                },
+                "bitz": {
+                    "vertex": 829
+                }
+            },
+            "Chainaxe": {
+                "file": "additionalChainaxe.stl",
+                "designer": "Sumbu",
+                "md5": "9eabe26babd28087d68bacd2a82adeae",
+                "urls": [
+                    "https://cults3d.com/fr/mod%C3%A8le-3d/outil/the-harvesters-grim-hounds-bikers"
+                ],
+                "support": {
+                    "file": "S_additionalChainaxe.stl",
+                    "md5": "db3316952f62bf058be41667f674bccc"
+                },
+                "bitz": {
+                    "face": 33414
+                }
+            },
+            "Chainsword": {
+                "file": "additionalChainsword.stl",
+                "designer": "Sumbu",
+                "md5": "ad3b8e143915a46507f41b877493d0f6",
+                "urls": [
+                    "https://cults3d.com/fr/mod%C3%A8le-3d/outil/the-harvesters-grim-hounds-bikers"
+                ],
+                "support": {
+                    "file": "S_additionalChainsword.stl",
+                    "md5": "8b0365232929429797a81e179922521c"
+                },
+                "bitz": {
+                    "facet": 26
+                }
+            },
+            "42x75": {
+                "file": "42x75.obj",
+                "designer": "Sumbu",
+                "md5": "70617a6bb6a883b3979a732242c18552",
+                "urls": [
+                    "https://cults3d.com/fr/mod%C3%A8le-3d/outil/the-harvesters-grim-hounds-bikers"
+                ],
+                "bitz": {
+                    "vertex": 540
+                }
+            }
+        }
+    }
+}

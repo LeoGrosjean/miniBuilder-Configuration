@@ -1,0 +1,133 @@
+{
+    "Heretics - Grim Hounds": {
+        "desc": {
+            "display": "Heretics - Grim Hounds",
+            "path": "Wargame Humanoid/head/Heretics - Grim Hounds/",
+            "nodes": [
+                "head"
+            ]
+        },
+        "stl": {
+            "Iro Hair": {
+                "file": "HeadIro.stl",
+                "designer": "Sumbu",
+                "md5": "19b31b56bea18c336b8e4cd1bc1df7cb",
+                "urls": [
+                    "https://cults3d.com/fr/mod%C3%A8le-3d/outil/the-harvesters-grim-hounds-bikers"
+                ],
+                "support": {
+                    "file": "S_HeadIro.stl",
+                    "md5": "69a3c8408bd87b3c5dda6be1eead14b1"
+                },
+                "head": {
+                    "vertex": 7862
+                }
+            },
+            "Bald": {
+                "file": "Head.stl",
+                "designer": "Sumbu",
+                "md5": "b76c0a8e52fbc9bbde960e6f54f2406a",
+                "urls": [
+                    "https://cults3d.com/fr/mod%C3%A8le-3d/outil/the-harvesters-grim-hounds-bikers"
+                ],
+                "support": {
+                    "file": "S_Head.stl",
+                    "md5": "03a4c3ee9e577d8e5a6dafcdc4d0496c"
+                },
+                "head": {
+                    "vertex": 1065
+                }
+            },
+            "Skull Helm": {
+                "file": "HeadBikeHelm.stl",
+                "designer": "Sumbu",
+                "md5": "2cfc3a6209d9c87809fdbff34f94a9fd",
+                "urls": [
+                    "https://cults3d.com/fr/mod%C3%A8le-3d/outil/the-harvesters-grim-hounds-bikers"
+                ],
+                "support": {
+                    "file": "S_HeadBikeHelm.stl",
+                    "md5": "b551afd46c557859950f2a5a40734a4b"
+                },
+                "head": {
+                    "vertex": 7987
+                }
+            },
+            "Skull Helm Horns": {
+                "file": "HeadBikeHelmHorns.stl",
+                "designer": "Sumbu",
+                "md5": "82ac0fa87c8cd841a0a5541ff18c2b34",
+                "urls": [
+                    "https://cults3d.com/fr/mod%C3%A8le-3d/outil/the-harvesters-grim-hounds-bikers"
+                ],
+                "support": {
+                    "file": "S_HeadBikeHelmHorns.stl",
+                    "md5": "eb4b06b516eaef7560b0e6aa91e3d16c"
+                },
+                "head": {
+                    "vertex": 19068
+                }
+            },
+            "Skull Helm Iro Hair": {
+                "file": "HeadBikeHelmIro.stl",
+                "designer": "Sumbu",
+                "md5": "1c299ed0c5cdbb30173a73578895150b",
+                "urls": [
+                    "https://cults3d.com/fr/mod%C3%A8le-3d/outil/the-harvesters-grim-hounds-bikers"
+                ],
+                "support": {
+                    "file": "S_HeadBikeHelmIro.stl",
+                    "md5": "e23b085278fe3a0bd4ff4d11f90bd7e4"
+                },
+                "head": {
+                    "vertex": 8893
+                }
+            },
+            "Helm Vampire": {
+                "file": "HeadBikeHelmVampire.stl",
+                "designer": "Sumbu",
+                "md5": "c2ac576038d1cabccb6aa481e5a5dfd9",
+                "urls": [
+                    "https://cults3d.com/fr/mod%C3%A8le-3d/outil/the-harvesters-grim-hounds-bikers"
+                ],
+                "support": {
+                    "file": "S_HeadBikeHelmVampire.stl",
+                    "md5": "c36dfef07ec6c8b2b6d99423170fd94f"
+                },
+                "head": {
+                    "vertex": 33711
+                }
+            },
+            "Face Mask": {
+                "file": "HeadFaceMask.stl",
+                "designer": "Sumbu",
+                "md5": "3f56822690394db9ea33c45c878735db",
+                "urls": [
+                    "https://cults3d.com/fr/mod%C3%A8le-3d/outil/the-harvesters-grim-hounds-bikers"
+                ],
+                "support": {
+                    "file": "S_HeadFaceMask.stl",
+                    "md5": "f71c1cd757a3b6c1d4c455e5b70ba832"
+                },
+                "head": {
+                    "vertex": 10864
+                }
+            },
+            "Grim Hound": {
+                "file": "HeadGrimHound.stl",
+                "designer": "Sumbu",
+                "md5": "3fc75740a108441a4da2e12d77bae60a",
+                "urls": [
+                    "https://cults3d.com/fr/mod%C3%A8le-3d/outil/the-harvesters-grim-hounds-bikers"
+                ],
+                "support": {
+                    "file": "S_HeadGrimHound.stl",
+                    "md5": "325b806b0dad267c78a3e5e9e156c775"
+                },
+                "head": {
+                    "vertex": 15752
+                }
+            }
+        }
+    }
+}

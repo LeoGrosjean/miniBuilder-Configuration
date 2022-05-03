@@ -1,0 +1,93 @@
+{
+    "Heretics - Grim Hounds": {
+        "desc": {
+            "display": "Heretics - Grim Hounds",
+            "path": "Wargame Humanoid/backpack/Heretics - Grim Hounds/",
+            "nodes": [
+                "backpack"
+            ]
+        },
+        "stl": {
+            "Harvesters Berserker 2": {
+                "file": "Harvesters Berserker Backpack 2.stl",
+                "designer": "Sumbu",
+                "md5": "d55b5d28ecabd8f12c8a5fc891a29724",
+                "urls": [
+                    "https://cults3d.com/fr/mod%C3%A8le-3d/outil/the-harvesters-grim-hounds-bikers"
+                ],
+                "support": {
+                    "file": "S_Harvesters Backpack 2.stl",
+                    "md5": "0c3f30538ccb963fd8c4f1da62c33791"
+                },
+                "backpack": {
+                    "vertex_list": [
+                        39156,
+                        53133,
+                        59733,
+                        73018
+                    ]
+                }
+            },
+            "Harvesters Berserker 6": {
+                "file": "Harvesters Berserker Backpack 6.stl",
+                "designer": "Sumbu",
+                "md5": "d9d661cbbcff8c77e0f23d63119f76ba",
+                "urls": [
+                    "https://cults3d.com/fr/mod%C3%A8le-3d/outil/the-harvesters-grim-hounds-bikers"
+                ],
+                "support": {
+                    "file": "S_Harvesters Backpack 6.stl",
+                    "md5": "c66c83c1dca70903707507a0dd970417"
+                },
+                "backpack": {
+                    "vertex_list": [
+                        2752,
+                        2753,
+                        28521,
+                        28522
+                    ]
+                }
+            },
+            "Harvesters Berserker 7": {
+                "file": "Harvesters Berserker Backpack 7.stl",
+                "designer": "Sumbu",
+                "md5": "17bbae5c1c82352ec36aeac2181ffd9d",
+                "urls": [
+                    "https://cults3d.com/fr/mod%C3%A8le-3d/outil/the-harvesters-grim-hounds-bikers"
+                ],
+                "support": {
+                    "file": "S_Harvesters Backpack 7.stl",
+                    "md5": "468be3536c84a2eac5967592d4f88621"
+                },
+                "backpack": {
+                    "vertex_list": [
+                        56961,
+                        56962,
+                        74191,
+                        74192
+                    ]
+                }
+            },
+            "Harvesters Berserker Champion": {
+                "file": "Harvesters Berserker Backpack Champion.stl",
+                "designer": "Sumbu",
+                "md5": "77f91d7aab4c30d32431f723e62d2013",
+                "urls": [
+                    "https://cults3d.com/fr/mod%C3%A8le-3d/outil/the-harvesters-grim-hounds-bikers"
+                ],
+                "support": {
+                    "file": "S_Harvesters Backpack Champion.stl",
+                    "md5": "458f1ae769bb831deefe9a7703175e75"
+                },
+                "backpack": {
+                    "vertex_list": [
+                        97707,
+                        97714,
+                        107638,
+                        107643
+                    ]
+                }
+            }
+        }
+    }
+}

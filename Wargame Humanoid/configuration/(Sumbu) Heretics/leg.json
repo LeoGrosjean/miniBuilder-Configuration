@@ -1,0 +1,108 @@
+{
+    "Heretics - Grim Hounds": {
+        "desc": {
+            "display": "Heretics - Grim Hounds",
+            "path": "Wargame Humanoid/leg/Heretics - Grim Hounds/",
+            "nodes": [
+                "leg"
+            ]
+        },
+        "stl": {
+            "Bike - Cacophony": {
+                "file": "BikeCacophony.stl",
+                "designer": "Sumbu",
+                "md5": "ee0247972a722a553f46e1dd02666e29",
+                "urls": [
+                    "https://cults3d.com/fr/mod%C3%A8le-3d/outil/the-harvesters-grim-hounds-bikers"
+                ],
+                "support": {
+                    "file": "S_BikeCacophony.stl",
+                    "md5": "7c096d17889f2464bc161d27707f0447"
+                },
+                "leg": {
+                    "vertex": 50281
+                },
+                "bitzs": {
+                    "base": {
+                        "vertex": 155316
+                    }
+                }
+            },
+            "Bike - Hydra": {
+                "file": "BikeHydra.stl",
+                "designer": "Sumbu",
+                "md5": "321dc8b9af2c98650fd1bf5b08bcf70d",
+                "urls": [
+                    "https://cults3d.com/fr/mod%C3%A8le-3d/outil/the-harvesters-grim-hounds-bikers"
+                ],
+                "support": {
+                    "file": "S_BikeHydra.stl",
+                    "md5": "3c72ac6694eb3cee4037c4bd130eecf6"
+                },
+                "leg": {
+                    "vertex": 67525
+                }
+            },
+            "Bike - Possessed": {
+                "file": "BikePossessed.stl",
+                "designer": "Sumbu",
+                "md5": "9427ad119327eb59fb5a63f89a7c6d9d",
+                "urls": [
+                    "https://cults3d.com/fr/mod%C3%A8le-3d/outil/the-harvesters-grim-hounds-bikers"
+                ],
+                "support": {
+                    "file": "S_BikePossessed.stl",
+                    "md5": "abd5cee68e77820bee119833c3ae4941"
+                },
+                "leg": {
+                    "vertex": 85843
+                }
+            },
+            "Bike - Skulls": {
+                "file": "BikeSkulls.stl",
+                "designer": "Sumbu",
+                "md5": "a66bd2fe90004883070854ef84a1ffd6",
+                "urls": [
+                    "https://cults3d.com/fr/mod%C3%A8le-3d/outil/the-harvesters-grim-hounds-bikers"
+                ],
+                "support": {
+                    "file": "S_BikeSkulls.stl",
+                    "md5": "ffe5c2a1ac81776f13f1497421f449a1"
+                },
+                "leg": {
+                    "vertex": 690375
+                }
+            },
+            "Bike - Skulls Dynamic": {
+                "file": "BikeSkullsDynamic.stl",
+                "designer": "Sumbu",
+                "md5": "59b5e5a2b6433382cbe8f8d270e95eb1",
+                "urls": [
+                    "https://cults3d.com/fr/mod%C3%A8le-3d/outil/the-harvesters-grim-hounds-bikers"
+                ],
+                "support": {
+                    "file": "S_BikeSkullsDynamic.stl",
+                    "md5": "b5626744a08688d4262699da51b9f86a"
+                },
+                "leg": {
+                    "vertex": 352237
+                }
+            },
+            "Bike - Vampire": {
+                "file": "BikeVampire.stl",
+                "designer": "Sumbu",
+                "md5": "073c22384db428e9cf6c34ed989f47c7",
+                "urls": [
+                    "https://cults3d.com/fr/mod%C3%A8le-3d/outil/the-harvesters-grim-hounds-bikers"
+                ],
+                "support": {
+                    "file": "S_BikeVampire.stl",
+                    "md5": "c672fc4ce008324b381c2ad94b32a41d"
+                },
+                "leg": {
+                    "vertex": 287891
+                }
+            }
+        }
+    }
+}
