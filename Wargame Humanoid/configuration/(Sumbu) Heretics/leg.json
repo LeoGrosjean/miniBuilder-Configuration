@@ -41,6 +41,11 @@
                 },
                 "leg": {
                     "vertex": 67525
+                },
+                "bitzs": {
+                    "base": {
+                        "vertex": 230786
+                    }
                 }
             },
             "Bike - Possessed": {
@@ -56,6 +61,11 @@
                 },
                 "leg": {
                     "vertex": 85843
+                },
+                "bitzs": {
+                    "base": {
+                        "vertex": 636887
+                    }
                 }
             },
             "Bike - Skulls": {
@@ -71,6 +81,14 @@
                 },
                 "leg": {
                     "vertex": 690375
+                },
+                "bitzs": {
+                    "flag": {
+                        "face": 564418
+                    },
+                    "base": {
+                        "vertex": 35504
+                    }
                 }
             },
             "Bike - Skulls Dynamic": {
@@ -86,6 +104,14 @@
                 },
                 "leg": {
                     "vertex": 352237
+                },
+                "bitzs": {
+                    "flag": {
+                        "face": 671812
+                    },
+                    "base": {
+                        "vertex": 264228
+                    }
                 }
             },
             "Bike - Vampire": {
@@ -101,6 +127,11 @@
                 },
                 "leg": {
                     "vertex": 287891
+                },
+                "bitzs": {
+                    "base": {
+                        "vertex": 774176
+                    }
                 }
             }
         }

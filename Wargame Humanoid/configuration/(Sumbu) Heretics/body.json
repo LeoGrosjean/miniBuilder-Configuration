@@ -124,6 +124,11 @@
                 },
                 "head": {
                     "vertex": 19256
+                },
+                "bitzs": {
+                    "pad L": {
+                        "vertex": 11856
+                    }
                 }
             },
             "Two Handed": {
@@ -145,6 +150,14 @@
                 },
                 "head": {
                     "vertex": 34636
+                },
+                "bitzs": {
+                    "pad L": {
+                        "vertex": 31557
+                    },
+                    "pad R": {
+                        "vertex": 62404
+                    }
                 }
             }
         }
