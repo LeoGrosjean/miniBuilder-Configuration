@@ -1,5 +1,22 @@
 {
    "Wargame Humanoid": {
+      "free": [
+         "arm.json",
+         "backpack.json",
+         "bitz.json",
+         "body.json",
+         "hand.json",
+         "head.json",
+         "leg.json"
+      ],
+      "(Sumbu) Heretics": [
+         "arm.json",
+         "backpack.json",
+         "bitz.json",
+         "body.json",
+         "head.json",
+         "leg.json"
+      ],
       "(TMC) TEMPEST LEGION": [
          "arm.json",
          "backpack.json",
@@ -12,15 +29,6 @@
          "arm.json",
          "bitz.json",
          "body.json"
-      ],
-      "free": [
-         "arm.json",
-         "backpack.json",
-         "bitz.json",
-         "body.json",
-         "hand.json",
-         "head.json",
-         "leg.json"
       ],
       "GUERONVESA": [
          "backpack.json",
